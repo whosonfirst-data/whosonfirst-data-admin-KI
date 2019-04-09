@@ -1,0 +1,62 @@
+{
+  "id": 890413053,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"174.24865,-0.54652,174.24865,-0.54652",
+    "geom:latitude":-0.54652,
+    "geom:longitude":174.24865,
+    "gn:country":"KI",
+    "gn:fcode":"PPL",
+    "gn:pop":210,
+    "iso:country":"KI",
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "qs:name":"Abamakoro Village",
+    "qs:photos_9r":0,
+    "qs:photos_sr":0,
+    "qs:pop_sr":"2",
+    "src:population":"geonames",
+    "wd:wordcount":84,
+    "wof:belongsto":[
+        85632709
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2110133,
+        "gp:id":12514196,
+        "qs:id":572024,
+        "wk:page":"Autukia"
+    },
+    "wof:country":"KI",
+    "wof:created":1469050986,
+    "wof:geomhash":"3450cb58123bc9ce082eabd855b9363b",
+    "wof:hierarchy":[
+        {
+            "country_id":85632709,
+            "locality_id":890413053
+        }
+    ],
+    "wof:id":890413053,
+    "wof:lastmodified":1527727170,
+    "wof:name":"Abamakoro Village",
+    "wof:parent_id":-1,
+    "wof:placetype":"locality",
+    "wof:population":210,
+    "wof:population_rank":2,
+    "wof:repo":"whosonfirst-data-admin-ki",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    174.24865,
+    -0.54652,
+    174.24865,
+    -0.54652
+],
+  "geometry": {"coordinates":[174.24865,-0.54652],"type":"Point"}
+}

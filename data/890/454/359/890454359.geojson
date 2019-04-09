@@ -1,0 +1,62 @@
+{
+  "id": 890454359,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-159.36083,3.85049,-159.36083,3.85049",
+    "geom:latitude":3.85049,
+    "geom:longitude":-159.36083,
+    "gn:country":"KI",
+    "gn:fcode":"PPL",
+    "gn:pop":177,
+    "iso:country":"KI",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "qs:name":"Aontena Gilberts Village",
+    "qs:photos_9r":0,
+    "qs:photos_sr":0,
+    "qs:pop_sr":"1",
+    "src:population":"geonames",
+    "wd:wordcount":1093,
+    "wof:belongsto":[
+        85632709
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7521883,
+        "qs:id":689664,
+        "wd:id":"Q127335",
+        "wk:page":"Tabuaeran"
+    },
+    "wof:country":"KI",
+    "wof:created":1469052896,
+    "wof:geomhash":"67de6f8b5759435cf7a61b66179dace5",
+    "wof:hierarchy":[
+        {
+            "country_id":85632709,
+            "locality_id":890454359
+        }
+    ],
+    "wof:id":890454359,
+    "wof:lastmodified":1527735429,
+    "wof:name":"Aontena Gilberts Village",
+    "wof:parent_id":-1,
+    "wof:placetype":"locality",
+    "wof:population":177,
+    "wof:population_rank":1,
+    "wof:repo":"whosonfirst-data-admin-ki",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -159.36083,
+    3.85049,
+    -159.36083,
+    3.85049
+],
+  "geometry": {"coordinates":[-159.36082999999999,3.85049],"type":"Point"}
+}

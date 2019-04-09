@@ -1,0 +1,67 @@
+{
+  "id": 890413093,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"175.98072,-1.32957,175.98072,-1.32957",
+    "geom:latitude":-1.32957,
+    "geom:longitude":175.98072,
+    "gn:country":"KI",
+    "gn:fcode":"ATOL",
+    "gn:pop":2169,
+    "iso:country":"KI",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "mz:is_funky":1,
+    "name:unk_x_variant":[
+        "Peroat"
+    ],
+    "qs:name":"Beru Island",
+    "qs:photos_9r":0,
+    "qs:photos_sr":0,
+    "qs:pop_sr":"4",
+    "src:population":"geonames",
+    "wd:wordcount":688,
+    "wof:belongsto":[
+        85632709
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2110250,
+        "gp:id":12514188,
+        "qs:id":572055,
+        "wd:id":"Q613386",
+        "wk:page":"Beru Island"
+    },
+    "wof:country":"KI",
+    "wof:created":1469050988,
+    "wof:geomhash":"a6f2d039047bd725c10ee6f6b0271464",
+    "wof:hierarchy":[
+        {
+            "country_id":85632709,
+            "locality_id":890413093
+        }
+    ],
+    "wof:id":890413093,
+    "wof:lastmodified":1527727173,
+    "wof:name":"Beru Island",
+    "wof:parent_id":-1,
+    "wof:placetype":"locality",
+    "wof:population":2169,
+    "wof:population_rank":4,
+    "wof:repo":"whosonfirst-data-admin-ki",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    175.98072,
+    -1.32957,
+    175.98072,
+    -1.32957
+],
+  "geometry": {"coordinates":[175.98071999999999,-1.32957],"type":"Point"}
+}

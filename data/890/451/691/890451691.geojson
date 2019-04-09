@@ -1,0 +1,62 @@
+{
+  "id": 890451691,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"175.0153,-1.4926,175.0153,-1.4926",
+    "geom:latitude":-1.4926,
+    "geom:longitude":175.0153,
+    "gn:country":"KI",
+    "gn:fcode":"ADMD",
+    "gn:pop":1298,
+    "iso:country":"KI",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:unk_x_variant":[
+        "Tabiteuea Maiaki"
+    ],
+    "qs:name":"Tabiteuea South",
+    "qs:photos_9r":0,
+    "qs:photos_sr":0,
+    "qs:pop_sr":"3",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        85632709
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7576574,
+        "qs:id":693259
+    },
+    "wof:country":"KI",
+    "wof:created":1469052790,
+    "wof:geomhash":"171e18443399e1a601d33fb2ad65919f",
+    "wof:hierarchy":[
+        {
+            "country_id":85632709,
+            "localadmin_id":890451691
+        }
+    ],
+    "wof:id":890451691,
+    "wof:lastmodified":1505343641,
+    "wof:name":"Tabiteuea South",
+    "wof:parent_id":-1,
+    "wof:placetype":"localadmin",
+    "wof:population":1298,
+    "wof:population_rank":3,
+    "wof:repo":"whosonfirst-data-admin-ki",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    175.0153,
+    -1.4926,
+    175.0153,
+    -1.4926
+],
+  "geometry": {"coordinates":[175.0153,-1.4926],"type":"Point"}
+}

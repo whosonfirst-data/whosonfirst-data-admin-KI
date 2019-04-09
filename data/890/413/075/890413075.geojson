@@ -1,0 +1,62 @@
+{
+  "id": 890413075,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"174.72788,-1.178,174.72788,-1.178",
+    "geom:latitude":-1.178,
+    "geom:longitude":174.72788,
+    "gn:country":"KI",
+    "gn:fcode":"PPL",
+    "gn:pop":814,
+    "iso:country":"KI",
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "qs:name":"Eita Village",
+    "qs:photos_9r":0,
+    "qs:photos_sr":0,
+    "qs:pop_sr":"2",
+    "src:population":"geonames",
+    "wd:wordcount":1710,
+    "wof:belongsto":[
+        85632709
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2110221,
+        "gp:id":12514197,
+        "qs:id":572047,
+        "wk:page":"South Tarawa"
+    },
+    "wof:country":"KI",
+    "wof:created":1469050987,
+    "wof:geomhash":"efc4f7661b02fc7aad3899a1e86d64f4",
+    "wof:hierarchy":[
+        {
+            "country_id":85632709,
+            "locality_id":890413075
+        }
+    ],
+    "wof:id":890413075,
+    "wof:lastmodified":1527727172,
+    "wof:name":"Eita Village",
+    "wof:parent_id":-1,
+    "wof:placetype":"locality",
+    "wof:population":814,
+    "wof:population_rank":2,
+    "wof:repo":"whosonfirst-data-admin-ki",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    174.72788,
+    -1.178,
+    174.72788,
+    -1.178
+],
+  "geometry": {"coordinates":[174.72788,-1.178],"type":"Point"}
+}

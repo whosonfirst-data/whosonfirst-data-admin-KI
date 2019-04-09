@@ -1,0 +1,75 @@
+{
+  "id": 890445333,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"176.47431,-1.38369,176.47431,-1.38369",
+    "geom:latitude":-1.38369,
+    "geom:longitude":176.47431,
+    "gn:country":"KI",
+    "gn:fcode":"PPL",
+    "gn:pop":316,
+    "iso:country":"KI",
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "name:dut_x_preferred":[
+        "Nikumanu"
+    ],
+    "name:eng_x_preferred":[
+        "Nikumanu"
+    ],
+    "name:swe_x_preferred":[
+        "Nikumanu Village"
+    ],
+    "name:unk_x_variant":[
+        "Nukumanu"
+    ],
+    "qs:name":"Nikumanu Village",
+    "qs:photos_9r":0,
+    "qs:photos_sr":0,
+    "qs:pop_sr":"2",
+    "src:population":"geonames",
+    "wd:wordcount":222,
+    "wof:belongsto":[
+        85632709
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2110159,
+        "gp:id":12514195,
+        "qs:id":572031,
+        "wd:id":"Q7036739",
+        "wk:page":"Tabomatang"
+    },
+    "wof:country":"KI",
+    "wof:created":1469052506,
+    "wof:geomhash":"b1ce4bb1b723b145adca09d0dc36799f",
+    "wof:hierarchy":[
+        {
+            "country_id":85632709,
+            "locality_id":890445333
+        }
+    ],
+    "wof:id":890445333,
+    "wof:lastmodified":1527792871,
+    "wof:name":"Nikumanu Village",
+    "wof:parent_id":-1,
+    "wof:placetype":"locality",
+    "wof:population":316,
+    "wof:population_rank":2,
+    "wof:repo":"whosonfirst-data-admin-ki",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    176.47431,
+    -1.38369,
+    176.47431,
+    -1.38369
+],
+  "geometry": {"coordinates":[176.47431,-1.38369],"type":"Point"}
+}

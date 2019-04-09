@@ -1,0 +1,66 @@
+{
+  "id": 890413105,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"172.98506,1.87901,172.98506,1.87901",
+    "geom:latitude":1.87901,
+    "geom:longitude":172.98506,
+    "gn:country":"KI",
+    "gn:fcode":"PPL",
+    "gn:pop":372,
+    "iso:country":"KI",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:unk_x_variant":[
+        "Aonobuaba"
+    ],
+    "qs:name":"Aonobuaka Village",
+    "qs:photos_9r":0,
+    "qs:photos_sr":0,
+    "qs:pop_sr":"2",
+    "src:population":"geonames",
+    "wd:wordcount":68,
+    "wof:belongsto":[
+        85632709
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2110273,
+        "gp:id":12514187,
+        "qs:id":572060,
+        "wd:id":"Q4778700",
+        "wk:page":"Aonobuaka"
+    },
+    "wof:country":"KI",
+    "wof:created":1469050988,
+    "wof:geomhash":"62bf0778f8b2fdf1eae0cca8c5b73fb2",
+    "wof:hierarchy":[
+        {
+            "country_id":85632709,
+            "locality_id":890413105
+        }
+    ],
+    "wof:id":890413105,
+    "wof:lastmodified":1527727169,
+    "wof:name":"Aonobuaka Village",
+    "wof:parent_id":-1,
+    "wof:placetype":"locality",
+    "wof:population":372,
+    "wof:population_rank":2,
+    "wof:repo":"whosonfirst-data-admin-ki",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    172.98506,
+    1.87901,
+    172.98506,
+    1.87901
+],
+  "geometry": {"coordinates":[172.98506,1.87901],"type":"Point"}
+}

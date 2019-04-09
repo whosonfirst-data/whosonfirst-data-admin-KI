@@ -1,0 +1,63 @@
+{
+  "id": 890442569,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"173.13421,1.38831,173.13421,1.38831",
+    "geom:latitude":1.38831,
+    "geom:longitude":173.13421,
+    "gn:country":"KI",
+    "gn:fcode":"PPL",
+    "gn:pop":91,
+    "iso:country":"KI",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "qs:name":"Tanaea Village",
+    "qs:photos_9r":0,
+    "qs:photos_sr":0,
+    "qs:pop_sr":"1",
+    "src:population":"geonames",
+    "wd:wordcount":1710,
+    "wof:belongsto":[
+        85632709
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7577069,
+        "gp:id":12514189,
+        "qs:id":693319,
+        "wd:id":"Q131233",
+        "wk:page":"South Tarawa"
+    },
+    "wof:country":"KI",
+    "wof:created":1469052367,
+    "wof:geomhash":"b8cf087b83f9d48589b9ecb3ad2d8d32",
+    "wof:hierarchy":[
+        {
+            "country_id":85632709,
+            "locality_id":890442569
+        }
+    ],
+    "wof:id":890442569,
+    "wof:lastmodified":1527792851,
+    "wof:name":"Tanaea Village",
+    "wof:parent_id":-1,
+    "wof:placetype":"locality",
+    "wof:population":91,
+    "wof:population_rank":1,
+    "wof:repo":"whosonfirst-data-admin-ki",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    173.13421,
+    1.38831,
+    173.13421,
+    1.38831
+],
+  "geometry": {"coordinates":[173.13421,1.38831],"type":"Point"}
+}

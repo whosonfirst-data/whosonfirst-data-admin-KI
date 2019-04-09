@@ -1,0 +1,83 @@
+{
+  "id": 890429087,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"176.46412,-1.36567,176.46412,-1.36567",
+    "geom:latitude":-1.36567,
+    "geom:longitude":176.46412,
+    "gn:country":"KI",
+    "gn:fcode":"ADM2",
+    "gn:pop":1912,
+    "iso:country":"KI",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ell_x_preferred":[
+        "\u039d\u03b9\u03ba\u03bf\u03c5\u03bd\u03ac\u03bf\u03c5"
+    ],
+    "name:fas_x_preferred":[
+        "\u0646\u06cc\u06a9\u0648\u0646\u0627\u0648"
+    ],
+    "name:heb_x_preferred":[
+        "\u05e0\u05d9\u05e7\u05d5\u05e0\u05d0\u05d5"
+    ],
+    "name:kor_x_preferred":[
+        "\ub2c8\ucfe0\ub098\uc6b0 \uc12c"
+    ],
+    "name:mkd_x_preferred":[
+        "\u041d\u0438\u043a\u0443\u043d\u0430\u0443"
+    ],
+    "name:rus_x_preferred":[
+        "\u041d\u0438\u043a\u0443\u043d\u0430\u0443"
+    ],
+    "name:zho_x_preferred":[
+        "\u5c3c\u5eab\u7459\u5cf6"
+    ],
+    "qs:name":"Nikunau",
+    "qs:photos_9r":0,
+    "qs:photos_sr":0,
+    "qs:pop_sr":"3",
+    "src:population":"geonames",
+    "wd:wordcount":3054,
+    "wof:belongsto":[
+        85632709
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7521602,
+        "qs:id":689638,
+        "wd:id":"Q1059287",
+        "wk:page":"Nikunau"
+    },
+    "wof:country":"KI",
+    "wof:created":1469051792,
+    "wof:geomhash":"91728e6f5dce21939fc54c869ed3c04f",
+    "wof:hierarchy":[
+        {
+            "country_id":85632709,
+            "county_id":890429087
+        }
+    ],
+    "wof:id":890429087,
+    "wof:lastmodified":1527792793,
+    "wof:name":"Nikunau",
+    "wof:parent_id":-1,
+    "wof:placetype":"county",
+    "wof:population":1912,
+    "wof:population_rank":3,
+    "wof:repo":"whosonfirst-data-admin-ki",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    176.46412,
+    -1.36567,
+    176.46412,
+    -1.36567
+],
+  "geometry": {"coordinates":[176.46412000000001,-1.36567],"type":"Point"}
+}

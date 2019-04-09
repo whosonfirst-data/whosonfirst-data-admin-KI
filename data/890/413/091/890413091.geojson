@@ -1,0 +1,63 @@
+{
+  "id": 890413091,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"172.92105,1.35797,172.92105,1.35797",
+    "geom:latitude":1.35797,
+    "geom:longitude":172.92105,
+    "gn:country":"KI",
+    "gn:fcode":"PPL",
+    "gn:pop":12509,
+    "iso:country":"KI",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "qs:name":"Betio Village",
+    "qs:photos_9r":0,
+    "qs:photos_sr":0,
+    "qs:pop_sr":"6",
+    "src:population":"geonames",
+    "wd:wordcount":1710,
+    "wof:belongsto":[
+        85632709
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2110248,
+        "gp:id":12514189,
+        "qs:id":572054,
+        "wd:id":"Q131233",
+        "wk:page":"South Tarawa"
+    },
+    "wof:country":"KI",
+    "wof:created":1469050988,
+    "wof:geomhash":"35a44bf796e33a5a6c5a5e4522640e42",
+    "wof:hierarchy":[
+        {
+            "country_id":85632709,
+            "locality_id":890413091
+        }
+    ],
+    "wof:id":890413091,
+    "wof:lastmodified":1527727170,
+    "wof:name":"Betio Village",
+    "wof:parent_id":-1,
+    "wof:placetype":"locality",
+    "wof:population":12509,
+    "wof:population_rank":6,
+    "wof:repo":"whosonfirst-data-admin-ki",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    172.92105,
+    1.35797,
+    172.92105,
+    1.35797
+],
+  "geometry": {"coordinates":[172.92105000000001,1.35797],"type":"Point"}
+}

@@ -1,0 +1,65 @@
+{
+  "id": 890424291,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"173.04259,1.35317,173.04259,1.35317",
+    "geom:latitude":1.35317,
+    "geom:longitude":173.04259,
+    "gn:country":"KI",
+    "gn:fcode":"PPL",
+    "gn:pop":1688,
+    "iso:country":"KI",
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "qs:name":"Ambo Village",
+    "qs:photos_9r":0,
+    "qs:photos_sr":0,
+    "qs:pop_sr":"3",
+    "src:population":"geonames",
+    "wd:elevation":2486.0,
+    "wd:latitude":"-10.133333333",
+    "wd:longitude":"-76.2",
+    "wd:wordcount":51,
+    "wof:belongsto":[
+        85632709
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7601765,
+        "gp:id":12514189,
+        "qs:id":693609,
+        "wk:page":"Ambo, Peru"
+    },
+    "wof:country":"KI",
+    "wof:created":1469051538,
+    "wof:geomhash":"1da0a58ffc1274f8023061f31cf0b4b2",
+    "wof:hierarchy":[
+        {
+            "country_id":85632709,
+            "locality_id":890424291
+        }
+    ],
+    "wof:id":890424291,
+    "wof:lastmodified":1527727267,
+    "wof:name":"Ambo Village",
+    "wof:parent_id":-1,
+    "wof:placetype":"locality",
+    "wof:population":1688,
+    "wof:population_rank":3,
+    "wof:repo":"whosonfirst-data-admin-ki",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    173.04259,
+    1.35317,
+    173.04259,
+    1.35317
+],
+  "geometry": {"coordinates":[173.04258999999999,1.35317],"type":"Point"}
+}

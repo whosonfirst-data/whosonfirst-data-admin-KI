@@ -1,0 +1,62 @@
+{
+  "id": 890422431,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"172.95972,3.17315,172.95972,3.17315",
+    "geom:latitude":3.17315,
+    "geom:longitude":172.95972,
+    "gn:country":"KI",
+    "gn:fcode":"PPL",
+    "gn:pop":635,
+    "iso:country":"KI",
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "qs:name":"Kuma Village",
+    "qs:photos_9r":0,
+    "qs:photos_sr":0,
+    "qs:pop_sr":"2",
+    "src:population":"geonames",
+    "wd:wordcount":194,
+    "wof:belongsto":[
+        85632709
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2110193,
+        "gp:id":12514190,
+        "qs:id":572038,
+        "wk:page":"Kuma, Kumamoto"
+    },
+    "wof:country":"KI",
+    "wof:created":1469051444,
+    "wof:geomhash":"165f9342cd3c2bdba22233a6c14f2e45",
+    "wof:hierarchy":[
+        {
+            "country_id":85632709,
+            "locality_id":890422431
+        }
+    ],
+    "wof:id":890422431,
+    "wof:lastmodified":1527727160,
+    "wof:name":"Kuma Village",
+    "wof:parent_id":-1,
+    "wof:placetype":"locality",
+    "wof:population":635,
+    "wof:population_rank":2,
+    "wof:repo":"whosonfirst-data-admin-ki",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    172.95972,
+    3.17315,
+    172.95972,
+    3.17315
+],
+  "geometry": {"coordinates":[172.95972,3.17315],"type":"Point"}
+}

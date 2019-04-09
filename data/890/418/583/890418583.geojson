@@ -1,0 +1,61 @@
+{
+  "id": 890418583,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"172.99656,3.38816,172.99656,3.38816",
+    "geom:latitude":3.38816,
+    "geom:longitude":172.99656,
+    "gn:country":"KI",
+    "gn:fcode":"ADM2",
+    "gn:pop":2385,
+    "iso:country":"KI",
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "qs:name":"Makin",
+    "qs:photos_9r":0,
+    "qs:photos_sr":0,
+    "qs:pop_sr":"4",
+    "src:population":"geonames",
+    "wd:wordcount":123,
+    "wof:belongsto":[
+        85632709
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7521596,
+        "qs:id":689632,
+        "wk:page":"Makin"
+    },
+    "wof:country":"KI",
+    "wof:created":1469051253,
+    "wof:geomhash":"c83e64a89f545ea47554371d9c8a2a48",
+    "wof:hierarchy":[
+        {
+            "country_id":85632709,
+            "county_id":890418583
+        }
+    ],
+    "wof:id":890418583,
+    "wof:lastmodified":1527792817,
+    "wof:name":"Makin",
+    "wof:parent_id":-1,
+    "wof:placetype":"county",
+    "wof:population":2385,
+    "wof:population_rank":4,
+    "wof:repo":"whosonfirst-data-admin-ki",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    172.99656,
+    3.38816,
+    172.99656,
+    3.38816
+],
+  "geometry": {"coordinates":[172.99655999999999,3.38816],"type":"Point"}
+}

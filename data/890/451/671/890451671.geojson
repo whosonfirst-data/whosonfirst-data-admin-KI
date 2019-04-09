@@ -1,0 +1,66 @@
+{
+  "id": 890451671,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"175.9798,-2.50016,175.9798,-2.50016",
+    "geom:latitude":-2.50016,
+    "geom:longitude":175.9798,
+    "gn:country":"KI",
+    "gn:fcode":"PPL",
+    "gn:pop":559,
+    "iso:country":"KI",
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "qs:name":"Bakaka Village",
+    "qs:photos_9r":0,
+    "qs:photos_sr":0,
+    "qs:pop_sr":"2",
+    "src:population":"geonames",
+    "wd:wordcount":3781,
+    "wof:belongsto":[
+        102191583,
+        85632709,
+        85681277
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7576334,
+        "gp:id":12514198,
+        "qs:id":693236,
+        "wk:page":"Gilbert Islands"
+    },
+    "wof:country":"KI",
+    "wof:created":1469052789,
+    "wof:geomhash":"565bdd76773e7cb95b3e1a61962fa84d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191583,
+            "country_id":85632709,
+            "locality_id":890451671,
+            "region_id":85681277
+        }
+    ],
+    "wof:id":890451671,
+    "wof:lastmodified":1527792939,
+    "wof:name":"Bakaka Village",
+    "wof:parent_id":85681277,
+    "wof:placetype":"locality",
+    "wof:population":559,
+    "wof:population_rank":2,
+    "wof:repo":"whosonfirst-data-admin-ki",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    175.9798,
+    -2.50016,
+    175.9798,
+    -2.50016
+],
+  "geometry": {"coordinates":[175.97980000000001,-2.50016],"type":"Point"}
+}

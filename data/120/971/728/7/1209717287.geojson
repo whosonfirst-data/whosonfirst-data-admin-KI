@@ -1,0 +1,65 @@
+{
+  "id": 1209717287,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"2018-09-06",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-174.12613,-3.59534,-174.12613,-3.59534",
+    "geom:latitude":-3.59534,
+    "geom:longitude":-174.12613,
+    "gn:admin1_code":"3.0",
+    "gn:admin2_code":"MK",
+    "gn:asciiname":"Digger Settlement 1870",
+    "gn:country_code":"KI",
+    "gn:dem":8,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLQ",
+    "gn:geonameid":7576089,
+    "gn:latitude":-3.59534,
+    "gn:longitude":-174.12613,
+    "gn:modification_date":"2010-10-13",
+    "gn:name":"Digger Settlement 1870",
+    "gn:population":0,
+    "gn:timezone":"Pacific/Enderbury",
+    "iso:country":"KI",
+    "mz:hierarchy_label":1,
+    "mz:is_current":0,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191583,
+        85632709
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7576089
+    },
+    "wof:country":"KI",
+    "wof:geomhash":"87b4e5d3fc36eba04cd4dbcae1a03fe1",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191583,
+            "country_id":85632709,
+            "locality_id":1209717287,
+            "region_id":-1
+        }
+    ],
+    "wof:id":1209717287,
+    "wof:lastmodified":1536387989,
+    "wof:name":"Digger Settlement 1870",
+    "wof:parent_id":-1,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ki",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -174.12613000000005,
+    -3.59534,
+    -174.12613000000005,
+    -3.59534
+],
+  "geometry": {"coordinates":[-174.12613000000005,-3.59534],"type":"Point"}
+}

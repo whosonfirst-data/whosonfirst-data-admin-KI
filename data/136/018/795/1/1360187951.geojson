@@ -1,0 +1,62 @@
+{
+  "id": 1360187951,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"2018-09-06",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-155.92633,-5.63398,-155.92633,-5.63398",
+    "geom:latitude":-5.63398,
+    "geom:longitude":-155.92633,
+    "gn:admin1_code":"2.0",
+    "gn:admin2_code":"SB",
+    "gn:asciiname":"Diggers Settlement",
+    "gn:country_code":"KI",
+    "gn:dem":7,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLQ",
+    "gn:geonameid":7521741,
+    "gn:latitude":-5.63398,
+    "gn:longitude":-155.92633,
+    "gn:modification_date":"2010-08-19",
+    "gn:name":"Diggers Settlement",
+    "gn:population":0,
+    "gn:timezone":"Pacific/Kiritimati",
+    "iso:country":"KI",
+    "mz:hierarchy_label":1,
+    "mz:is_current":0,
+    "src:geom":"geonames",
+    "wof:belongsto":[],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7521741
+    },
+    "wof:country":"KI",
+    "wof:geomhash":"9afeefdecc092440397d4984f7feb37b",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":-1,
+            "locality_id":1360187951,
+            "region_id":-1
+        }
+    ],
+    "wof:id":1360187951,
+    "wof:lastmodified":1536797389,
+    "wof:name":"Diggers Settlement",
+    "wof:parent_id":-1,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ki",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -155.92633,
+    -5.63398,
+    -155.92633,
+    -5.63398
+],
+  "geometry": {"coordinates":[-155.92633000000001,-5.63398],"type":"Point"}
+}

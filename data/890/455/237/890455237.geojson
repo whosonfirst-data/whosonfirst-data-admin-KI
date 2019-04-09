@@ -1,0 +1,65 @@
+{
+  "id": 890455237,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"173.86667,0.46667,173.86667,0.46667",
+    "geom:latitude":0.46667,
+    "geom:longitude":173.86667,
+    "gn:country":"KI",
+    "gn:fcode":"PPL",
+    "gn:pop":486,
+    "iso:country":"KI",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:unk_x_variant":[
+        "OSCAR WW2"
+    ],
+    "qs:name":"Tekatirirake Village",
+    "qs:photos_9r":0,
+    "qs:photos_sr":0,
+    "qs:pop_sr":"2",
+    "src:population":"geonames",
+    "wd:wordcount":1137,
+    "wof:belongsto":[
+        85632709
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2110054,
+        "qs:id":90791,
+        "wd:id":"Q318801",
+        "wk:page":"Abemama"
+    },
+    "wof:country":"KI",
+    "wof:created":1469052939,
+    "wof:geomhash":"1267d2a888e692112282f93a1fed077d",
+    "wof:hierarchy":[
+        {
+            "country_id":85632709,
+            "locality_id":890455237
+        }
+    ],
+    "wof:id":890455237,
+    "wof:lastmodified":1527735398,
+    "wof:name":"Tekatirirake Village",
+    "wof:parent_id":-1,
+    "wof:placetype":"locality",
+    "wof:population":486,
+    "wof:population_rank":2,
+    "wof:repo":"whosonfirst-data-admin-ki",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    173.86667,
+    0.46667,
+    173.86667,
+    0.46667
+],
+  "geometry": {"coordinates":[173.86667,0.46667],"type":"Point"}
+}

@@ -1,0 +1,59 @@
+{
+  "id": 890445691,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"173.13644,1.3965,173.13644,1.3965",
+    "geom:latitude":1.3965,
+    "geom:longitude":173.13644,
+    "gn:country":"KI",
+    "gn:fcode":"ADMD",
+    "gn:pop":5678,
+    "iso:country":"KI",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "qs:name":"Rural North Tawara",
+    "qs:photos_9r":0,
+    "qs:photos_sr":0,
+    "qs:pop_sr":"5",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        85632709
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7577057,
+        "qs:id":693317
+    },
+    "wof:country":"KI",
+    "wof:created":1469052519,
+    "wof:geomhash":"4d76b0fe60d0aa544a07e951f8b4e2bb",
+    "wof:hierarchy":[
+        {
+            "country_id":85632709,
+            "localadmin_id":890445691
+        }
+    ],
+    "wof:id":890445691,
+    "wof:lastmodified":1505343606,
+    "wof:name":"Rural North Tawara",
+    "wof:parent_id":-1,
+    "wof:placetype":"localadmin",
+    "wof:population":5678,
+    "wof:population_rank":5,
+    "wof:repo":"whosonfirst-data-admin-ki",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    173.13644,
+    1.3965,
+    173.13644,
+    1.3965
+],
+  "geometry": {"coordinates":[173.13643999999999,1.3965],"type":"Point"}
+}

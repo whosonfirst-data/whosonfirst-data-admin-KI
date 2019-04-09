@@ -1,0 +1,70 @@
+{
+  "id": 1209328925,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"173.26007,2.01543,173.26007,2.01543",
+    "geom:latitude":2.01543,
+    "geom:longitude":173.26007,
+    "gn:admin1_code":"1.0",
+    "gn:admin2_code":"ME",
+    "gn:asciiname":"Buota Village",
+    "gn:cc2":"KI",
+    "gn:country_code":"KI",
+    "gn:dem":10,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2110228,
+    "gn:latitude":2.01543,
+    "gn:longitude":173.26007,
+    "gn:modification_date":"2010-11-01",
+    "gn:name":"Buota Village",
+    "gn:population":259,
+    "gn:timezone":"Pacific/Tarawa",
+    "iso:country":"KI",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Buoata",
+        "Buota"
+    ],
+    "src:geom":"geonames",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        85632709
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2110228
+    },
+    "wof:country":"KI",
+    "wof:geomhash":"15540f50ec67cf779070f38a6d8b7721",
+    "wof:hierarchy":[
+        {
+            "country_id":85632709,
+            "locality_id":1209328925
+        }
+    ],
+    "wof:id":1209328925,
+    "wof:lastmodified":1537654140,
+    "wof:name":"Buota Village",
+    "wof:parent_id":85632709,
+    "wof:placetype":"locality",
+    "wof:population":259,
+    "wof:population_rank":2,
+    "wof:repo":"whosonfirst-data-admin-ki",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    173.26006999999996,
+    2.01543,
+    173.26006999999996,
+    2.01543
+],
+  "geometry": {"coordinates":[173.26006999999996,2.01543],"type":"Point"}
+}

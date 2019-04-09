@@ -1,0 +1,62 @@
+{
+  "id": 890418571,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"172.79739,3.1616,172.79739,3.1616",
+    "geom:latitude":3.1616,
+    "geom:longitude":172.79739,
+    "gn:country":"KI",
+    "gn:fcode":"ADM2",
+    "gn:pop":3280,
+    "iso:country":"KI",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "qs:name":"Butaritari",
+    "qs:photos_9r":0,
+    "qs:photos_sr":0,
+    "qs:pop_sr":"4",
+    "src:population":"geonames",
+    "wd:wordcount":2295,
+    "wof:belongsto":[
+        85632709
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7521588,
+        "qs:id":689624,
+        "wd:id":"Q867325",
+        "wk:page":"Butaritari"
+    },
+    "wof:country":"KI",
+    "wof:created":1469051253,
+    "wof:geomhash":"77cbe867487b404ab5d9f3d73ef1764c",
+    "wof:hierarchy":[
+        {
+            "country_id":85632709,
+            "county_id":890418571
+        }
+    ],
+    "wof:id":890418571,
+    "wof:lastmodified":1527792817,
+    "wof:name":"Butaritari",
+    "wof:parent_id":-1,
+    "wof:placetype":"county",
+    "wof:population":3280,
+    "wof:population_rank":4,
+    "wof:repo":"whosonfirst-data-admin-ki",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    172.79739,
+    3.1616,
+    172.79739,
+    3.1616
+],
+  "geometry": {"coordinates":[172.79739000000001,3.1616],"type":"Point"}
+}

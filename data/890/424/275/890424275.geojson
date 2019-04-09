@@ -1,0 +1,62 @@
+{
+  "id": 890424275,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"175.55476,-1.81802,175.55476,-1.81802",
+    "geom:latitude":-1.81802,
+    "geom:longitude":175.55476,
+    "gn:country":"KI",
+    "gn:fcode":"PPL",
+    "gn:pop":213,
+    "iso:country":"KI",
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "qs:name":"Buariki Village",
+    "qs:photos_9r":0,
+    "qs:photos_sr":0,
+    "qs:pop_sr":"2",
+    "src:population":"geonames",
+    "wd:wordcount":123,
+    "wof:belongsto":[
+        85632709
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7576353,
+        "gp:id":12514197,
+        "qs:id":693242,
+        "wk:page":"Buariki (Tarawa village)"
+    },
+    "wof:country":"KI",
+    "wof:created":1469051537,
+    "wof:geomhash":"b42b2c119f5000c335d5b416b8107838",
+    "wof:hierarchy":[
+        {
+            "country_id":85632709,
+            "locality_id":890424275
+        }
+    ],
+    "wof:id":890424275,
+    "wof:lastmodified":1527727264,
+    "wof:name":"Buariki Village",
+    "wof:parent_id":-1,
+    "wof:placetype":"locality",
+    "wof:population":213,
+    "wof:population_rank":2,
+    "wof:repo":"whosonfirst-data-admin-ki",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    175.55476,
+    -1.81802,
+    175.55476,
+    -1.81802
+],
+  "geometry": {"coordinates":[175.55475999999999,-1.81802],"type":"Point"}
+}

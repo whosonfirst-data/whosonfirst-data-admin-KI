@@ -1,0 +1,75 @@
+{
+  "id": 890428745,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"172.91227,1.94987,172.91227,1.94987",
+    "geom:latitude":1.94987,
+    "geom:longitude":172.91227,
+    "gn:country":"KI",
+    "gn:fcode":"PPL",
+    "gn:pop":300,
+    "iso:country":"KI",
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "name:dut_x_preferred":[
+        "Takarano"
+    ],
+    "name:eng_x_preferred":[
+        "Takarano"
+    ],
+    "name:swe_x_preferred":[
+        "Takarano Village"
+    ],
+    "name:unk_x_variant":[
+        "Takarona"
+    ],
+    "qs:name":"Takarano Village",
+    "qs:photos_9r":0,
+    "qs:photos_sr":0,
+    "qs:pop_sr":"2",
+    "src:population":"geonames",
+    "wd:wordcount":124,
+    "wof:belongsto":[
+        85632709
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2110091,
+        "gp:id":12514187,
+        "qs:id":572007,
+        "wd:id":"Q7677265",
+        "wk:page":"Takarano"
+    },
+    "wof:country":"KI",
+    "wof:created":1469051769,
+    "wof:geomhash":"eef780d557105c11e115d4f77a047ba3",
+    "wof:hierarchy":[
+        {
+            "country_id":85632709,
+            "locality_id":890428745
+        }
+    ],
+    "wof:id":890428745,
+    "wof:lastmodified":1527782119,
+    "wof:name":"Takarano Village",
+    "wof:parent_id":-1,
+    "wof:placetype":"locality",
+    "wof:population":300,
+    "wof:population_rank":2,
+    "wof:repo":"whosonfirst-data-admin-ki",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    172.91227,
+    1.94987,
+    172.91227,
+    1.94987
+],
+  "geometry": {"coordinates":[172.91227000000001,1.94987],"type":"Point"}
+}

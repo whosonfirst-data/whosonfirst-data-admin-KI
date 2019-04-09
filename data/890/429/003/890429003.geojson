@@ -1,0 +1,62 @@
+{
+  "id": 890429003,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"173.27637,2.01077,173.27637,2.01077",
+    "geom:latitude":2.01077,
+    "geom:longitude":173.27637,
+    "gn:country":"KI",
+    "gn:fcode":"ADM2",
+    "gn:pop":2741,
+    "iso:country":"KI",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "qs:name":"Marakei",
+    "qs:photos_9r":0,
+    "qs:photos_sr":0,
+    "qs:pop_sr":"4",
+    "src:population":"geonames",
+    "wd:wordcount":775,
+    "wof:belongsto":[
+        85632709
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7521599,
+        "qs:id":689635,
+        "wd:id":"Q909758",
+        "wk:page":"Marakei"
+    },
+    "wof:country":"KI",
+    "wof:created":1469051786,
+    "wof:geomhash":"2f89bff673c9eda1d568469db9e2f81c",
+    "wof:hierarchy":[
+        {
+            "country_id":85632709,
+            "county_id":890429003
+        }
+    ],
+    "wof:id":890429003,
+    "wof:lastmodified":1527792795,
+    "wof:name":"Marakei",
+    "wof:parent_id":-1,
+    "wof:placetype":"county",
+    "wof:population":2741,
+    "wof:population_rank":4,
+    "wof:repo":"whosonfirst-data-admin-ki",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    173.27637,
+    2.01077,
+    173.27637,
+    2.01077
+],
+  "geometry": {"coordinates":[173.27636999999999,2.01077],"type":"Point"}
+}

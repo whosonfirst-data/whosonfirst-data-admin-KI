@@ -1,0 +1,62 @@
+{
+  "id": 890418585,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"173.39874,0.24617,173.39874,0.24617",
+    "geom:latitude":0.24617,
+    "geom:longitude":173.39874,
+    "gn:country":"KI",
+    "gn:fcode":"PPL",
+    "gn:pop":246,
+    "iso:country":"KI",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "qs:name":"Manenaua Village",
+    "qs:photos_9r":0,
+    "qs:photos_sr":0,
+    "qs:pop_sr":"2",
+    "src:population":"geonames",
+    "wd:wordcount":902,
+    "wof:belongsto":[
+        85632709
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7576763,
+        "qs:id":693278,
+        "wd:id":"Q1139401",
+        "wk:page":"Kuria (islands)"
+    },
+    "wof:country":"KI",
+    "wof:created":1469051253,
+    "wof:geomhash":"1f534b017c9c801fb88466d85277a1c2",
+    "wof:hierarchy":[
+        {
+            "country_id":85632709,
+            "locality_id":890418585
+        }
+    ],
+    "wof:id":890418585,
+    "wof:lastmodified":1527792817,
+    "wof:name":"Manenaua Village",
+    "wof:parent_id":-1,
+    "wof:placetype":"locality",
+    "wof:population":246,
+    "wof:population_rank":2,
+    "wof:repo":"whosonfirst-data-admin-ki",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    173.39874,
+    0.24617,
+    173.39874,
+    0.24617
+],
+  "geometry": {"coordinates":[173.39874,0.24617],"type":"Point"}
+}

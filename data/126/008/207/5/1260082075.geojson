@@ -1,0 +1,62 @@
+{
+  "id": 1260082075,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"2018-09-07",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-174.53871,-4.67147,-174.53871,-4.67147",
+    "geom:latitude":-4.67147,
+    "geom:longitude":-174.53871,
+    "gn:admin1_code":"3.0",
+    "gn:admin2_code":"NK",
+    "gn:asciiname":"Karaka settlement 1940",
+    "gn:country_code":"KI",
+    "gn:dem":18,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLQ",
+    "gn:geonameid":4030921,
+    "gn:latitude":-4.67147,
+    "gn:longitude":-174.53871,
+    "gn:modification_date":"2010-10-12",
+    "gn:name":"Karaka settlement 1940",
+    "gn:population":0,
+    "gn:timezone":"Pacific/Enderbury",
+    "iso:country":"KI",
+    "mz:hierarchy_label":1,
+    "mz:is_current":0,
+    "src:geom":"geonames",
+    "wof:belongsto":[],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":4030921
+    },
+    "wof:country":"KI",
+    "wof:geomhash":"97285a360922fb1da59f1e886a59b6cc",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":-1,
+            "locality_id":1260082075,
+            "region_id":-1
+        }
+    ],
+    "wof:id":1260082075,
+    "wof:lastmodified":1536989206,
+    "wof:name":"Karaka settlement 1940",
+    "wof:parent_id":-1,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ki",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -174.53871,
+    -4.67147,
+    -174.53871,
+    -4.67147
+],
+  "geometry": {"coordinates":[-174.53871000000001,-4.67147],"type":"Point"}
+}

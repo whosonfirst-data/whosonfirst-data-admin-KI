@@ -1,0 +1,70 @@
+{
+  "id": 890413057,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"169.54192,-0.87054,169.54192,-0.87054",
+    "geom:latitude":-0.87054,
+    "geom:longitude":169.54192,
+    "gn:country":"KI",
+    "gn:fcode":"PPL",
+    "gn:pop":135,
+    "iso:country":"KI",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:unk_x_variant":[
+        "Uma"
+    ],
+    "qs:name":"Umwa Village",
+    "qs:photos_9r":0,
+    "qs:photos_sr":0,
+    "qs:pop_sr":"1",
+    "src:population":"geonames",
+    "wd:wordcount":846,
+    "wof:belongsto":[
+        102191583,
+        85632709,
+        85681277
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2110141,
+        "gp:id":1064230,
+        "qs:id":572026,
+        "wd:id":"Q528892",
+        "wk:page":"Occupation (protest)"
+    },
+    "wof:country":"KI",
+    "wof:created":1469050986,
+    "wof:geomhash":"03a96e190cb78e5b8b3094b3b7856db1",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191583,
+            "country_id":85632709,
+            "locality_id":890413057,
+            "region_id":85681277
+        }
+    ],
+    "wof:id":890413057,
+    "wof:lastmodified":1527727172,
+    "wof:name":"Umwa Village",
+    "wof:parent_id":85681277,
+    "wof:placetype":"locality",
+    "wof:population":135,
+    "wof:population_rank":1,
+    "wof:repo":"whosonfirst-data-admin-ki",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    169.54192,
+    -0.87054,
+    169.54192,
+    -0.87054
+],
+  "geometry": {"coordinates":[169.54192,-0.87054],"type":"Point"}
+}

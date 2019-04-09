@@ -1,0 +1,98 @@
+{
+  "id": 890445643,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-159.33333,3.86667,-159.33333,3.86667",
+    "geom:latitude":3.86667,
+    "geom:longitude":-159.33333,
+    "gn:country":"KI",
+    "gn:fcode":"ADM2",
+    "gn:pop":2539,
+    "iso:country":"KI",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:bel_x_preferred":[
+        "\u0410\u0442\u043e\u043b \u0422\u0430\u0431\u0443\u0430\u044d\u0440\u0430\u043d"
+    ],
+    "name:ell_x_preferred":[
+        "\u03a4\u03b1\u03bc\u03c0\u03bf\u03c5\u03b1\u03b5\u03c1\u03ac\u03bd"
+    ],
+    "name:fin_x_preferred":[
+        "Fanninginsaari"
+    ],
+    "name:glg_x_preferred":[
+        "Atol Tabuaeran"
+    ],
+    "name:heb_x_preferred":[
+        "\u05d8\u05d1\u05d5\u05d0\u05d0\u05e8\u05d0\u05df"
+    ],
+    "name:jpn_x_preferred":[
+        "\u30bf\u30d6\u30a2\u30a8\u30e9\u30f3\u5cf6"
+    ],
+    "name:kor_x_preferred":[
+        "\ud0c0\ubd80\uc544\uc5d0\ub780 \uc12c"
+    ],
+    "name:mal_x_preferred":[
+        "\u0d1f\u0d3e\u0d2c\u0d40\u0d31\u0d7b"
+    ],
+    "name:mkd_x_preferred":[
+        "\u0422\u0430\u0431\u0443\u0430\u0435\u0440\u0430\u043d"
+    ],
+    "name:rus_x_preferred":[
+        "\u0422\u0430\u0431\u0443\u0430\u044d\u0440\u0430\u043d"
+    ],
+    "name:ukr_x_preferred":[
+        "\u0422\u0430\u0431\u0443\u0430\u0435\u0440\u0430\u043d"
+    ],
+    "name:zho_x_preferred":[
+        "\u5854\u5e03\u963f\u57c3\u862d\u74b0\u7901"
+    ],
+    "qs:name":"Tabuaeran",
+    "qs:photos_9r":0,
+    "qs:photos_sr":0,
+    "qs:pop_sr":"4",
+    "src:population":"geonames",
+    "wd:wordcount":1093,
+    "wof:belongsto":[
+        85632709
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7521609,
+        "qs:id":689645,
+        "wd:id":"Q127335",
+        "wk:page":"Tabuaeran"
+    },
+    "wof:country":"KI",
+    "wof:created":1469052517,
+    "wof:geomhash":"b9d26ad9f5252bee7bb3efeb3330c6b2",
+    "wof:hierarchy":[
+        {
+            "country_id":85632709,
+            "county_id":890445643
+        }
+    ],
+    "wof:id":890445643,
+    "wof:lastmodified":1527792868,
+    "wof:name":"Tabuaeran",
+    "wof:parent_id":-1,
+    "wof:placetype":"county",
+    "wof:population":2539,
+    "wof:population_rank":4,
+    "wof:repo":"whosonfirst-data-admin-ki",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -159.33333,
+    3.86667,
+    -159.33333,
+    3.86667
+],
+  "geometry": {"coordinates":[-159.33332999999999,3.86667],"type":"Point"}
+}

@@ -1,0 +1,62 @@
+{
+  "id": 890418597,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"173.92731,0.37881,173.92731,0.37881",
+    "geom:latitude":0.37881,
+    "geom:longitude":173.92731,
+    "gn:country":"KI",
+    "gn:fcode":"PPL",
+    "gn:pop":336,
+    "iso:country":"KI",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "qs:name":"Bangotantekabaia Village",
+    "qs:photos_9r":0,
+    "qs:photos_sr":0,
+    "qs:pop_sr":"2",
+    "src:population":"geonames",
+    "wd:wordcount":1137,
+    "wof:belongsto":[
+        85632709
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7576781,
+        "qs:id":693285,
+        "wd:id":"Q318801",
+        "wk:page":"Abemama"
+    },
+    "wof:country":"KI",
+    "wof:created":1469051254,
+    "wof:geomhash":"dd0eedd764bf623e334753a2b2655710",
+    "wof:hierarchy":[
+        {
+            "country_id":85632709,
+            "locality_id":890418597
+        }
+    ],
+    "wof:id":890418597,
+    "wof:lastmodified":1527792816,
+    "wof:name":"Bangotantekabaia Village",
+    "wof:parent_id":-1,
+    "wof:placetype":"locality",
+    "wof:population":336,
+    "wof:population_rank":2,
+    "wof:repo":"whosonfirst-data-admin-ki",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    173.92731,
+    0.37881,
+    173.92731,
+    0.37881
+],
+  "geometry": {"coordinates":[173.92731000000001,0.37881],"type":"Point"}
+}

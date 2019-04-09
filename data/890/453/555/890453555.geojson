@@ -1,0 +1,63 @@
+{
+  "id": 890453555,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"172.76247,3.04983,172.76247,3.04983",
+    "geom:latitude":3.04983,
+    "geom:longitude":172.76247,
+    "gn:country":"KI",
+    "gn:fcode":"PPL",
+    "gn:pop":338,
+    "iso:country":"KI",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "qs:name":"Ukiangang Village",
+    "qs:photos_9r":0,
+    "qs:photos_sr":0,
+    "qs:pop_sr":"2",
+    "src:population":"geonames",
+    "wd:wordcount":2295,
+    "wof:belongsto":[
+        85632709
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2110029,
+        "gp:id":12514190,
+        "qs:id":571986,
+        "wd:id":"Q867325",
+        "wk:page":"Butaritari"
+    },
+    "wof:country":"KI",
+    "wof:created":1469052858,
+    "wof:geomhash":"79fd4fd26bd8e2548b7728155f0222e8",
+    "wof:hierarchy":[
+        {
+            "country_id":85632709,
+            "locality_id":890453555
+        }
+    ],
+    "wof:id":890453555,
+    "wof:lastmodified":1527736641,
+    "wof:name":"Ukiangang Village",
+    "wof:parent_id":-1,
+    "wof:placetype":"locality",
+    "wof:population":338,
+    "wof:population_rank":2,
+    "wof:repo":"whosonfirst-data-admin-ki",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    172.76247,
+    3.04983,
+    172.76247,
+    3.04983
+],
+  "geometry": {"coordinates":[172.76247000000001,3.04983],"type":"Point"}
+}

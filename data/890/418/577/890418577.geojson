@@ -1,0 +1,65 @@
+{
+  "id": 890418577,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-157.475,1.94,-157.475,1.94",
+    "geom:latitude":1.94,
+    "geom:longitude":-157.475,
+    "gn:country":"KI",
+    "gn:fcode":"ADM2",
+    "gn:pop":5115,
+    "iso:country":"KI",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:unk_x_variant":[
+        "Christmas Island"
+    ],
+    "qs:name":"Kiritimati",
+    "qs:photos_9r":0,
+    "qs:photos_sr":0,
+    "qs:pop_sr":"5",
+    "src:population":"geonames",
+    "wd:wordcount":5980,
+    "wof:belongsto":[
+        85632709
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7521593,
+        "qs:id":689629,
+        "wd:id":"Q193331",
+        "wk:page":"Kiritimati"
+    },
+    "wof:country":"KI",
+    "wof:created":1469051253,
+    "wof:geomhash":"07a8ec524f3b7faeeb3ab0fdabd31e8d",
+    "wof:hierarchy":[
+        {
+            "country_id":85632709,
+            "county_id":890418577
+        }
+    ],
+    "wof:id":890418577,
+    "wof:lastmodified":1527792817,
+    "wof:name":"Kiritimati",
+    "wof:parent_id":-1,
+    "wof:placetype":"county",
+    "wof:population":5115,
+    "wof:population_rank":5,
+    "wof:repo":"whosonfirst-data-admin-ki",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -157.475,
+    1.94,
+    -157.475,
+    1.94
+],
+  "geometry": {"coordinates":[-157.47499999999999,1.94],"type":"Point"}
+}

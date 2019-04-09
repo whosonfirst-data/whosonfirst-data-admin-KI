@@ -1,0 +1,60 @@
+{
+  "id": 890424273,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"175.53626,-1.80768,175.53626,-1.80768",
+    "geom:latitude":-1.80768,
+    "geom:longitude":175.53626,
+    "gn:country":"KI",
+    "gn:fcode":"PPL",
+    "gn:pop":249,
+    "iso:country":"KI",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "qs:name":"Tanaeag Village",
+    "qs:photos_9r":0,
+    "qs:photos_sr":0,
+    "qs:pop_sr":"2",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        85632709
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7576352,
+        "gp:id":12514197,
+        "qs:id":693241
+    },
+    "wof:country":"KI",
+    "wof:created":1469051537,
+    "wof:geomhash":"46ac58cb399b3c660ce30842b292b64c",
+    "wof:hierarchy":[
+        {
+            "country_id":85632709,
+            "locality_id":890424273
+        }
+    ],
+    "wof:id":890424273,
+    "wof:lastmodified":1505343480,
+    "wof:name":"Tanaeag Village",
+    "wof:parent_id":-1,
+    "wof:placetype":"locality",
+    "wof:population":249,
+    "wof:population_rank":2,
+    "wof:repo":"whosonfirst-data-admin-ki",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    175.53626,
+    -1.80768,
+    175.53626,
+    -1.80768
+],
+  "geometry": {"coordinates":[175.53626,-1.80768],"type":"Point"}
+}

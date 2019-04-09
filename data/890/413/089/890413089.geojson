@@ -1,0 +1,62 @@
+{
+  "id": 890413089,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"173.91622,0.40868,173.91622,0.40868",
+    "geom:latitude":0.40868,
+    "geom:longitude":173.91622,
+    "gn:country":"KI",
+    "gn:fcode":"PPLX",
+    "gn:pop":369,
+    "iso:country":"KI",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:unk_x_variant":[
+        "SIDNEY WW2"
+    ],
+    "qs:name":"Binoinano",
+    "qs:photos_9r":0,
+    "qs:photos_sr":0,
+    "qs:pop_sr":"2",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        85632709
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2110239,
+        "qs:id":572053
+    },
+    "wof:country":"KI",
+    "wof:created":1469050988,
+    "wof:geomhash":"cbccaa5df8c86a4881525fbbd1cbb050",
+    "wof:hierarchy":[
+        {
+            "country_id":85632709,
+            "neighbourhood_id":890413089
+        }
+    ],
+    "wof:id":890413089,
+    "wof:lastmodified":1505343412,
+    "wof:name":"Binoinano",
+    "wof:parent_id":-1,
+    "wof:placetype":"neighbourhood",
+    "wof:population":369,
+    "wof:population_rank":2,
+    "wof:repo":"whosonfirst-data-admin-ki",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    173.91622,
+    0.40868,
+    173.91622,
+    0.40868
+],
+  "geometry": {"coordinates":[173.91622000000001,0.40868],"type":"Point"}
+}

@@ -1,0 +1,68 @@
+{
+  "id": 1343569807,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"2018-09-06",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-157.49103,1.93325,-157.49103,1.93325",
+    "geom:latitude":1.93325,
+    "geom:longitude":-157.49103,
+    "gn:admin1_code":"2.0",
+    "gn:admin2_code":"KT",
+    "gn:asciiname":"former Paris Village",
+    "gn:country_code":"KI",
+    "gn:dem":4,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLQ",
+    "gn:geonameid":4030913,
+    "gn:latitude":1.93325,
+    "gn:longitude":-157.49103,
+    "gn:modification_date":"2018-01-26",
+    "gn:name":"former Paris Village",
+    "gn:population":0,
+    "gn:timezone":"Pacific/Kiritimati",
+    "iso:country":"KI",
+    "mz:hierarchy_label":1,
+    "mz:is_current":0,
+    "name:deu_x_preferred":[
+        "Paris"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191583,
+        85632709
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":4030913
+    },
+    "wof:country":"KI",
+    "wof:geomhash":"2ef7014b08e00d5e79d2f06f8cce9835",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191583,
+            "country_id":85632709,
+            "locality_id":1343569807,
+            "region_id":-1
+        }
+    ],
+    "wof:id":1343569807,
+    "wof:lastmodified":1537654140,
+    "wof:name":"former Paris Village",
+    "wof:parent_id":-1,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ki",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -157.49103,
+    1.93325,
+    -157.49103,
+    1.93325
+],
+  "geometry": {"coordinates":[-157.49102999999999,1.93325],"type":"Point"}
+}

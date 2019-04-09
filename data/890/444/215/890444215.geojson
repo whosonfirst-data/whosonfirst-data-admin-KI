@@ -1,0 +1,78 @@
+{
+  "id": 890444215,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"173.02772,0.92746,173.02772,0.92746",
+    "geom:latitude":0.92746,
+    "geom:longitude":173.02772,
+    "gn:country":"KI",
+    "gn:fcode":"PPL",
+    "gn:pop":183,
+    "iso:country":"KI",
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "name:dut_x_preferred":[
+        "Tabiauea"
+    ],
+    "name:eng_x_preferred":[
+        "Tabiauea"
+    ],
+    "name:pol_x_preferred":[
+        "Tabiauea"
+    ],
+    "name:swe_x_preferred":[
+        "Tabiauea Village"
+    ],
+    "name:unk_x_variant":[
+        "Tebiauea"
+    ],
+    "qs:name":"Tabiauea Village",
+    "qs:photos_9r":0,
+    "qs:photos_sr":0,
+    "qs:pop_sr":"3",
+    "src:population":"geonames",
+    "wd:wordcount":40,
+    "wof:belongsto":[
+        85632709
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2110108,
+        "gp:id":12514189,
+        "qs:id":1033812,
+        "wd:id":"Q961453",
+        "wk:page":"List of towns and villages in Kiribati"
+    },
+    "wof:country":"KI",
+    "wof:created":1469052460,
+    "wof:geomhash":"2435a64762ad1074a9d81ce024e81fc8",
+    "wof:hierarchy":[
+        {
+            "country_id":85632709,
+            "locality_id":890444215
+        }
+    ],
+    "wof:id":890444215,
+    "wof:lastmodified":1527782135,
+    "wof:name":"Tabiauea Village",
+    "wof:parent_id":-1,
+    "wof:placetype":"locality",
+    "wof:population":183,
+    "wof:population_rank":1,
+    "wof:repo":"whosonfirst-data-admin-ki",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    173.02772,
+    0.92746,
+    173.02772,
+    0.92746
+],
+  "geometry": {"coordinates":[173.02771999999999,0.92746],"type":"Point"}
+}

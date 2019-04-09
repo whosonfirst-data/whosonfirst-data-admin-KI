@@ -1,0 +1,67 @@
+{
+  "id": 890413051,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"175.99223,-1.32041,175.99223,-1.32041",
+    "geom:latitude":-1.32041,
+    "geom:longitude":175.99223,
+    "gn:country":"KI",
+    "gn:fcode":"PPL",
+    "gn:pop":315,
+    "iso:country":"KI",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "qs:name":"Rongorongo Village",
+    "qs:photos_9r":0,
+    "qs:photos_sr":0,
+    "qs:pop_sr":"2",
+    "src:population":"geonames",
+    "wd:wordcount":369,
+    "wof:belongsto":[
+        102191583,
+        85632709,
+        85681277
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2110126,
+        "gp:id":12514188,
+        "qs:id":572023,
+        "wd:id":"Q7365664",
+        "wk:page":"Rongorongo text Z"
+    },
+    "wof:country":"KI",
+    "wof:created":1469050986,
+    "wof:geomhash":"0e7a6d1714703b86bcadf53df8063df8",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191583,
+            "country_id":85632709,
+            "locality_id":890413051,
+            "region_id":85681277
+        }
+    ],
+    "wof:id":890413051,
+    "wof:lastmodified":1527727173,
+    "wof:name":"Rongorongo Village",
+    "wof:parent_id":85681277,
+    "wof:placetype":"locality",
+    "wof:population":315,
+    "wof:population_rank":2,
+    "wof:repo":"whosonfirst-data-admin-ki",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    175.99223,
+    -1.32041,
+    175.99223,
+    -1.32041
+],
+  "geometry": {"coordinates":[175.99223000000001,-1.32041],"type":"Point"}
+}

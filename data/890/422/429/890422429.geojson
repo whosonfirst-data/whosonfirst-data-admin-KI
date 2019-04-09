@@ -1,0 +1,70 @@
+{
+  "id": 890422429,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"172.99257,1.8576,172.99257,1.8576",
+    "geom:latitude":1.8576,
+    "geom:longitude":172.99257,
+    "gn:country":"KI",
+    "gn:fcode":"PPL",
+    "gn:pop":219,
+    "iso:country":"KI",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:unk_x_variant":[
+        "Ewena"
+    ],
+    "qs:name":"Kuria Village",
+    "qs:photos_9r":0,
+    "qs:photos_sr":0,
+    "qs:pop_sr":"2",
+    "src:population":"geonames",
+    "wd:wordcount":902,
+    "wof:belongsto":[
+        102191583,
+        85632709,
+        85681277
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2110190,
+        "gp:id":12514187,
+        "qs:id":572037,
+        "wd:id":"Q1139401",
+        "wk:page":"Kuria (islands)"
+    },
+    "wof:country":"KI",
+    "wof:created":1469051444,
+    "wof:geomhash":"d59a6a43d225e7adefc47f88ee77859c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191583,
+            "country_id":85632709,
+            "locality_id":890422429,
+            "region_id":85681277
+        }
+    ],
+    "wof:id":890422429,
+    "wof:lastmodified":1527727163,
+    "wof:name":"Kuria Village",
+    "wof:parent_id":85681277,
+    "wof:placetype":"locality",
+    "wof:population":219,
+    "wof:population_rank":2,
+    "wof:repo":"whosonfirst-data-admin-ki",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    172.99257,
+    1.8576,
+    172.99257,
+    1.8576
+],
+  "geometry": {"coordinates":[172.99257,1.8576],"type":"Point"}
+}

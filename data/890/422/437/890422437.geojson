@@ -1,0 +1,63 @@
+{
+  "id": 890422437,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"176.00224,-1.35925,176.00224,-1.35925",
+    "geom:latitude":-1.35925,
+    "geom:longitude":176.00224,
+    "gn:country":"KI",
+    "gn:fcode":"PPL",
+    "gn:pop":265,
+    "iso:country":"KI",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "qs:name":"Eriko Village",
+    "qs:photos_9r":0,
+    "qs:photos_sr":0,
+    "qs:pop_sr":"2",
+    "src:population":"geonames",
+    "wd:wordcount":3994,
+    "wof:belongsto":[
+        85632709
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2110204,
+        "gp:id":12514188,
+        "qs:id":572041,
+        "wd:id":"Q653303",
+        "wk:page":"Dragonball Evolution"
+    },
+    "wof:country":"KI",
+    "wof:created":1469051444,
+    "wof:geomhash":"ba2edd1294b5e9dd193a2bb919659832",
+    "wof:hierarchy":[
+        {
+            "country_id":85632709,
+            "locality_id":890422437
+        }
+    ],
+    "wof:id":890422437,
+    "wof:lastmodified":1527727160,
+    "wof:name":"Eriko Village",
+    "wof:parent_id":-1,
+    "wof:placetype":"locality",
+    "wof:population":265,
+    "wof:population_rank":2,
+    "wof:repo":"whosonfirst-data-admin-ki",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    176.00224,
+    -1.35925,
+    176.00224,
+    -1.35925
+],
+  "geometry": {"coordinates":[176.00224,-1.35925],"type":"Point"}
+}

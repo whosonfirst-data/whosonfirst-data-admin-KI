@@ -1,0 +1,63 @@
+{
+  "id": 890428753,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"173.00302,1.52009,173.00302,1.52009",
+    "geom:latitude":1.52009,
+    "geom:longitude":173.00302,
+    "gn:country":"KI",
+    "gn:fcode":"PPL",
+    "gn:pop":845,
+    "iso:country":"KI",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "qs:name":"Taborio Village",
+    "qs:photos_9r":0,
+    "qs:photos_sr":0,
+    "qs:pop_sr":"2",
+    "src:population":"geonames",
+    "wd:wordcount":1710,
+    "wof:belongsto":[
+        85632709
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2110098,
+        "gp:id":12514189,
+        "qs:id":572011,
+        "wd:id":"Q131233",
+        "wk:page":"South Tarawa"
+    },
+    "wof:country":"KI",
+    "wof:created":1469051769,
+    "wof:geomhash":"9af8dc360f37642dc653bd8269088c85",
+    "wof:hierarchy":[
+        {
+            "country_id":85632709,
+            "locality_id":890428753
+        }
+    ],
+    "wof:id":890428753,
+    "wof:lastmodified":1527782114,
+    "wof:name":"Taborio Village",
+    "wof:parent_id":-1,
+    "wof:placetype":"locality",
+    "wof:population":845,
+    "wof:population_rank":2,
+    "wof:repo":"whosonfirst-data-admin-ki",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    173.00302,
+    1.52009,
+    173.00302,
+    1.52009
+],
+  "geometry": {"coordinates":[173.00301999999999,1.52009],"type":"Point"}
+}

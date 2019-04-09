@@ -1,0 +1,66 @@
+{
+  "id": 890453481,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"176.81625,-2.63211,176.81625,-2.63211",
+    "geom:latitude":-2.63211,
+    "geom:longitude":176.81625,
+    "gn:country":"KI",
+    "gn:fcode":"PPL",
+    "gn:pop":492,
+    "iso:country":"KI",
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "qs:name":"Tamaroa Village",
+    "qs:photos_9r":0,
+    "qs:photos_sr":0,
+    "qs:pop_sr":"2",
+    "src:population":"geonames",
+    "wd:wordcount":488,
+    "wof:belongsto":[
+        102191583,
+        85632709,
+        85681277
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2110086,
+        "gp:id":12514198,
+        "qs:id":572005,
+        "wk:page":"Tamaroa, Illinois"
+    },
+    "wof:country":"KI",
+    "wof:created":1469052855,
+    "wof:geomhash":"87cce55df53b38f74003a4537db9718a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191583,
+            "country_id":85632709,
+            "locality_id":890453481,
+            "region_id":85681277
+        }
+    ],
+    "wof:id":890453481,
+    "wof:lastmodified":1527736642,
+    "wof:name":"Tamaroa Village",
+    "wof:parent_id":85681277,
+    "wof:placetype":"locality",
+    "wof:population":492,
+    "wof:population_rank":2,
+    "wof:repo":"whosonfirst-data-admin-ki",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    176.81625,
+    -2.63211,
+    176.81625,
+    -2.63211
+],
+  "geometry": {"coordinates":[176.81625,-2.63211],"type":"Point"}
+}

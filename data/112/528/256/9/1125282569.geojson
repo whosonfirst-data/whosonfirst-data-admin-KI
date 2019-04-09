@@ -1,0 +1,75 @@
+{
+  "id": 1125282569,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"174.71781,-1.19828,174.71781,-1.19828",
+    "geom:latitude":-1.19828,
+    "geom:longitude":174.71781,
+    "gn:gn_country":"KI",
+    "gn:gn_fcode":"ADMD",
+    "gn:gn_pop":3600,
+    "gn:population":3600,
+    "iso:country":"KI",
+    "lbl:latitude":-1.19828,
+    "lbl:longitude":174.71781,
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:unk_x_variant":[
+        "Tabiteuea Meang"
+    ],
+    "qs_pg:aaroncc":"KI",
+    "qs_pg:gn_country":"KI",
+    "qs_pg:gn_fcode":"ADMD",
+    "qs_pg:gn_id":7576575,
+    "qs_pg:gn_pop":3600,
+    "qs_pg:name":"Tabiteuea North",
+    "qs_pg:photos_9r":0,
+    "qs_pg:photos_sr":0,
+    "qs_pg:pop_sr":4,
+    "qs_pg:qs_id":693260,
+    "qs_pg:qs_pg_placetype":"localadmin",
+    "src:geom":"qs_pg",
+    "src:lbl:centroid":"qs_pg",
+    "src:population":"geonames",
+    "wof:belongsto":[],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7576575,
+        "qs_pg:id":693260
+    },
+    "wof:country":"KI",
+    "wof:created":1497042559,
+    "wof:geomhash":"0bf2d29f54c4b53e439b079fbbafa6fc",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":-1,
+            "localadmin_id":1125282569,
+            "region_id":-1
+        }
+    ],
+    "wof:id":1125282569,
+    "wof:lastmodified":1509387331,
+    "wof:name":"Tabiteuea North",
+    "wof:parent_id":-1,
+    "wof:placetype":"localadmin",
+    "wof:population":3600,
+    "wof:population_rank":4,
+    "wof:repo":"whosonfirst-data-admin-ki",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    174.71781,
+    -1.19828,
+    174.71781,
+    -1.19828
+],
+  "geometry": {"coordinates":[174.71780999999999,-1.19828],"type":"Point"}
+}

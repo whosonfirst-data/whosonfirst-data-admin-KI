@@ -1,0 +1,63 @@
+{
+  "id": 890418611,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"173.05351,0.98483,173.05351,0.98483",
+    "geom:latitude":0.98483,
+    "geom:longitude":173.05351,
+    "gn:country":"KI",
+    "gn:fcode":"PPL",
+    "gn:pop":98,
+    "iso:country":"KI",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "qs:name":"Aobike Village",
+    "qs:photos_9r":0,
+    "qs:photos_sr":0,
+    "qs:pop_sr":"1",
+    "src:population":"geonames",
+    "wd:wordcount":702,
+    "wof:belongsto":[
+        85632709
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7576839,
+        "gp:id":12514189,
+        "qs:id":693291,
+        "wd:id":"Q909742",
+        "wk:page":"Maiana"
+    },
+    "wof:country":"KI",
+    "wof:created":1469051254,
+    "wof:geomhash":"07b3a16b8ec63db640067469226ef4e2",
+    "wof:hierarchy":[
+        {
+            "country_id":85632709,
+            "locality_id":890418611
+        }
+    ],
+    "wof:id":890418611,
+    "wof:lastmodified":1527792814,
+    "wof:name":"Aobike Village",
+    "wof:parent_id":-1,
+    "wof:placetype":"locality",
+    "wof:population":98,
+    "wof:population_rank":1,
+    "wof:repo":"whosonfirst-data-admin-ki",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    173.05351,
+    0.98483,
+    173.05351,
+    0.98483
+],
+  "geometry": {"coordinates":[173.05350999999999,0.98483],"type":"Point"}
+}

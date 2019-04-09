@@ -1,0 +1,62 @@
+{
+  "id": 1243567231,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"2018-09-06",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-151.82565,-11.42459,-151.82565,-11.42459",
+    "geom:latitude":-11.42459,
+    "geom:longitude":-151.82565,
+    "gn:admin1_code":"2.0",
+    "gn:admin2_code":"FL",
+    "gn:asciiname":"Diggers and Planters Settlement",
+    "gn:country_code":"KI",
+    "gn:dem":24,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLQ",
+    "gn:geonameid":7521522,
+    "gn:latitude":-11.42459,
+    "gn:longitude":-151.82565,
+    "gn:modification_date":"2010-08-19",
+    "gn:name":"Diggers and Planters Settlement",
+    "gn:population":0,
+    "gn:timezone":"Pacific/Kiritimati",
+    "iso:country":"KI",
+    "mz:hierarchy_label":1,
+    "mz:is_current":0,
+    "src:geom":"geonames",
+    "wof:belongsto":[],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7521522
+    },
+    "wof:country":"KI",
+    "wof:geomhash":"7b6909f82f8d891eb73b0f3bf60b059e",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":-1,
+            "locality_id":1243567231,
+            "region_id":-1
+        }
+    ],
+    "wof:id":1243567231,
+    "wof:lastmodified":1536629747,
+    "wof:name":"Diggers and Planters Settlement",
+    "wof:parent_id":-1,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ki",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -151.82565,
+    -11.42459,
+    -151.82565,
+    -11.42459
+],
+  "geometry": {"coordinates":[-151.82565,-11.42459],"type":"Point"}
+}

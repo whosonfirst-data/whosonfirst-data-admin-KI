@@ -1,0 +1,63 @@
+{
+  "id": 890451685,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"174.87231,-1.35622,174.87231,-1.35622",
+    "geom:latitude":-1.35622,
+    "geom:longitude":174.87231,
+    "gn:country":"KI",
+    "gn:fcode":"PPL",
+    "gn:pop":35,
+    "iso:country":"KI",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "qs:name":"Bangai Village",
+    "qs:photos_9r":0,
+    "qs:photos_sr":0,
+    "qs:pop_sr":"1",
+    "src:population":"geonames",
+    "wd:wordcount":49,
+    "wof:belongsto":[
+        85632709
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7576545,
+        "gp:id":12514197,
+        "qs:id":693253,
+        "wd:id":"Q4855017",
+        "wk:page":"Bangai, Rupandehi"
+    },
+    "wof:country":"KI",
+    "wof:created":1469052790,
+    "wof:geomhash":"720c5fb185d5680dd2f173982a8eb674",
+    "wof:hierarchy":[
+        {
+            "country_id":85632709,
+            "locality_id":890451685
+        }
+    ],
+    "wof:id":890451685,
+    "wof:lastmodified":1527792939,
+    "wof:name":"Bangai Village",
+    "wof:parent_id":-1,
+    "wof:placetype":"locality",
+    "wof:population":35,
+    "wof:population_rank":1,
+    "wof:repo":"whosonfirst-data-admin-ki",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    174.87231,
+    -1.35622,
+    174.87231,
+    -1.35622
+],
+  "geometry": {"coordinates":[174.87231,-1.35622],"type":"Point"}
+}

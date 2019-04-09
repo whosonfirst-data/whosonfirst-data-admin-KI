@@ -1,0 +1,67 @@
+{
+  "id": 890413103,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"175.97009,-1.29682,175.97009,-1.29682",
+    "geom:latitude":-1.29682,
+    "geom:longitude":175.97009,
+    "gn:country":"KI",
+    "gn:fcode":"PPL",
+    "gn:pop":204,
+    "iso:country":"KI",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:unk_x_variant":[
+        "Autukia"
+    ],
+    "qs:name":"Autokia Village",
+    "qs:photos_9r":0,
+    "qs:photos_sr":0,
+    "qs:pop_sr":"2",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191583,
+        85632709,
+        85681277
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2110262,
+        "gp:id":12514188,
+        "qs:id":572059
+    },
+    "wof:country":"KI",
+    "wof:created":1469050988,
+    "wof:geomhash":"17aa8cc63a1821a8880b367b1ab8c098",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191583,
+            "country_id":85632709,
+            "locality_id":890413103,
+            "region_id":85681277
+        }
+    ],
+    "wof:id":890413103,
+    "wof:lastmodified":1505343412,
+    "wof:name":"Autokia Village",
+    "wof:parent_id":85681277,
+    "wof:placetype":"locality",
+    "wof:population":204,
+    "wof:population_rank":2,
+    "wof:repo":"whosonfirst-data-admin-ki",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    175.97009,
+    -1.29682,
+    175.97009,
+    -1.29682
+],
+  "geometry": {"coordinates":[175.97009,-1.29682],"type":"Point"}
+}

@@ -1,0 +1,64 @@
+{
+  "id": 1343373969,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-157.39361,1.96865,-157.39361,1.96865",
+    "geom:latitude":1.96865,
+    "geom:longitude":-157.39361,
+    "gn:asciiname":"Banana",
+    "gn:country_code":"KI",
+    "gn:dem":5,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLL",
+    "gn:geonameid":11185878,
+    "gn:latitude":1.96865,
+    "gn:longitude":-157.39361,
+    "gn:modification_date":"2016-06-26",
+    "gn:name":"Banana",
+    "gn:population":0,
+    "gn:timezone":"Pacific/Kiritimati",
+    "iso:country":"KI",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191583,
+        85632709,
+        85681277
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11185878
+    },
+    "wof:country":"KI",
+    "wof:geomhash":"db15acda1823ef4605c52b485135640e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191583,
+            "country_id":85632709,
+            "locality_id":1343373969,
+            "region_id":85681277
+        }
+    ],
+    "wof:id":1343373969,
+    "wof:lastmodified":1536869810,
+    "wof:name":"Banana",
+    "wof:parent_id":85681277,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ki",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -157.39361,
+    1.96865,
+    -157.39361,
+    1.96865
+],
+  "geometry": {"coordinates":[-157.39361,1.96865],"type":"Point"}
+}

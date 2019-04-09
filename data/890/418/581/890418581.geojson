@@ -1,0 +1,62 @@
+{
+  "id": 890418581,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"172.99759,0.91869,172.99759,0.91869",
+    "geom:latitude":0.91869,
+    "geom:longitude":172.99759,
+    "gn:country":"KI",
+    "gn:fcode":"ADM2",
+    "gn:pop":1908,
+    "iso:country":"KI",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "qs:name":"Maiana",
+    "qs:photos_9r":0,
+    "qs:photos_sr":0,
+    "qs:pop_sr":"3",
+    "src:population":"geonames",
+    "wd:wordcount":702,
+    "wof:belongsto":[
+        85632709
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7521595,
+        "qs:id":689631,
+        "wd:id":"Q909742",
+        "wk:page":"Maiana"
+    },
+    "wof:country":"KI",
+    "wof:created":1469051253,
+    "wof:geomhash":"f844b47e0e660f5452adc969c9bd460d",
+    "wof:hierarchy":[
+        {
+            "country_id":85632709,
+            "county_id":890418581
+        }
+    ],
+    "wof:id":890418581,
+    "wof:lastmodified":1527792815,
+    "wof:name":"Maiana",
+    "wof:parent_id":-1,
+    "wof:placetype":"county",
+    "wof:population":1908,
+    "wof:population_rank":3,
+    "wof:repo":"whosonfirst-data-admin-ki",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    172.99759,
+    0.91869,
+    172.99759,
+    0.91869
+],
+  "geometry": {"coordinates":[172.99759,0.91869],"type":"Point"}
+}

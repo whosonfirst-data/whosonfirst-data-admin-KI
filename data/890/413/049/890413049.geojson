@@ -1,0 +1,63 @@
+{
+  "id": 890413049,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"173.29218,1.9998,173.29218,1.9998",
+    "geom:latitude":1.9998,
+    "geom:longitude":173.29218,
+    "gn:country":"KI",
+    "gn:fcode":"PPL",
+    "gn:pop":311,
+    "iso:country":"KI",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "qs:name":"Norauea Village",
+    "qs:photos_9r":0,
+    "qs:photos_sr":0,
+    "qs:pop_sr":"2",
+    "src:population":"geonames",
+    "wd:wordcount":91,
+    "wof:belongsto":[
+        85632709
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2110125,
+        "gp:id":12514194,
+        "qs:id":572022,
+        "wd:id":"Q16918457",
+        "wk:page":"Rawata Pass incident"
+    },
+    "wof:country":"KI",
+    "wof:created":1469050986,
+    "wof:geomhash":"71f6fe971280d02538e3228e6d823a77",
+    "wof:hierarchy":[
+        {
+            "country_id":85632709,
+            "locality_id":890413049
+        }
+    ],
+    "wof:id":890413049,
+    "wof:lastmodified":1527727170,
+    "wof:name":"Norauea Village",
+    "wof:parent_id":-1,
+    "wof:placetype":"locality",
+    "wof:population":311,
+    "wof:population_rank":2,
+    "wof:repo":"whosonfirst-data-admin-ki",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    173.29218,
+    1.9998,
+    173.29218,
+    1.9998
+],
+  "geometry": {"coordinates":[173.29218,1.9998],"type":"Point"}
+}

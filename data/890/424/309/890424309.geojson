@@ -1,0 +1,63 @@
+{
+  "id": 890424309,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"173.07029,1.35769,173.07029,1.35769",
+    "geom:latitude":1.35769,
+    "geom:longitude":173.07029,
+    "gn:country":"KI",
+    "gn:fcode":"PPL",
+    "gn:pop":94,
+    "iso:country":"KI",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "qs:name":"Tangintebu Village",
+    "qs:photos_9r":0,
+    "qs:photos_sr":0,
+    "qs:pop_sr":"1",
+    "src:population":"geonames",
+    "wd:wordcount":344,
+    "wof:belongsto":[
+        85632709
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7601777,
+        "gp:id":12514189,
+        "qs:id":693617,
+        "wd:id":"Q6415103",
+        "wk:page":"Kiribati Uniting Church"
+    },
+    "wof:country":"KI",
+    "wof:created":1469051539,
+    "wof:geomhash":"0b046fbf34dbc0b86b7878de9aa17934",
+    "wof:hierarchy":[
+        {
+            "country_id":85632709,
+            "locality_id":890424309
+        }
+    ],
+    "wof:id":890424309,
+    "wof:lastmodified":1527727262,
+    "wof:name":"Tangintebu Village",
+    "wof:parent_id":-1,
+    "wof:placetype":"locality",
+    "wof:population":94,
+    "wof:population_rank":1,
+    "wof:repo":"whosonfirst-data-admin-ki",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    173.07029,
+    1.35769,
+    173.07029,
+    1.35769
+],
+  "geometry": {"coordinates":[173.07029,1.35769],"type":"Point"}
+}

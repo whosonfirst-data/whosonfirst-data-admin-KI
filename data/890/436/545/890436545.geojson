@@ -1,0 +1,63 @@
+{
+  "id": 890436545,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"172.68804,3.26,172.68804,3.26",
+    "geom:latitude":3.26,
+    "geom:longitude":172.68804,
+    "gn:country":"KI",
+    "gn:fcode":"PPL",
+    "gn:pop":203,
+    "iso:country":"KI",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "qs:name":"Bikati Village",
+    "qs:photos_9r":0,
+    "qs:photos_sr":0,
+    "qs:pop_sr":"2",
+    "src:population":"geonames",
+    "wd:wordcount":2295,
+    "wof:belongsto":[
+        85632709
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7576955,
+        "gp:id":12514190,
+        "qs:id":693300,
+        "wd:id":"Q867325",
+        "wk:page":"Butaritari"
+    },
+    "wof:country":"KI",
+    "wof:created":1469052115,
+    "wof:geomhash":"761fe0372fa3c161ef30715e4b7cf089",
+    "wof:hierarchy":[
+        {
+            "country_id":85632709,
+            "locality_id":890436545
+        }
+    ],
+    "wof:id":890436545,
+    "wof:lastmodified":1527735403,
+    "wof:name":"Bikati Village",
+    "wof:parent_id":-1,
+    "wof:placetype":"locality",
+    "wof:population":203,
+    "wof:population_rank":2,
+    "wof:repo":"whosonfirst-data-admin-ki",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    172.68804,
+    3.26,
+    172.68804,
+    3.26
+],
+  "geometry": {"coordinates":[172.68804,3.26],"type":"Point"}
+}

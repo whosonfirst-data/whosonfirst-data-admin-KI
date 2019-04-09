@@ -1,0 +1,65 @@
+{
+  "id": 1310312507,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"2018-09-07",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-171.09089,-3.11643,-171.09089,-3.11643",
+    "geom:latitude":-3.11643,
+    "geom:longitude":-171.09089,
+    "gn:admin1_code":"3.0",
+    "gn:admin2_code":"EN",
+    "gn:asciiname":"Diggers Camp 1870",
+    "gn:country_code":"KI",
+    "gn:dem":5,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLQ",
+    "gn:geonameid":7576117,
+    "gn:latitude":-3.11643,
+    "gn:longitude":-171.09089,
+    "gn:modification_date":"2010-10-14",
+    "gn:name":"Diggers Camp 1870",
+    "gn:population":0,
+    "gn:timezone":"Pacific/Enderbury",
+    "iso:country":"KI",
+    "mz:hierarchy_label":1,
+    "mz:is_current":0,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191583,
+        85632709
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7576117
+    },
+    "wof:country":"KI",
+    "wof:geomhash":"d011837493a6acddf576f35899bd8284",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191583,
+            "country_id":85632709,
+            "locality_id":1310312507,
+            "region_id":-1
+        }
+    ],
+    "wof:id":1310312507,
+    "wof:lastmodified":1536697984,
+    "wof:name":"Diggers Camp 1870",
+    "wof:parent_id":-1,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ki",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -171.09089,
+    -3.11643,
+    -171.09089,
+    -3.11643
+],
+  "geometry": {"coordinates":[-171.09089,-3.11643],"type":"Point"}
+}

@@ -1,0 +1,91 @@
+{
+  "id": 1125987679,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"176.43567,-1.34244,176.43567,-1.34244",
+    "geom:latitude":-1.34244,
+    "geom:longitude":176.43567,
+    "gn:gn_country":"KI",
+    "gn:gn_fcode":"PPL",
+    "gn:gn_pop":933,
+    "gn:population":933,
+    "iso:country":"KI",
+    "lbl:latitude":-1.34244,
+    "lbl:longitude":176.43567,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:bul_x_preferred":[
+        "\u0420\u0443\u043d\u0433\u0430\u0442\u0430"
+    ],
+    "name:dut_x_preferred":[
+        "Rungata"
+    ],
+    "name:eng_x_preferred":[
+        "Rungata"
+    ],
+    "name:pol_x_preferred":[
+        "Rungata"
+    ],
+    "name:swe_x_preferred":[
+        "Rungata"
+    ],
+    "name:unk_x_variant":[
+        "Rongata"
+    ],
+    "qs_pg:aaroncc":"KI",
+    "qs_pg:gn_country":"KI",
+    "qs_pg:gn_fcode":"PPL",
+    "qs_pg:gn_id":2110121,
+    "qs_pg:gn_pop":933,
+    "qs_pg:name":"Rungata",
+    "qs_pg:photos_9r":0,
+    "qs_pg:photos_sr":0,
+    "qs_pg:pop_sr":3,
+    "qs_pg:qs_id":278008,
+    "qs_pg:qs_pg_placetype":"locality",
+    "src:geom":"qs_pg",
+    "src:lbl:centroid":"qs_pg",
+    "src:population":"geonames",
+    "wof:belongsto":[],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2110121,
+        "qs_pg:id":278008,
+        "wd:id":"Q7379854"
+    },
+    "wof:country":"KI",
+    "wof:created":1497298891,
+    "wof:geomhash":"ad84ee8dd9ef3ed9addf488404329a58",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":-1,
+            "locality_id":1125987679,
+            "region_id":-1
+        }
+    ],
+    "wof:id":1125987679,
+    "wof:lastmodified":1514468970,
+    "wof:name":"Rungata",
+    "wof:parent_id":-1,
+    "wof:placetype":"locality",
+    "wof:population":933,
+    "wof:population_rank":2,
+    "wof:repo":"whosonfirst-data-admin-ki",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    176.43567,
+    -1.34244,
+    176.43567,
+    -1.34244
+],
+  "geometry": {"coordinates":[176.43566999999999,-1.34244],"type":"Point"}
+}

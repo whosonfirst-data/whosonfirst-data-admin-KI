@@ -1,0 +1,66 @@
+{
+  "id": 890413055,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"169.52233,-0.85414,169.52233,-0.85414",
+    "geom:latitude":-0.85414,
+    "geom:longitude":169.52233,
+    "gn:country":"KI",
+    "gn:fcode":"PPL",
+    "gn:pop":58,
+    "iso:country":"KI",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:unk_x_variant":[
+        "Tabwewa"
+    ],
+    "qs:name":"Tabewa Village",
+    "qs:photos_9r":0,
+    "qs:photos_sr":0,
+    "qs:pop_sr":"1",
+    "src:population":"geonames",
+    "wd:wordcount":1430,
+    "wof:belongsto":[
+        85632709
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2110135,
+        "gp:id":1064230,
+        "qs:id":572025,
+        "wd:id":"Q271901",
+        "wk:page":"Banaba Island"
+    },
+    "wof:country":"KI",
+    "wof:created":1469050986,
+    "wof:geomhash":"2e4dc5bb36435f098a836bcff4610c39",
+    "wof:hierarchy":[
+        {
+            "country_id":85632709,
+            "locality_id":890413055
+        }
+    ],
+    "wof:id":890413055,
+    "wof:lastmodified":1527727170,
+    "wof:name":"Tabewa Village",
+    "wof:parent_id":-1,
+    "wof:placetype":"locality",
+    "wof:population":58,
+    "wof:population_rank":1,
+    "wof:repo":"whosonfirst-data-admin-ki",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    169.52233,
+    -0.85414,
+    169.52233,
+    -0.85414
+],
+  "geometry": {"coordinates":[169.52233000000001,-0.85414],"type":"Point"}
+}

@@ -1,0 +1,63 @@
+{
+  "id": 890413017,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"175.01169,-1.44484,175.01169,-1.44484",
+    "geom:latitude":-1.44484,
+    "geom:longitude":175.01169,
+    "gn:country":"KI",
+    "gn:fcode":"PPL",
+    "gn:pop":331,
+    "iso:country":"KI",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "qs:name":"Tewai Village",
+    "qs:photos_9r":0,
+    "qs:photos_sr":0,
+    "qs:pop_sr":"2",
+    "src:population":"geonames",
+    "wd:wordcount":4021,
+    "wof:belongsto":[
+        85632709
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2110035,
+        "gp:id":12514197,
+        "qs:id":571989,
+        "wd:id":"Q4843005",
+        "wk:page":"Bah\u00e1'\u00ed Faith in Kiribati"
+    },
+    "wof:country":"KI",
+    "wof:created":1469050985,
+    "wof:geomhash":"899aaed962c38a6bbbdc8383d0a834ca",
+    "wof:hierarchy":[
+        {
+            "country_id":85632709,
+            "locality_id":890413017
+        }
+    ],
+    "wof:id":890413017,
+    "wof:lastmodified":1527727172,
+    "wof:name":"Tewai Village",
+    "wof:parent_id":-1,
+    "wof:placetype":"locality",
+    "wof:population":331,
+    "wof:population_rank":2,
+    "wof:repo":"whosonfirst-data-admin-ki",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    175.01169,
+    -1.44484,
+    175.01169,
+    -1.44484
+],
+  "geometry": {"coordinates":[175.01168999999999,-1.44484],"type":"Point"}
+}

@@ -1,0 +1,75 @@
+{
+  "id": 1126049831,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"174.6633,-1.13064,174.6633,-1.13064",
+    "geom:latitude":-1.13064,
+    "geom:longitude":174.6633,
+    "gn:gn_country":"KI",
+    "gn:gn_fcode":"PPL",
+    "gn:gn_pop":248,
+    "gn:population":248,
+    "iso:country":"KI",
+    "lbl:latitude":-1.13064,
+    "lbl:longitude":174.6633,
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "qs_pg:aaroncc":"KI",
+    "qs_pg:gn_country":"KI",
+    "qs_pg:gn_fcode":"PPL",
+    "qs_pg:gn_id":7576540,
+    "qs_pg:gn_pop":248,
+    "qs_pg:name":"Tekaman Village",
+    "qs_pg:photos_9r":0,
+    "qs_pg:photos_sr":0,
+    "qs_pg:pop_sr":2,
+    "qs_pg:qs_id":693252,
+    "qs_pg:qs_pg_placetype":"locality",
+    "src:geom":"qs_pg",
+    "src:lbl:centroid":"qs_pg",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191583,
+        85632709
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7576540,
+        "qs_pg:id":693252
+    },
+    "wof:country":"KI",
+    "wof:created":1497302657,
+    "wof:geomhash":"4e2d1f21fd3d83700cd36d817da88a43",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191583,
+            "country_id":85632709,
+            "locality_id":1126049831,
+            "region_id":-1
+        }
+    ],
+    "wof:id":1126049831,
+    "wof:lastmodified":1509409151,
+    "wof:name":"Tekaman Village",
+    "wof:parent_id":-1,
+    "wof:placetype":"locality",
+    "wof:population":248,
+    "wof:population_rank":2,
+    "wof:repo":"whosonfirst-data-admin-ki",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    174.6633,
+    -1.13064,
+    174.6633,
+    -1.13064
+],
+  "geometry": {"coordinates":[174.66329999999999,-1.13064],"type":"Point"}
+}

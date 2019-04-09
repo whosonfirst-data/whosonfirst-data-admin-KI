@@ -1,0 +1,73 @@
+{
+  "id": 890453553,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"174.45422,-0.73842,174.45422,-0.73842",
+    "geom:latitude":-0.73842,
+    "geom:longitude":174.45422,
+    "gn:country":"KI",
+    "gn:fcode":"PPL",
+    "gn:pop":668,
+    "iso:country":"KI",
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "name:dut_x_preferred":[
+        "Umantewena"
+    ],
+    "name:eng_x_preferred":[
+        "Umantewena"
+    ],
+    "name:swe_x_preferred":[
+        "Toboiaki Village"
+    ],
+    "name:unk_x_variant":[
+        "Umanterwena"
+    ],
+    "qs:name":"Toboiaki Village",
+    "qs:photos_9r":0,
+    "qs:photos_sr":0,
+    "qs:pop_sr":"2",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        85632709
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2110026,
+        "gp:id":12514196,
+        "qs:id":571985,
+        "wd:id":"Q7881096"
+    },
+    "wof:country":"KI",
+    "wof:created":1469052858,
+    "wof:geomhash":"0d1a09c4f0d1b7c21fd9783998f30046",
+    "wof:hierarchy":[
+        {
+            "country_id":85632709,
+            "locality_id":890453553
+        }
+    ],
+    "wof:id":890453553,
+    "wof:lastmodified":1514468971,
+    "wof:name":"Toboiaki Village",
+    "wof:parent_id":-1,
+    "wof:placetype":"locality",
+    "wof:population":668,
+    "wof:population_rank":2,
+    "wof:repo":"whosonfirst-data-admin-ki",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    174.45422,
+    -0.73842,
+    174.45422,
+    -0.73842
+],
+  "geometry": {"coordinates":[174.45421999999999,-0.73842],"type":"Point"}
+}

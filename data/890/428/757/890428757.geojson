@@ -1,0 +1,62 @@
+{
+  "id": 890428757,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"174.41433,-0.63125,174.41433,-0.63125",
+    "geom:latitude":-0.63125,
+    "geom:longitude":174.41433,
+    "gn:country":"KI",
+    "gn:fcode":"PPL",
+    "gn:pop":625,
+    "iso:country":"KI",
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "qs:name":"Rotuma Village",
+    "qs:photos_9r":0,
+    "qs:photos_sr":0,
+    "qs:pop_sr":"2",
+    "src:population":"geonames",
+    "wd:wordcount":2212,
+    "wof:belongsto":[
+        85632709
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2110122,
+        "gp:id":12514196,
+        "qs:id":572020,
+        "wk:page":"Rotuma"
+    },
+    "wof:country":"KI",
+    "wof:created":1469051769,
+    "wof:geomhash":"3836cc6e1323982e4e04deccc040e3a1",
+    "wof:hierarchy":[
+        {
+            "country_id":85632709,
+            "locality_id":890428757
+        }
+    ],
+    "wof:id":890428757,
+    "wof:lastmodified":1527782117,
+    "wof:name":"Rotuma Village",
+    "wof:parent_id":-1,
+    "wof:placetype":"locality",
+    "wof:population":625,
+    "wof:population_rank":2,
+    "wof:repo":"whosonfirst-data-admin-ki",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    174.41433,
+    -0.63125,
+    174.41433,
+    -0.63125
+],
+  "geometry": {"coordinates":[174.41433000000001,-0.63125],"type":"Point"}
+}

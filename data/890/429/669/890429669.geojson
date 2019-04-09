@@ -1,0 +1,63 @@
+{
+  "id": 890429669,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"173.03969,0.93847,173.03969,0.93847",
+    "geom:latitude":0.93847,
+    "geom:longitude":173.03969,
+    "gn:country":"KI",
+    "gn:fcode":"PPL",
+    "gn:pop":112,
+    "iso:country":"KI",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "qs:name":"Tebwangetua Village",
+    "qs:photos_9r":0,
+    "qs:photos_sr":0,
+    "qs:pop_sr":"1",
+    "src:population":"geonames",
+    "wd:wordcount":702,
+    "wof:belongsto":[
+        85632709
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7576843,
+        "gp:id":12514189,
+        "qs:id":108008,
+        "wd:id":"Q909742",
+        "wk:page":"Maiana"
+    },
+    "wof:country":"KI",
+    "wof:created":1469051824,
+    "wof:geomhash":"629ea8eee5881a471d567b3d75f90791",
+    "wof:hierarchy":[
+        {
+            "country_id":85632709,
+            "locality_id":890429669
+        }
+    ],
+    "wof:id":890429669,
+    "wof:lastmodified":1527792789,
+    "wof:name":"Tebwangetua Village",
+    "wof:parent_id":-1,
+    "wof:placetype":"locality",
+    "wof:population":112,
+    "wof:population_rank":1,
+    "wof:repo":"whosonfirst-data-admin-ki",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    173.03969,
+    0.93847,
+    173.03969,
+    0.93847
+],
+  "geometry": {"coordinates":[173.03969000000001,0.93847],"type":"Point"}
+}

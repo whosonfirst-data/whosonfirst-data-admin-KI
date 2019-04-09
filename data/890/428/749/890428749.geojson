@@ -1,0 +1,66 @@
+{
+  "id": 890428749,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"173.03591,1.8071,173.03591,1.8071",
+    "geom:latitude":1.8071,
+    "geom:longitude":173.03591,
+    "gn:country":"KI",
+    "gn:fcode":"PPL",
+    "gn:pop":324,
+    "iso:country":"KI",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:unk_x_variant":[
+        "Tabwiroa"
+    ],
+    "qs:name":"Tabuiroa Village",
+    "qs:photos_9r":0,
+    "qs:photos_sr":0,
+    "qs:pop_sr":"2",
+    "src:population":"geonames",
+    "wd:wordcount":458,
+    "wof:belongsto":[
+        85632709
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2110096,
+        "gp:id":12514187,
+        "qs:id":572009,
+        "wd:id":"Q2329141",
+        "wk:page":"Education in Kiribati"
+    },
+    "wof:country":"KI",
+    "wof:created":1469051769,
+    "wof:geomhash":"b3ee48400c78ad01baf30893d0e9bec3",
+    "wof:hierarchy":[
+        {
+            "country_id":85632709,
+            "locality_id":890428749
+        }
+    ],
+    "wof:id":890428749,
+    "wof:lastmodified":1527782116,
+    "wof:name":"Tabuiroa Village",
+    "wof:parent_id":-1,
+    "wof:placetype":"locality",
+    "wof:population":324,
+    "wof:population_rank":2,
+    "wof:repo":"whosonfirst-data-admin-ki",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    173.03591,
+    1.8071,
+    173.03591,
+    1.8071
+],
+  "geometry": {"coordinates":[173.03591,1.8071],"type":"Point"}
+}

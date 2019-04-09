@@ -1,0 +1,63 @@
+{
+  "id": 890429785,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"172.97462,3.32342,172.97462,3.32342",
+    "geom:latitude":3.32342,
+    "geom:longitude":172.97462,
+    "gn:country":"KI",
+    "gn:fcode":"PPL",
+    "gn:pop":551,
+    "iso:country":"KI",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "qs:name":"Kiebu Village",
+    "qs:photos_9r":0,
+    "qs:photos_sr":0,
+    "qs:pop_sr":"2",
+    "src:population":"geonames",
+    "wd:wordcount":1392,
+    "wof:belongsto":[
+        85632709
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7576912,
+        "gp:id":12514190,
+        "qs:id":693296,
+        "wd:id":"Q867455",
+        "wk:page":"Makin (islands)"
+    },
+    "wof:country":"KI",
+    "wof:created":1469051829,
+    "wof:geomhash":"ea05e06d01fa07ef859e513fea4480b2",
+    "wof:hierarchy":[
+        {
+            "country_id":85632709,
+            "locality_id":890429785
+        }
+    ],
+    "wof:id":890429785,
+    "wof:lastmodified":1527792791,
+    "wof:name":"Kiebu Village",
+    "wof:parent_id":-1,
+    "wof:placetype":"locality",
+    "wof:population":551,
+    "wof:population_rank":2,
+    "wof:repo":"whosonfirst-data-admin-ki",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    172.97462,
+    3.32342,
+    172.97462,
+    3.32342
+],
+  "geometry": {"coordinates":[172.97461999999999,3.32342],"type":"Point"}
+}

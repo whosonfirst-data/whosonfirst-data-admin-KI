@@ -1,0 +1,62 @@
+{
+  "id": 890445655,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-160.37814,4.69384,-160.37814,4.69384",
+    "geom:latitude":4.69384,
+    "geom:longitude":-160.37814,
+    "gn:country":"KI",
+    "gn:fcode":"PPL",
+    "gn:pop":72,
+    "iso:country":"KI",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "qs:name":"Uteute Village",
+    "qs:photos_9r":0,
+    "qs:photos_sr":0,
+    "qs:pop_sr":"1",
+    "src:population":"geonames",
+    "wd:wordcount":3211,
+    "wof:belongsto":[
+        85632709
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7521825,
+        "qs:id":689655,
+        "wd:id":"Q911037",
+        "wk:page":"Teraina"
+    },
+    "wof:country":"KI",
+    "wof:created":1469052517,
+    "wof:geomhash":"aabaf29804b40c29b6633d8a6711ad8f",
+    "wof:hierarchy":[
+        {
+            "country_id":85632709,
+            "locality_id":890445655
+        }
+    ],
+    "wof:id":890445655,
+    "wof:lastmodified":1527792873,
+    "wof:name":"Uteute Village",
+    "wof:parent_id":-1,
+    "wof:placetype":"locality",
+    "wof:population":72,
+    "wof:population_rank":1,
+    "wof:repo":"whosonfirst-data-admin-ki",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -160.37814,
+    4.69384,
+    -160.37814,
+    4.69384
+],
+  "geometry": {"coordinates":[-160.37814,4.69384],"type":"Point"}
+}

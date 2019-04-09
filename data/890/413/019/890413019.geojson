@@ -1,0 +1,67 @@
+{
+  "id": 890413019,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"175.99926,-1.34313,175.99926,-1.34313",
+    "geom:latitude":-1.34313,
+    "geom:longitude":175.99926,
+    "gn:country":"KI",
+    "gn:fcode":"PPL",
+    "gn:pop":74,
+    "iso:country":"KI",
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "name:dut_x_preferred":[
+        "Teteirio"
+    ],
+    "name:eng_x_preferred":[
+        "Teteirio"
+    ],
+    "qs:name":"Teteirio Village",
+    "qs:photos_9r":0,
+    "qs:photos_sr":0,
+    "qs:pop_sr":"1",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        85632709
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2110039,
+        "gp:id":12514188,
+        "qs:id":571990,
+        "wd:id":"Q16874910"
+    },
+    "wof:country":"KI",
+    "wof:created":1469050985,
+    "wof:geomhash":"8f2c26aa7f2051e03c1545aa183d781a",
+    "wof:hierarchy":[
+        {
+            "country_id":85632709,
+            "locality_id":890413019
+        }
+    ],
+    "wof:id":890413019,
+    "wof:lastmodified":1514468971,
+    "wof:name":"Teteirio Village",
+    "wof:parent_id":-1,
+    "wof:placetype":"locality",
+    "wof:population":74,
+    "wof:population_rank":1,
+    "wof:repo":"whosonfirst-data-admin-ki",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    175.99926,
+    -1.34313,
+    175.99926,
+    -1.34313
+],
+  "geometry": {"coordinates":[175.99925999999999,-1.34313],"type":"Point"}
+}

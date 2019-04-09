@@ -1,0 +1,63 @@
+{
+  "id": 890413045,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"172.87764,3.10106,172.87764,3.10106",
+    "geom:latitude":3.10106,
+    "geom:longitude":172.87764,
+    "gn:country":"KI",
+    "gn:fcode":"PPL",
+    "gn:pop":250,
+    "iso:country":"KI",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "qs:name":"Tanimaiaki Village",
+    "qs:photos_9r":0,
+    "qs:photos_sr":0,
+    "qs:pop_sr":"2",
+    "src:population":"geonames",
+    "wd:wordcount":2295,
+    "wof:belongsto":[
+        85632709
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2110083,
+        "gp:id":12514190,
+        "qs:id":572002,
+        "wd:id":"Q867325",
+        "wk:page":"Butaritari"
+    },
+    "wof:country":"KI",
+    "wof:created":1469050986,
+    "wof:geomhash":"349dd6c4bd6e4026ab6f9fce99375326",
+    "wof:hierarchy":[
+        {
+            "country_id":85632709,
+            "locality_id":890413045
+        }
+    ],
+    "wof:id":890413045,
+    "wof:lastmodified":1527727171,
+    "wof:name":"Tanimaiaki Village",
+    "wof:parent_id":-1,
+    "wof:placetype":"locality",
+    "wof:population":250,
+    "wof:population_rank":2,
+    "wof:repo":"whosonfirst-data-admin-ki",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    172.87764,
+    3.10106,
+    172.87764,
+    3.10106
+],
+  "geometry": {"coordinates":[172.87764000000001,3.10106],"type":"Point"}
+}

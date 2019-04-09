@@ -1,0 +1,60 @@
+{
+  "id": 890417397,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"172.9336,1.35046,172.9336,1.35046",
+    "geom:latitude":1.35046,
+    "geom:longitude":172.9336,
+    "gn:country":"KI",
+    "gn:fcode":"LCTY",
+    "gn:pop":12509,
+    "iso:country":"KI",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "qs:name":"Betio Town",
+    "qs:photos_9r":0,
+    "qs:photos_sr":0,
+    "qs:pop_sr":"6",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        85632709
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7601759,
+        "gp:id":12514189,
+        "qs:id":693605
+    },
+    "wof:country":"KI",
+    "wof:created":1469051199,
+    "wof:geomhash":"1829c78261c8c76acf8efb273c4bfcfa",
+    "wof:hierarchy":[
+        {
+            "country_id":85632709,
+            "locality_id":890417397
+        }
+    ],
+    "wof:id":890417397,
+    "wof:lastmodified":1505343438,
+    "wof:name":"Betio Town",
+    "wof:parent_id":-1,
+    "wof:placetype":"locality",
+    "wof:population":12509,
+    "wof:population_rank":6,
+    "wof:repo":"whosonfirst-data-admin-ki",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    172.9336,
+    1.35046,
+    172.9336,
+    1.35046
+],
+  "geometry": {"coordinates":[172.93360000000001,1.35046],"type":"Point"}
+}
