@@ -18,7 +18,7 @@
     "name:eng_x_preferred":[
         "Abatiku"
     ],
-    "name:fre_x_preferred":[
+    "name:fra_x_preferred":[
         "Abatiku"
     ],
     "name:swe_x_preferred":[
@@ -50,7 +50,7 @@
         }
     ],
     "wof:id":890442565,
-    "wof:lastmodified":1527792857,
+    "wof:lastmodified":1561778201,
     "wof:name":"Abatiku Village",
     "wof:parent_id":-1,
     "wof:placetype":"locality",
