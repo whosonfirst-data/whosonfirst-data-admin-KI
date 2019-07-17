@@ -15,6 +15,9 @@
     "iso:country":"KI",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:eng_x_preferred":[
+        "Rawata Pass incident"
+    ],
     "qs:name":"Norauea Village",
     "qs:photos_9r":0,
     "qs:photos_sr":0,
@@ -41,7 +44,7 @@
         }
     ],
     "wof:id":890418589,
-    "wof:lastmodified":1527792816,
+    "wof:lastmodified":1563321992,
     "wof:name":"Norauea Village",
     "wof:parent_id":-1,
     "wof:placetype":"locality",

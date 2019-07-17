@@ -15,6 +15,9 @@
     "iso:country":"KI",
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "name:ceb_x_preferred":[
+        "Nikumanu Village"
+    ],
     "name:eng_x_preferred":[
         "Nikumanu"
     ],
@@ -54,7 +57,7 @@
         }
     ],
     "wof:id":890445333,
-    "wof:lastmodified":1561778201,
+    "wof:lastmodified":1563322005,
     "wof:name":"Nikumanu Village",
     "wof:parent_id":-1,
     "wof:placetype":"locality",

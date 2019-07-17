@@ -13,11 +13,17 @@
     "mz:hierarchy_label":1,
     "mz:is_current":1,
     "mz:note":"quattroshapes points import (201603)",
+    "name:ceb_x_preferred":[
+        "London Village"
+    ],
     "name:deu_x_preferred":[
         "London"
     ],
     "name:eng_x_preferred":[
         "London"
+    ],
+    "name:epo_x_preferred":[
+        "Londono"
     ],
     "name:fra_x_preferred":[
         "London"
@@ -34,17 +40,26 @@
     "name:lit_x_preferred":[
         "Londonas"
     ],
+    "name:lzh_x_preferred":[
+        "\u502b\u6566"
+    ],
     "name:nld_x_preferred":[
         "London"
     ],
     "name:pol_x_preferred":[
         "London"
     ],
+    "name:rus_x_preferred":[
+        "\u041b\u043e\u043d\u0434\u043e\u043d"
+    ],
     "name:spa_x_preferred":[
         "London"
     ],
     "name:swe_x_preferred":[
         "London"
+    ],
+    "name:zho_x_preferred":[
+        "\u502b\u6566"
     ],
     "qs:gn_country":"KI",
     "qs:gn_fcode":"PPL",
@@ -87,7 +102,7 @@
         }
     ],
     "wof:id":421201685,
-    "wof:lastmodified":1561778199,
+    "wof:lastmodified":1563321923,
     "wof:name":"London",
     "wof:parent_id":-1,
     "wof:placetype":"locality",

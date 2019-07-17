@@ -59,6 +59,9 @@
     "name:ast_x_preferred":[
         "Kiribati"
     ],
+    "name:azb_x_preferred":[
+        "\u06a9\u06cc\u0631\u06cc\u0628\u0627\u062a\u06cc"
+    ],
     "name:aze_x_preferred":[
         "Kiribati"
     ],
@@ -74,14 +77,14 @@
     "name:bel_x_preferred":[
         "\u041a\u0456\u0440\u044b\u0431\u0430\u0446\u0456"
     ],
-    "name:bel_x_variant":[
-        "\u041a\u0456\u0440\u044b\u0431\u0430\u0446\u0456"
-    ],
     "name:ben_x_preferred":[
         "\u0995\u09bf\u09b0\u09bf\u09ac\u09be\u09b8"
     ],
     "name:ben_x_variant":[
         "\u0995\u09bf\u09b0\u09bf\u09ac\u09be\u09a4\u09bf"
+    ],
+    "name:bho_x_preferred":[
+        "\u0915\u093f\u0930\u093f\u092c\u093e\u0924\u0940"
     ],
     "name:bjn_x_preferred":[
         "Kiribati"
@@ -161,6 +164,9 @@
     "name:dsb_x_preferred":[
         "Kiribati"
     ],
+    "name:dty_x_preferred":[
+        "\u0915\u093f\u0930\u093f\u0935\u093e\u091f\u0940"
+    ],
     "name:ell_x_preferred":[
         "\u039a\u03b9\u03c1\u03b9\u03bc\u03c0\u03ac\u03c4\u03b9"
     ],
@@ -230,6 +236,9 @@
     "name:gle_x_preferred":[
         "Ciribeas"
     ],
+    "name:gle_x_variant":[
+        "Cireabait\u00ed"
+    ],
     "name:glg_x_preferred":[
         "Kiribati"
     ],
@@ -242,8 +251,17 @@
     "name:gom_x_preferred":[
         "\u0915\u093f\u0930\u093f\u092c\u093e\u091f\u0940"
     ],
+    "name:grn_x_preferred":[
+        "Kiriv\u00e1ti"
+    ],
+    "name:gsw_x_preferred":[
+        "Kiribati"
+    ],
     "name:guj_x_preferred":[
         "\u0a95\u0abf\u0ab0\u0abf\u0aac\u0abe\u0a9f\u0ac0"
+    ],
+    "name:guj_x_variant":[
+        "\u0a95\u0abf\u0ab0\u0ac0\u0aac\u0abe\u0a9f\u0ac0"
     ],
     "name:hak_x_preferred":[
         "Kiribati"
@@ -365,6 +383,9 @@
     "name:lav_x_preferred":[
         "Kiribati"
     ],
+    "name:lfn_x_preferred":[
+        "Ciribas"
+    ],
     "name:lij_x_preferred":[
         "Kiribati"
     ],
@@ -388,6 +409,9 @@
     ],
     "name:lug_x_preferred":[
         "Kiribati"
+    ],
+    "name:lzh_x_preferred":[
+        "\u5409\u91cc\u5df4\u65af"
     ],
     "name:mal_x_preferred":[
         "\u0d15\u0d3f\u0d30\u0d40\u0d2c\u0d3e\u0d38\u0d4d"
@@ -425,6 +449,12 @@
     "name:mya_x_preferred":[
         "\u1000\u102e\u101b\u102e\u1018\u1010\u103a\u1005\u103a\u1014\u102d\u102f\u1004\u103a\u1004\u1036"
     ],
+    "name:nah_x_preferred":[
+        "Quiribati"
+    ],
+    "name:nan_x_preferred":[
+        "Kiribati"
+    ],
     "name:nau_x_preferred":[
         "Kiribat"
     ],
@@ -461,11 +491,15 @@
     "name:oci_x_preferred":[
         "Kiribati"
     ],
+    "name:olo_x_preferred":[
+        "Kiribati"
+    ],
     "name:ori_x_preferred":[
         "\u0b15\u0b3f\u0b30\u0b3f\u0b2c\u0b3e\u0b24\u0b3f"
     ],
     "name:ori_x_variant":[
-        "\u0b15\u0b3f\u0b30\u0b3f\u0b2c\u0b3e\u0b1f\u0b40"
+        "\u0b15\u0b3f\u0b30\u0b3f\u0b2c\u0b3e\u0b1f\u0b40",
+        "\u0b15\u0b3f\u0b30\u0b3f\u0b2c\u0b3e\u0b38"
     ],
     "name:oss_x_preferred":[
         "\u041a\u0438\u0440\u0438\u0431\u0430\u0442\u0438"
@@ -475,6 +509,9 @@
     ],
     "name:pan_x_preferred":[
         "\u0a15\u0a3f\u0a30\u0a40\u0a2c\u0a3e\u0a38"
+    ],
+    "name:pap_x_preferred":[
+        "Kiribati"
     ],
     "name:pih_x_preferred":[
         "Kiribaati"
@@ -530,6 +567,9 @@
     "name:sco_x_preferred":[
         "Kiribati"
     ],
+    "name:sgs_x_preferred":[
+        "K\u0117r\u0117batis"
+    ],
     "name:sin_x_preferred":[
         "\u0d9a\u0dd2\u0dbb\u0dd2\u0db6\u0da7\u0dd2"
     ],
@@ -544,6 +584,9 @@
     ],
     "name:smo_x_preferred":[
         "Kiripati"
+    ],
+    "name:smo_x_variant":[
+        "Kilibati"
     ],
     "name:sna_x_preferred":[
         "Kiribati"
@@ -591,7 +634,8 @@
         "\u0c15\u0c3f\u0c30\u0c3f\u0c2c\u0c1f\u0c3f"
     ],
     "name:tel_x_variant":[
-        "\u0c15\u0c3f\u0c30\u0c3f\u0c2c\u0c3e\u0c1f\u0c3f"
+        "\u0c15\u0c3f\u0c30\u0c3f\u0c2c\u0c3e\u0c1f\u0c3f",
+        "\u0c15\u0c3f\u0c30\u0c3f\u0c2c\u0c3e\u0c24\u0c3f"
     ],
     "name:tgk_x_preferred":[
         "\u04b6\u0443\u043c\u04b3\u0443\u0440\u0438\u0438 \u041a\u0438\u0440\u0438\u0431\u0430\u0442\u04e3"
@@ -614,6 +658,9 @@
     ],
     "name:tpi_x_preferred":[
         "Kiribas"
+    ],
+    "name:tuk_x_preferred":[
+        "Kiribati"
     ],
     "name:tur_x_preferred":[
         "Kiribati"
@@ -651,6 +698,9 @@
     "name:vol_x_preferred":[
         "Kiribatu\u00e4ns"
     ],
+    "name:vro_x_preferred":[
+        "Kiribati"
+    ],
     "name:war_x_preferred":[
         "Kiribati"
     ],
@@ -669,7 +719,13 @@
     "name:yor_x_variant":[
         "Or\u00edl\u1eb9\u0301\u00e8de Kiribati"
     ],
+    "name:yue_x_preferred":[
+        "\u57fa\u91cc\u5df4\u65af"
+    ],
     "name:zea_x_preferred":[
+        "Kiribati"
+    ],
+    "name:zha_x_preferred":[
         "Kiribati"
     ],
     "name:zho_min_nan_x_preferred":[
@@ -679,8 +735,7 @@
         "\u57fa\u91cc\u5df4\u65af"
     ],
     "name:zho_x_variant":[
-        "\u5409\u91cc\u5df4\u65af",
-        "\u57fa\u91cc\u5df4\u65af"
+        "\u5409\u91cc\u5df4\u65af"
     ],
     "name:zho_yue_x_preferred":[
         "\u57fa\u91cc\u5df4\u65af"
@@ -836,7 +891,7 @@
         "eng",
         "gil"
     ],
-    "wof:lastmodified":1544059267,
+    "wof:lastmodified":1563321922,
     "wof:name":"Kiribati",
     "wof:parent_id":102191583,
     "wof:placetype":"country",

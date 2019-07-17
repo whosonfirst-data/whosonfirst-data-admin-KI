@@ -15,6 +15,93 @@
     "iso:country":"KI",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:ast_x_preferred":[
+        "Dragonball Evolution"
+    ],
+    "name:ben_x_preferred":[
+        "\u09a1\u09cd\u09b0\u09cd\u09af\u09be\u0997\u09a8\u09ac\u09b2 \u0987\u09ad\u09cb\u09b2\u09cd\u09af\u09c1\u09b6\u09a8"
+    ],
+    "name:dan_x_preferred":[
+        "Dragonball: Evolution"
+    ],
+    "name:deu_x_preferred":[
+        "Dragonball Evolution"
+    ],
+    "name:eng_x_preferred":[
+        "Dragonball Evolution"
+    ],
+    "name:fas_x_preferred":[
+        "\u062f\u0631\u0627\u06af\u0648\u0646\u200c\u0628\u0627\u0644 \u0627\u0648\u0648\u0644\u0648\u0634\u0646"
+    ],
+    "name:fin_x_preferred":[
+        "Dragonball Evolution"
+    ],
+    "name:fra_x_preferred":[
+        "Dragonball Evolution"
+    ],
+    "name:hun_x_preferred":[
+        "Dragonball: Evol\u00faci\u00f3"
+    ],
+    "name:hye_x_preferred":[
+        "\u054e\u056b\u0577\u0561\u057a\u056b \u0574\u0561\u0580\u0563\u0561\u0580\u056b\u057f: \u0537\u057e\u0578\u056c\u0575\u0578\u0582\u0581\u056b\u0561"
+    ],
+    "name:ind_x_preferred":[
+        "Dragonball Evolution"
+    ],
+    "name:ita_x_preferred":[
+        "Dragonball Evolution"
+    ],
+    "name:jav_x_preferred":[
+        "Dragonball Evolution"
+    ],
+    "name:kan_x_preferred":[
+        "\u0ca1\u0ccd\u0cb0\u0ccd\u0caf\u0cbe\u0c97\u0ca8\u0ccd \u0cac\u0cbe\u0cb2\u0ccd \u0c8e\u0cb5\u0cb2\u0cc2\u0cb6\u0ca8\u0ccd"
+    ],
+    "name:kor_x_preferred":[
+        "\ub4dc\ub798\uace4\ubcfc \uc5d0\ubcfc\ub8e8\uc158"
+    ],
+    "name:lit_x_preferred":[
+        "Dragonball"
+    ],
+    "name:msa_x_preferred":[
+        "Dragonball Evolution"
+    ],
+    "name:nld_x_preferred":[
+        "Dragonball Evolution"
+    ],
+    "name:pol_x_preferred":[
+        "Dragonball: Ewolucja"
+    ],
+    "name:por_x_preferred":[
+        "Dragonball Evolution"
+    ],
+    "name:ron_x_preferred":[
+        "Dragonball: Evolu\u021bie"
+    ],
+    "name:rus_x_preferred":[
+        "\u0414\u0440\u0430\u043a\u043e\u043d\u0438\u0439 \u0436\u0435\u043c\u0447\u0443\u0433: \u042d\u0432\u043e\u043b\u044e\u0446\u0438\u044f"
+    ],
+    "name:spa_x_preferred":[
+        "Dragonball Evolution"
+    ],
+    "name:sqi_x_preferred":[
+        "Dragonball Evolution"
+    ],
+    "name:tel_x_preferred":[
+        "\u0c21\u0c4d\u0c30\u0c3e\u0c17\u0c28\u0c4d\u0c2c\u0c3e\u0c32\u0c4d \u0c0e\u0c35\u0c32\u0c4d\u0c2f\u0c42\u0c37\u0c28\u0c4d"
+    ],
+    "name:tha_x_preferred":[
+        "\u0e14\u0e23\u0e32\u0e01\u0e49\u0e2d\u0e19\u0e1a\u0e2d\u0e25 \u0e2d\u0e35\u0e42\u0e27\u0e25\u0e39\u0e0a\u0e31\u0e48\u0e19 \u0e40\u0e1b\u0e34\u0e14\u0e15\u0e33\u0e19\u0e32\u0e19\u0e43\u0e2b\u0e21\u0e48 \u0e19\u0e31\u0e01\u0e2a\u0e39\u0e49\u0e01\u0e39\u0e49\u0e42\u0e25\u0e01"
+    ],
+    "name:vie_x_preferred":[
+        "Dragonball Evolution"
+    ],
+    "name:yue_x_preferred":[
+        "\u4e03\u9f8d\u73e0"
+    ],
+    "name:zho_x_preferred":[
+        "\u4e03\u9f8d\u73e0"
+    ],
     "qs:name":"Eriko Village",
     "qs:photos_9r":0,
     "qs:photos_sr":0,
@@ -42,7 +129,7 @@
         }
     ],
     "wof:id":890422437,
-    "wof:lastmodified":1527727160,
+    "wof:lastmodified":1563321925,
     "wof:name":"Eriko Village",
     "wof:parent_id":-1,
     "wof:placetype":"locality",

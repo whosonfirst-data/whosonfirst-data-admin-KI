@@ -15,8 +15,74 @@
     "iso:country":"KI",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:ceb_x_preferred":[
+        "Kuria"
+    ],
+    "name:deu_x_preferred":[
+        "Kuria-Inseln"
+    ],
+    "name:ell_x_preferred":[
+        "\u039a\u03bf\u03c5\u03c1\u03af\u03b1"
+    ],
+    "name:eng_x_preferred":[
+        "Kuria"
+    ],
+    "name:epo_x_preferred":[
+        "Kuria"
+    ],
+    "name:fas_x_preferred":[
+        "\u06a9\u0648\u0631\u06cc\u0627"
+    ],
+    "name:fin_x_preferred":[
+        "Kuria"
+    ],
+    "name:fra_x_preferred":[
+        "Kuria"
+    ],
+    "name:glg_x_preferred":[
+        "Illas Kuria"
+    ],
+    "name:hrv_x_preferred":[
+        "Kuria"
+    ],
+    "name:ita_x_preferred":[
+        "Kuria"
+    ],
+    "name:jpn_x_preferred":[
+        "\u30af\u30ea\u30a2\u5cf6"
+    ],
+    "name:kor_x_preferred":[
+        "\ucfe0\ub9ac\uc544\uc12c"
+    ],
+    "name:mkd_x_preferred":[
+        "\u041a\u0443\u0440\u0438\u0458\u0430"
+    ],
+    "name:nld_x_preferred":[
+        "Kuria"
+    ],
+    "name:pol_x_preferred":[
+        "Kuria"
+    ],
+    "name:por_x_preferred":[
+        "Kuria"
+    ],
+    "name:rus_x_preferred":[
+        "\u041a\u0443\u0440\u0438\u0430"
+    ],
+    "name:spa_x_preferred":[
+        "Kuria"
+    ],
+    "name:swe_x_preferred":[
+        "Kuria"
+    ],
+    "name:tur_x_preferred":[
+        "Kuria Adas\u0131"
+    ],
     "name:unk_x_variant":[
         "Ewena"
+    ],
+    "name:zho_x_preferred":[
+        "\u5eab\u91cc\u4e9e\u5cf6"
     ],
     "qs:name":"Kuria Village",
     "qs:photos_9r":0,
@@ -49,7 +115,7 @@
         }
     ],
     "wof:id":890422429,
-    "wof:lastmodified":1527727163,
+    "wof:lastmodified":1563321925,
     "wof:name":"Kuria Village",
     "wof:parent_id":85681277,
     "wof:placetype":"locality",

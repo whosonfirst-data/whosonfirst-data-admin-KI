@@ -52,6 +52,12 @@
     "name:cat_x_preferred":[
         "Tarawa Sud"
     ],
+    "name:cdo_x_preferred":[
+        "N\u00e0ng Tarawa"
+    ],
+    "name:ceb_x_preferred":[
+        "Tarawa"
+    ],
     "name:ces_x_preferred":[
         "Ji\u017en\u00ed Tarawa"
     ],
@@ -104,11 +110,20 @@
     "name:glg_x_preferred":[
         "Tarawa Sur"
     ],
+    "name:grn_x_preferred":[
+        "\u00d1emby Tar\u00e1ua"
+    ],
+    "name:hak_x_preferred":[
+        "N\u00e0m Tarawa"
+    ],
     "name:heb_x_preferred":[
         "\u05d3\u05e8\u05d5\u05dd \u05d8\u05d0\u05e8\u05d0\u05d5\u05d5\u05d4"
     ],
     "name:hif_x_preferred":[
         "South Tarawa"
+    ],
+    "name:hin_x_preferred":[
+        "\u0926\u0915\u094d\u0937\u093f\u0923 \u0924\u0930\u093e\u0935\u093e"
     ],
     "name:hrv_x_preferred":[
         "South Tarawa"
@@ -119,8 +134,14 @@
     "name:hye_x_preferred":[
         "\u0540\u0561\u0580\u0561\u057e\u0561\u0575\u056b\u0576 \u054f\u0561\u0580\u0561\u057e\u0561"
     ],
+    "name:ido_x_preferred":[
+        "Sud-Tarawa"
+    ],
     "name:ind_x_preferred":[
         "Tarawa Selatan"
+    ],
+    "name:isl_x_preferred":[
+        "Su\u00f0ur-Tarawa"
     ],
     "name:ita_x_preferred":[
         "Tarawa Sud"
@@ -130,6 +151,9 @@
     ],
     "name:kat_x_preferred":[
         "\u10e1\u10d0\u10db\u10ee\u10e0\u10d4\u10d7\u10d8 \u10e2\u10d0\u10e0\u10d0\u10d5\u10d0"
+    ],
+    "name:kaz_x_preferred":[
+        "\u041e\u04a3\u0442\u04af\u0441\u0442\u0456\u043a \u0422\u0430\u0440\u0430\u0432\u0430"
     ],
     "name:kor_x_preferred":[
         "\uc0ac\uc6b0\uc2a4\ud0c0\ub77c\uc640"
@@ -207,8 +231,14 @@
     "name:srp_x_preferred":[
         "\u0408\u0443\u0436\u043d\u0430 \u0422\u0430\u0440\u0430\u0432\u0430"
     ],
+    "name:swa_x_preferred":[
+        "Teinainano"
+    ],
     "name:swe_x_preferred":[
         "South Tarawa"
+    ],
+    "name:tat_x_preferred":[
+        "\u041a\u04e9\u043d\u044c\u044f\u043a \u0422\u0430\u0440\u0430\u0432\u0430"
     ],
     "name:tel_x_preferred":[
         "\u0c26\u0c15\u0c4d\u0c37\u0c3f\u0c23 \u0c24\u0c30\u0c3e\u0c35\u0c3e"
@@ -233,6 +263,9 @@
     ],
     "name:war_x_preferred":[
         "Salatan Tarawa"
+    ],
+    "name:yue_x_preferred":[
+        "\u5357\u9054\u7dad\u83ef"
     ],
     "name:zho_x_preferred":[
         "\u5357\u5854\u62c9\u74e6"
@@ -362,7 +395,7 @@
         }
     ],
     "wof:id":890416393,
-    "wof:lastmodified":1561778201,
+    "wof:lastmodified":1563321986,
     "wof:name":"Tarawa",
     "wof:parent_id":-1,
     "wof:placetype":"locality",

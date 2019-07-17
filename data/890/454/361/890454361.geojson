@@ -15,11 +15,20 @@
     "iso:country":"KI",
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "name:ceb_x_preferred":[
+        "Poland Village"
+    ],
     "name:deu_x_preferred":[
         "Poland"
     ],
     "name:eng_x_preferred":[
         "Poland"
+    ],
+    "name:epo_x_preferred":[
+        "Pollando"
+    ],
+    "name:jpn_x_preferred":[
+        "\u30dd\u30fc\u30e9\u30f3\u30c9"
     ],
     "name:lit_x_preferred":[
         "Polendas"
@@ -64,7 +73,7 @@
         }
     ],
     "wof:id":890454361,
-    "wof:lastmodified":1561778200,
+    "wof:lastmodified":1563321970,
     "wof:name":"Poland Village",
     "wof:parent_id":85681277,
     "wof:placetype":"locality",

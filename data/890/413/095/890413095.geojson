@@ -18,8 +18,77 @@
     "iso:country":"KI",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:bul_x_preferred":[
+        "\u041c\u0430\u0440\u0430\u043a\u0435\u0438"
+    ],
+    "name:ceb_x_preferred":[
+        "Marakei"
+    ],
+    "name:deu_x_preferred":[
+        "Marakei"
+    ],
+    "name:ell_x_preferred":[
+        "\u039c\u03b1\u03c1\u03b1\u03ba\u03ad\u03b9"
+    ],
+    "name:eng_x_preferred":[
+        "Marakei"
+    ],
+    "name:fas_x_preferred":[
+        "\u0645\u0627\u0631\u0627\u06a9\u06cc"
+    ],
+    "name:fin_x_preferred":[
+        "Marakei"
+    ],
+    "name:fra_x_preferred":[
+        "Marakei"
+    ],
+    "name:glg_x_preferred":[
+        "Atol Marakei"
+    ],
+    "name:heb_x_preferred":[
+        "\u05de\u05d0\u05e8\u05d0\u05e7\u05d9\u05d9"
+    ],
+    "name:hrv_x_preferred":[
+        "Marakei"
+    ],
+    "name:ita_x_preferred":[
+        "Marakei"
+    ],
+    "name:jpn_x_preferred":[
+        "\u30de\u30e9\u30b1\u30a4"
+    ],
+    "name:kor_x_preferred":[
+        "\ub9c8\ub77c\ucf00\uc774"
+    ],
+    "name:lit_x_preferred":[
+        "Marakei"
+    ],
+    "name:mkd_x_preferred":[
+        "\u041c\u0430\u0440\u0430\u043a\u0435\u0458"
+    ],
+    "name:nld_x_preferred":[
+        "Marakei"
+    ],
+    "name:por_x_preferred":[
+        "Marakei"
+    ],
+    "name:rus_x_preferred":[
+        "\u041c\u0430\u0440\u0430\u043a\u0435\u0438"
+    ],
+    "name:spa_x_preferred":[
+        "Marakei"
+    ],
+    "name:swe_x_preferred":[
+        "Marakei"
+    ],
+    "name:tur_x_preferred":[
+        "Marakei"
+    ],
     "name:unk_x_variant":[
         "Baretoa"
+    ],
+    "name:zho_x_preferred":[
+        "\u99ac\u62c9\u51f1\u74b0\u7901"
     ],
     "qs:name":"Baretoa Village",
     "qs:photos_9r":0,
@@ -48,7 +117,7 @@
         }
     ],
     "wof:id":890413095,
-    "wof:lastmodified":1536617718,
+    "wof:lastmodified":1563321942,
     "wof:name":"Baretoa Village",
     "wof:parent_id":-1,
     "wof:placetype":"locality",

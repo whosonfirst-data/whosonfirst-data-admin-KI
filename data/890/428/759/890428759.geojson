@@ -15,6 +15,9 @@
     "iso:country":"KI",
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "name:ceb_x_preferred":[
+        "Roreti Village"
+    ],
     "name:eng_x_preferred":[
         "Roreti"
     ],
@@ -61,7 +64,7 @@
         }
     ],
     "wof:id":890428759,
-    "wof:lastmodified":1561778200,
+    "wof:lastmodified":1563321979,
     "wof:name":"Roreti Village",
     "wof:parent_id":85681277,
     "wof:placetype":"locality",

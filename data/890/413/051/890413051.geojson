@@ -15,6 +15,12 @@
     "iso:country":"KI",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:eng_x_preferred":[
+        "Rongorongo text Z"
+    ],
+    "name:jpn_x_preferred":[
+        "\u30dd\u30a4\u30b1 \u91cd\u306d\u66f8\u304d\u6587\u5b57\u677f(Poike palimpsest)"
+    ],
     "qs:name":"Rongorongo Village",
     "qs:photos_9r":0,
     "qs:photos_sr":0,
@@ -46,7 +52,7 @@
         }
     ],
     "wof:id":890413051,
-    "wof:lastmodified":1527727173,
+    "wof:lastmodified":1563321945,
     "wof:name":"Rongorongo Village",
     "wof:parent_id":85681277,
     "wof:placetype":"locality",
