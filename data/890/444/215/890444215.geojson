@@ -15,6 +15,9 @@
     "iso:country":"KI",
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "name:ceb_x_preferred":[
+        "Tabiauea Village"
+    ],
     "name:eng_x_preferred":[
         "Tabiauea"
     ],
@@ -57,7 +60,7 @@
         }
     ],
     "wof:id":890444215,
-    "wof:lastmodified":1561778200,
+    "wof:lastmodified":1563321980,
     "wof:name":"Tabiauea Village",
     "wof:parent_id":-1,
     "wof:placetype":"locality",

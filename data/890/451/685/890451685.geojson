@@ -15,6 +15,15 @@
     "iso:country":"KI",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:deu_x_preferred":[
+        "Bangai"
+    ],
+    "name:eng_x_preferred":[
+        "Bangai"
+    ],
+    "name:msa_x_preferred":[
+        "Bangai"
+    ],
     "qs:name":"Bangai Village",
     "qs:photos_9r":0,
     "qs:photos_sr":0,
@@ -42,7 +51,7 @@
         }
     ],
     "wof:id":890451685,
-    "wof:lastmodified":1527792939,
+    "wof:lastmodified":1563322014,
     "wof:name":"Bangai Village",
     "wof:parent_id":-1,
     "wof:placetype":"locality",

@@ -22,6 +22,9 @@
     "name:bul_x_preferred":[
         "\u0420\u0443\u043d\u0433\u0430\u0442\u0430"
     ],
+    "name:ceb_x_preferred":[
+        "Rungata"
+    ],
     "name:eng_x_preferred":[
         "Rungata"
     ],
@@ -70,7 +73,7 @@
         }
     ],
     "wof:id":1125987679,
-    "wof:lastmodified":1561778201,
+    "wof:lastmodified":1563322017,
     "wof:name":"Rungata",
     "wof:parent_id":-1,
     "wof:placetype":"locality",

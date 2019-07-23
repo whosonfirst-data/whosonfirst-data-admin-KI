@@ -15,6 +15,12 @@
     "iso:country":"KI",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:eng_x_preferred":[
+        "Bah\u00e1'\u00ed Faith in Kiribati"
+    ],
+    "name:spa_x_preferred":[
+        "Baha\u00edsmo en Kiribati"
+    ],
     "qs:name":"Tenatorua Village",
     "qs:photos_9r":0,
     "qs:photos_sr":0,
@@ -42,7 +48,7 @@
         }
     ],
     "wof:id":890451687,
-    "wof:lastmodified":1527792936,
+    "wof:lastmodified":1563322012,
     "wof:name":"Tenatorua Village",
     "wof:parent_id":-1,
     "wof:placetype":"locality",

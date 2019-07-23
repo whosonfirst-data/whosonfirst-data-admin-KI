@@ -15,6 +15,15 @@
     "iso:country":"KI",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:ast_x_preferred":[
+        "Shiragaonwadi"
+    ],
+    "name:eng_x_preferred":[
+        "Shiragaonwadi"
+    ],
+    "name:nld_x_preferred":[
+        "Shiragaonwadi"
+    ],
     "qs:name":"Bike Village",
     "qs:photos_9r":0,
     "qs:photos_sr":0,
@@ -41,7 +50,7 @@
         }
     ],
     "wof:id":890418595,
-    "wof:lastmodified":1527792814,
+    "wof:lastmodified":1563321987,
     "wof:name":"Bike Village",
     "wof:parent_id":-1,
     "wof:placetype":"locality",

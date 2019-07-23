@@ -15,6 +15,21 @@
     "iso:country":"KI",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:deu_x_preferred":[
+        "North Tarawa"
+    ],
+    "name:eng_x_preferred":[
+        "North Tarawa"
+    ],
+    "name:fra_x_preferred":[
+        "Tarawa-Nord"
+    ],
+    "name:ita_x_preferred":[
+        "Tarawa Nord"
+    ],
+    "name:jpn_x_preferred":[
+        "\u30ce\u30fc\u30b9\u30fb\u30bf\u30e9\u30ef"
+    ],
     "qs:name":"Tabonibara Village",
     "qs:photos_9r":0,
     "qs:photos_sr":0,
@@ -42,7 +57,7 @@
         }
     ],
     "wof:id":890424283,
-    "wof:lastmodified":1527727266,
+    "wof:lastmodified":1563321958,
     "wof:name":"Tabonibara Village",
     "wof:parent_id":-1,
     "wof:placetype":"locality",
