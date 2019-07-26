@@ -15,6 +15,9 @@
     "iso:country":"KI",
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "name:deu_x_preferred":[
+        "Autukia"
+    ],
     "qs:name":"Teuabu Village",
     "qs:photos_9r":0,
     "qs:photos_sr":0,
@@ -41,7 +44,7 @@
         }
     ],
     "wof:id":890413071,
-    "wof:lastmodified":1527727169,
+    "wof:lastmodified":1564181184,
     "wof:name":"Teuabu Village",
     "wof:parent_id":-1,
     "wof:placetype":"locality",

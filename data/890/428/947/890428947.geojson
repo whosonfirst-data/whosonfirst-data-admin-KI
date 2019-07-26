@@ -15,6 +15,9 @@
     "iso:country":"KI",
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "name:deu_x_preferred":[
+        "Autukia"
+    ],
     "qs:name":"Benuaroa Village",
     "qs:photos_9r":0,
     "qs:photos_sr":0,
@@ -41,7 +44,7 @@
         }
     ],
     "wof:id":890428947,
-    "wof:lastmodified":1527782116,
+    "wof:lastmodified":1564181191,
     "wof:name":"Benuaroa Village",
     "wof:parent_id":-1,
     "wof:placetype":"locality",

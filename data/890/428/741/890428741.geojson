@@ -15,6 +15,15 @@
     "iso:country":"KI",
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "name:ceb_x_preferred":[
+        "Tak Tak\u016b"
+    ],
+    "name:fas_x_preferred":[
+        "\u062a\u06a9\u062a\u06a9\u0648"
+    ],
+    "name:swe_x_preferred":[
+        "Tak Tak\u016b"
+    ],
     "qs:name":"Taku Village",
     "qs:photos_9r":0,
     "qs:photos_sr":0,
@@ -43,7 +52,7 @@
         }
     ],
     "wof:id":890428741,
-    "wof:lastmodified":1527782116,
+    "wof:lastmodified":1564181192,
     "wof:name":"Taku Village",
     "wof:parent_id":-1,
     "wof:placetype":"locality",
