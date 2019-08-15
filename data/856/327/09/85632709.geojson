@@ -15,6 +15,9 @@
     "itu:country_code":[
         "686"
     ],
+    "label:eng_x_preferred_shortcode":[
+        "KI"
+    ],
     "lbl:latitude":1.828988,
     "lbl:longitude":-157.373327,
     "mps:latitude":1.828988,
@@ -879,10 +882,6 @@
         }
     ],
     "wof:id":85632709,
-    "wof:lang":[
-        "eng",
-        "gil"
-    ],
     "wof:lang_x_official":[
         "eng",
         "gil"
@@ -891,7 +890,7 @@
         "eng",
         "gil"
     ],
-    "wof:lastmodified":1563321922,
+    "wof:lastmodified":1565725140,
     "wof:name":"Kiribati",
     "wof:parent_id":102191583,
     "wof:placetype":"country",

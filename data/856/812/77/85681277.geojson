@@ -11,6 +11,9 @@
     "geom:longitude":-47.737466,
     "gn:id":"",
     "iso:country":"KI",
+    "label:eng_x_preferred_shortcode":[
+        "KI"
+    ],
     "lbl:latitude":1.820437,
     "lbl:longitude":-157.384577,
     "mps:latitude":1.820437,
@@ -645,9 +648,6 @@
         }
     ],
     "wof:id":85681277,
-    "wof:lang":[
-        "eng"
-    ],
     "wof:lang_x_official":[
         "eng",
         "gil"
@@ -656,7 +656,7 @@
         "eng",
         "gil"
     ],
-    "wof:lastmodified":1564181183,
+    "wof:lastmodified":1565725140,
     "wof:name":"Kiribati",
     "wof:parent_id":85632709,
     "wof:placetype":"region",
