@@ -14,10 +14,14 @@
     "geom:longitude":173.90597,
     "gn:country":"KI",
     "gn:fcode":"PPL",
-    "gn:pop":310,
+    "gn:population":310,
     "iso:country":"KI",
+    "lbl:bbox":"173.88597,0.41012,173.92597,0.45012",
+    "lbl:max_zoom":17.0,
+    "lbl:min_zoom":12.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":11.0,
     "name:bul_x_preferred":[
         "\u041c\u0430\u0440\u0430\u043a\u0435\u0438"
     ],
@@ -84,7 +88,7 @@
     "name:tur_x_preferred":[
         "Marakei"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Baretoa"
     ],
     "name:zho_x_preferred":[
@@ -103,7 +107,7 @@
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":2110253,
-        "qs:id":572056,
+        "qs_pg:id":572056,
         "wd:id":"Q909758",
         "wk:page":"Marakei"
     },
@@ -117,7 +121,7 @@
         }
     ],
     "wof:id":890413095,
-    "wof:lastmodified":1563321942,
+    "wof:lastmodified":1566727657,
     "wof:name":"Baretoa Village",
     "wof:parent_id":-1,
     "wof:placetype":"locality",

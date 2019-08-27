@@ -11,10 +11,14 @@
     "geom:longitude":175.99223,
     "gn:country":"KI",
     "gn:fcode":"PPL",
-    "gn:pop":315,
+    "gn:population":315,
     "iso:country":"KI",
+    "lbl:bbox":"175.97223,-1.34041,176.01223,-1.30041",
+    "lbl:max_zoom":17.0,
+    "lbl:min_zoom":12.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":11.0,
     "name:eng_x_preferred":[
         "Rongorongo text Z"
     ],
@@ -36,7 +40,7 @@
     "wof:concordances":{
         "gn:id":2110126,
         "gp:id":12514188,
-        "qs:id":572023,
+        "qs_pg:id":572023,
         "wd:id":"Q7365664",
         "wk:page":"Rongorongo text Z"
     },
@@ -52,7 +56,7 @@
         }
     ],
     "wof:id":890413051,
-    "wof:lastmodified":1563321945,
+    "wof:lastmodified":1566727657,
     "wof:name":"Rongorongo Village",
     "wof:parent_id":85681277,
     "wof:placetype":"locality",

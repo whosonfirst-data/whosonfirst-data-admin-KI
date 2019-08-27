@@ -11,10 +11,14 @@
     "geom:longitude":173.13421,
     "gn:country":"KI",
     "gn:fcode":"PPL",
-    "gn:pop":91,
+    "gn:population":91,
     "iso:country":"KI",
+    "lbl:bbox":"173.11421,1.36831,173.15421,1.40831",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.0,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":11.0,
     "name:ace_x_preferred":[
         "South Tarawa"
     ],
@@ -262,7 +266,7 @@
     "wof:concordances":{
         "gn:id":7577069,
         "gp:id":12514189,
-        "qs:id":693319,
+        "qs_pg:id":693319,
         "wd:id":"Q131233",
         "wk:page":"South Tarawa"
     },
@@ -276,7 +280,7 @@
         }
     ],
     "wof:id":890442569,
-    "wof:lastmodified":1563322000,
+    "wof:lastmodified":1566727661,
     "wof:name":"Tanaea Village",
     "wof:parent_id":-1,
     "wof:placetype":"locality",

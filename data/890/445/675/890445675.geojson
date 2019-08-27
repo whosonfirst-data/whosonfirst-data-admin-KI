@@ -11,10 +11,14 @@
     "geom:longitude":175.96983,
     "gn:country":"KI",
     "gn:fcode":"PPL",
-    "gn:pop":164,
+    "gn:population":164,
     "iso:country":"KI",
+    "lbl:bbox":"175.94983,-2.51252,175.98983,-2.47252",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.0,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":11.0,
     "qs:name":"Barebuka Village",
     "qs:photos_9r":0,
     "qs:photos_sr":0,
@@ -27,7 +31,7 @@
     "wof:concordances":{
         "gn:id":7576335,
         "gp:id":12514198,
-        "qs:id":693237
+        "qs_pg:id":693237
     },
     "wof:country":"KI",
     "wof:created":1469052518,
@@ -39,7 +43,7 @@
         }
     ],
     "wof:id":890445675,
-    "wof:lastmodified":1505343606,
+    "wof:lastmodified":1566727662,
     "wof:name":"Barebuka Village",
     "wof:parent_id":-1,
     "wof:placetype":"locality",

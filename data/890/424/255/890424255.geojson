@@ -11,10 +11,13 @@
     "geom:longitude":173.60579,
     "gn:country":"KI",
     "gn:fcode":"ADM2",
-    "gn:pop":1158,
+    "gn:population":1158,
     "iso:country":"KI",
+    "lbl:max_zoom":10.0,
+    "lbl:min_zoom":8.0,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":6.0,
     "name:aze_x_preferred":[
         "Aranuka adas\u0131"
     ],
@@ -102,7 +105,7 @@
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":7521583,
-        "qs:id":689619,
+        "qs_pg:id":689619,
         "wd:id":"Q626095",
         "wk:page":"Aranuka"
     },
@@ -116,7 +119,7 @@
         }
     ],
     "wof:id":890424255,
-    "wof:lastmodified":1563321961,
+    "wof:lastmodified":1566727658,
     "wof:name":"Aranuka",
     "wof:parent_id":-1,
     "wof:placetype":"county",

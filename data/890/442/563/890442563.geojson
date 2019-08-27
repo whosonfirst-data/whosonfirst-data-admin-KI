@@ -11,10 +11,14 @@
     "geom:longitude":-159.3527,
     "gn:country":"KI",
     "gn:fcode":"PPL",
-    "gn:pop":461,
+    "gn:population":461,
     "iso:country":"KI",
+    "lbl:bbox":"-159.3727,3.82418,-159.3327,3.86418",
+    "lbl:max_zoom":17.0,
+    "lbl:min_zoom":12.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":11.0,
     "name:bel_x_preferred":[
         "\u0410\u0442\u043e\u043b \u0422\u0430\u0431\u0443\u0430\u044d\u0440\u0430\u043d"
     ],
@@ -108,7 +112,7 @@
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":7576470,
-        "qs:id":693249,
+        "qs_pg:id":693249,
         "wd:id":"Q127335",
         "wk:page":"Tabuaeran"
     },
@@ -122,7 +126,7 @@
         }
     ],
     "wof:id":890442563,
-    "wof:lastmodified":1563322001,
+    "wof:lastmodified":1566727662,
     "wof:name":"Tenenebo Village",
     "wof:parent_id":-1,
     "wof:placetype":"locality",

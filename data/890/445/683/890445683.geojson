@@ -11,10 +11,14 @@
     "geom:longitude":172.86302,
     "gn:country":"KI",
     "gn:fcode":"PPL",
-    "gn:pop":271,
+    "gn:population":271,
     "iso:country":"KI",
+    "lbl:bbox":"172.84302,1.94245,172.88302,1.98245",
+    "lbl:max_zoom":17.0,
+    "lbl:min_zoom":12.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":11.0,
     "name:bul_x_preferred":[
         "\u0410\u0431\u0430\u0438\u0430\u043d\u0433"
     ],
@@ -109,7 +113,7 @@
     "wof:concordances":{
         "gn:id":7576993,
         "gp:id":12514187,
-        "qs:id":693304,
+        "qs_pg:id":693304,
         "wd:id":"Q304887",
         "wk:page":"Abaiang"
     },
@@ -123,7 +127,7 @@
         }
     ],
     "wof:id":890445683,
-    "wof:lastmodified":1563322009,
+    "wof:lastmodified":1566727662,
     "wof:name":"Ribono Village",
     "wof:parent_id":-1,
     "wof:placetype":"locality",

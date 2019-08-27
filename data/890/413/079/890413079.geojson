@@ -11,10 +11,14 @@
     "geom:longitude":173.13082,
     "gn:country":"KI",
     "gn:fcode":"PPL",
-    "gn:pop":1373,
+    "gn:population":1373,
     "iso:country":"KI",
+    "lbl:bbox":"173.11082,1.37078,173.15082,1.41078",
+    "lbl:max_zoom":16.0,
+    "lbl:min_zoom":12.0,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":11.0,
     "name:deu_x_preferred":[
         "North Tarawa"
     ],
@@ -43,7 +47,7 @@
     "wof:concordances":{
         "gn:id":2110229,
         "gp:id":12514189,
-        "qs:id":572049,
+        "qs_pg:id":572049,
         "wd:id":"Q15647452",
         "wk:page":"North Tarawa"
     },
@@ -57,7 +61,7 @@
         }
     ],
     "wof:id":890413079,
-    "wof:lastmodified":1563321929,
+    "wof:lastmodified":1566727656,
     "wof:name":"Buota Village",
     "wof:parent_id":-1,
     "wof:placetype":"locality",

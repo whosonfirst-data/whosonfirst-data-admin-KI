@@ -11,10 +11,14 @@
     "geom:longitude":172.90442,
     "gn:country":"KI",
     "gn:fcode":"PPL",
-    "gn:pop":221,
+    "gn:population":221,
     "iso:country":"KI",
+    "lbl:bbox":"172.88442,3.11124,172.92442,3.15124",
+    "lbl:max_zoom":17.0,
+    "lbl:min_zoom":12.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":11.0,
     "name:ceb_x_preferred":[
         "Butaritari Atoll"
     ],
@@ -84,7 +88,7 @@
     "name:tur_x_preferred":[
         "Butaritari"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Keua"
     ],
     "name:zho_x_preferred":[
@@ -103,7 +107,7 @@
     "wof:concordances":{
         "gn:id":2110199,
         "gp:id":12514190,
-        "qs:id":572040,
+        "qs_pg:id":572040,
         "wd:id":"Q867325",
         "wk:page":"Butaritari"
     },
@@ -117,7 +121,7 @@
         }
     ],
     "wof:id":890422435,
-    "wof:lastmodified":1563321928,
+    "wof:lastmodified":1566727655,
     "wof:name":"Keuea Village",
     "wof:parent_id":-1,
     "wof:placetype":"locality",

@@ -11,10 +11,14 @@
     "geom:longitude":173.41144,
     "gn:country":"KI",
     "gn:fcode":"PPL",
-    "gn:pop":119,
+    "gn:population":119,
     "iso:country":"KI",
+    "lbl:bbox":"173.39144,0.21056,173.43144,0.25056",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.0,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":11.0,
     "name:ceb_x_preferred":[
         "Tabontebike Village"
     ],
@@ -42,7 +46,7 @@
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":7576764,
-        "qs:id":693279,
+        "qs_pg:id":693279,
         "wd:id":"Q7673502",
         "wk:page":"Tabontebike"
     },
@@ -56,7 +60,7 @@
         }
     ],
     "wof:id":890418587,
-    "wof:lastmodified":1563321993,
+    "wof:lastmodified":1566727661,
     "wof:name":"Tabontebike Village",
     "wof:parent_id":-1,
     "wof:placetype":"locality",

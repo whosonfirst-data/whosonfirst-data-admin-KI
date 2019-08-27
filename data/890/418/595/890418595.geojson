@@ -11,10 +11,14 @@
     "geom:longitude":173.84823,
     "gn:country":"KI",
     "gn:fcode":"PPL",
-    "gn:pop":17,
+    "gn:population":17,
     "iso:country":"KI",
+    "lbl:bbox":"173.82823,0.32478,173.86823,0.36478",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.0,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":11.0,
     "name:ast_x_preferred":[
         "Shiragaonwadi"
     ],
@@ -36,7 +40,7 @@
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":7576772,
-        "qs:id":693284,
+        "qs_pg:id":693284,
         "wd:id":"Q7498227",
         "wk:page":"Shiragaonwadi"
     },
@@ -50,7 +54,7 @@
         }
     ],
     "wof:id":890418595,
-    "wof:lastmodified":1563321987,
+    "wof:lastmodified":1566727661,
     "wof:name":"Bike Village",
     "wof:parent_id":-1,
     "wof:placetype":"locality",

@@ -11,10 +11,13 @@
     "geom:longitude":173.27637,
     "gn:country":"KI",
     "gn:fcode":"ADM2",
-    "gn:pop":2741,
+    "gn:population":2741,
     "iso:country":"KI",
+    "lbl:max_zoom":10.0,
+    "lbl:min_zoom":8.0,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":6.0,
     "name:bul_x_preferred":[
         "\u041c\u0430\u0440\u0430\u043a\u0435\u0438"
     ],
@@ -96,7 +99,7 @@
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":7521599,
-        "qs:id":689635,
+        "qs_pg:id":689635,
         "wd:id":"Q909758",
         "wk:page":"Marakei"
     },
@@ -110,7 +113,7 @@
         }
     ],
     "wof:id":890429003,
-    "wof:lastmodified":1563321984,
+    "wof:lastmodified":1566727660,
     "wof:name":"Marakei",
     "wof:parent_id":-1,
     "wof:placetype":"county",

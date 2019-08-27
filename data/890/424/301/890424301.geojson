@@ -11,10 +11,14 @@
     "geom:longitude":173.13935,
     "gn:country":"KI",
     "gn:fcode":"PPL",
-    "gn:pop":1780,
+    "gn:population":1780,
     "iso:country":"KI",
+    "lbl:bbox":"173.11935,1.34362,173.15935,1.38362",
+    "lbl:max_zoom":16.0,
+    "lbl:min_zoom":12.0,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":11.0,
     "name:ace_x_preferred":[
         "South Tarawa"
     ],
@@ -234,7 +238,7 @@
     "name:ukr_x_preferred":[
         "\u041f\u0456\u0432\u0434\u0435\u043d\u043d\u0430 \u0422\u0430\u0440\u0430\u0432\u0430"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Causeway"
     ],
     "name:vep_x_preferred":[
@@ -267,7 +271,7 @@
     "wof:concordances":{
         "gn:id":7601771,
         "gp:id":12514189,
-        "qs:id":693613,
+        "qs_pg:id":693613,
         "wd:id":"Q131233",
         "wk:page":"South Tarawa"
     },
@@ -283,7 +287,7 @@
         }
     ],
     "wof:id":890424301,
-    "wof:lastmodified":1563321949,
+    "wof:lastmodified":1566727657,
     "wof:name":"Nawerewere Village",
     "wof:parent_id":85681277,
     "wof:placetype":"locality",

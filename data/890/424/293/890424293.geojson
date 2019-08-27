@@ -11,10 +11,14 @@
     "geom:longitude":173.054,
     "gn:country":"KI",
     "gn:fcode":"PPL",
-    "gn:pop":955,
+    "gn:population":955,
     "iso:country":"KI",
+    "lbl:bbox":"173.034,1.33621,173.074,1.37621",
+    "lbl:max_zoom":17.0,
+    "lbl:min_zoom":12.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":11.0,
     "name:ace_x_preferred":[
         "South Tarawa"
     ],
@@ -264,7 +268,7 @@
     "wof:concordances":{
         "gn:id":7601767,
         "gp:id":12514189,
-        "qs:id":693610,
+        "qs_pg:id":693610,
         "wd:id":"Q131233",
         "wk:page":"South Tarawa"
     },
@@ -280,7 +284,7 @@
         }
     ],
     "wof:id":890424293,
-    "wof:lastmodified":1563321956,
+    "wof:lastmodified":1566727658,
     "wof:name":"Taborio Village",
     "wof:parent_id":85681277,
     "wof:placetype":"locality",

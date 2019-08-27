@@ -11,10 +11,14 @@
     "geom:longitude":172.9336,
     "gn:country":"KI",
     "gn:fcode":"LCTY",
-    "gn:pop":12509,
+    "gn:population":12509,
     "iso:country":"KI",
+    "lbl:bbox":"172.9136,1.33046,172.9536,1.37046",
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":10.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":10.0,
     "qs:name":"Betio Town",
     "qs:photos_9r":0,
     "qs:photos_sr":0,
@@ -27,7 +31,7 @@
     "wof:concordances":{
         "gn:id":7601759,
         "gp:id":12514189,
-        "qs:id":693605
+        "qs_pg:id":693605
     },
     "wof:country":"KI",
     "wof:created":1469051199,
@@ -39,7 +43,7 @@
         }
     ],
     "wof:id":890417397,
-    "wof:lastmodified":1505343438,
+    "wof:lastmodified":1566727660,
     "wof:name":"Betio Town",
     "wof:parent_id":-1,
     "wof:placetype":"locality",

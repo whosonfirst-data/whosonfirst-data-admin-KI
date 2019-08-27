@@ -11,10 +11,14 @@
     "geom:longitude":173.61556,
     "gn:country":"KI",
     "gn:fcode":"PPL",
-    "gn:pop":329,
+    "gn:population":329,
     "iso:country":"KI",
+    "lbl:bbox":"173.59556,0.1072,173.63556,0.1472",
+    "lbl:max_zoom":17.0,
+    "lbl:min_zoom":12.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":11.0,
     "name:aze_x_preferred":[
         "Aranuka adas\u0131"
     ],
@@ -102,7 +106,7 @@
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":7576712,
-        "qs:id":693269,
+        "qs_pg:id":693269,
         "wd:id":"Q626095",
         "wk:page":"Aranuka"
     },
@@ -116,7 +120,7 @@
         }
     ],
     "wof:id":890451695,
-    "wof:lastmodified":1563322013,
+    "wof:lastmodified":1566727663,
     "wof:name":"Baurua Village",
     "wof:parent_id":-1,
     "wof:placetype":"locality",

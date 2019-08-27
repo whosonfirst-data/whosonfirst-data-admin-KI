@@ -11,10 +11,14 @@
     "geom:longitude":172.79022,
     "gn:country":"KI",
     "gn:fcode":"PPL",
-    "gn:pop":1160,
+    "gn:population":1160,
     "iso:country":"KI",
+    "lbl:bbox":"172.77022,3.05071,172.81022,3.09071",
+    "lbl:max_zoom":16.0,
+    "lbl:min_zoom":12.0,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "name:eng_x_preferred":[
         "Butaritari"
     ],
@@ -37,7 +41,7 @@
     "wof:concordances":{
         "gn:id":2110227,
         "gp:id":12514190,
-        "qs:id":1033814,
+        "qs_pg:id":1033814,
         "wd:id":"Q9182428",
         "wk:page":"Butaritari"
     },
@@ -51,7 +55,7 @@
         }
     ],
     "wof:id":890440147,
-    "wof:lastmodified":1561778199,
+    "wof:lastmodified":1566727655,
     "wof:name":"Butaritari",
     "wof:parent_id":-1,
     "wof:placetype":"locality",

@@ -11,10 +11,13 @@
     "geom:longitude":175.98621,
     "gn:country":"KI",
     "gn:fcode":"ADM2",
-    "gn:pop":875,
+    "gn:population":875,
     "iso:country":"KI",
+    "lbl:max_zoom":10.0,
+    "lbl:min_zoom":8.0,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":6.0,
     "name:afr_x_preferred":[
         "Tamana"
     ],
@@ -233,7 +236,7 @@
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":7521610,
-        "qs:id":689646,
+        "qs_pg:id":689646,
         "wd:id":"Q16884236",
         "wk:page":"Tamana"
     },
@@ -249,7 +252,7 @@
         }
     ],
     "wof:id":890445647,
-    "wof:lastmodified":1563322008,
+    "wof:lastmodified":1566727662,
     "wof:name":"Tamana",
     "wof:parent_id":85681277,
     "wof:placetype":"county",

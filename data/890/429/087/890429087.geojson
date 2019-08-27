@@ -11,10 +11,13 @@
     "geom:longitude":176.46412,
     "gn:country":"KI",
     "gn:fcode":"ADM2",
-    "gn:pop":1912,
+    "gn:population":1912,
     "iso:country":"KI",
+    "lbl:max_zoom":10.0,
+    "lbl:min_zoom":8.0,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":6.0,
     "name:ceb_x_preferred":[
         "Nikunau Island"
     ],
@@ -93,7 +96,7 @@
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":7521602,
-        "qs:id":689638,
+        "qs_pg:id":689638,
         "wd:id":"Q1059287",
         "wk:page":"Nikunau"
     },
@@ -107,7 +110,7 @@
         }
     ],
     "wof:id":890429087,
-    "wof:lastmodified":1563321983,
+    "wof:lastmodified":1566727660,
     "wof:name":"Nikunau",
     "wof:parent_id":-1,
     "wof:placetype":"county",

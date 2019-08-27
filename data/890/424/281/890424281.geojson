@@ -11,10 +11,14 @@
     "geom:longitude":173.39321,
     "gn:country":"KI",
     "gn:fcode":"PPL",
-    "gn:pop":188,
+    "gn:population":188,
     "iso:country":"KI",
+    "lbl:bbox":"173.37321,0.23123,173.41321,0.27123",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.0,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":11.0,
     "name:ceb_x_preferred":[
         "Kuria"
     ],
@@ -93,7 +97,7 @@
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":7576761,
-        "qs:id":693277,
+        "qs_pg:id":693277,
         "wd:id":"Q1139401",
         "wk:page":"Kuria (islands)"
     },
@@ -107,7 +111,7 @@
         }
     ],
     "wof:id":890424281,
-    "wof:lastmodified":1563321952,
+    "wof:lastmodified":1566727657,
     "wof:name":"Oneeke Village",
     "wof:parent_id":-1,
     "wof:placetype":"locality",

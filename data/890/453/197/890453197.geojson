@@ -11,10 +11,14 @@
     "geom:longitude":175.95935,
     "gn:country":"KI",
     "gn:fcode":"PPL",
-    "gn:pop":416,
+    "gn:population":416,
     "iso:country":"KI",
+    "lbl:bbox":"175.93935,-1.31499,175.97935,-1.27499",
+    "lbl:max_zoom":17.0,
+    "lbl:min_zoom":12.5,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "name:ceb_x_preferred":[
         "Abemama"
     ],
@@ -103,7 +107,7 @@
     "wof:concordances":{
         "gn:id":2110109,
         "gp:id":12514188,
-        "qs:id":572017,
+        "qs_pg:id":572017,
         "wk:page":"Abemama"
     },
     "wof:country":"KI",
@@ -116,7 +120,7 @@
         }
     ],
     "wof:id":890453197,
-    "wof:lastmodified":1564181191,
+    "wof:lastmodified":1566727659,
     "wof:name":"Tabiang Village",
     "wof:parent_id":-1,
     "wof:placetype":"locality",

@@ -12,6 +12,7 @@
     "iso:country":"KI",
     "lbl:latitude":0.360009,
     "lbl:longitude":173.942139,
+    "lbl:min_zoom":8.0,
     "mps:latitude":0.360009,
     "mps:longitude":173.942139,
     "mz:hierarchy_label":0,
@@ -34,8 +35,7 @@
     "qs:type":"Admin-1 minor island",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
-    "wof:belongs_to":[],
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         102191583,
         85632709
@@ -60,7 +60,7 @@
         "eng",
         "gil"
     ],
-    "wof:lastmodified":1536173683,
+    "wof:lastmodified":1566727654,
     "wof:name":"Minor islands of Kiribati",
     "wof:parent_id":85632709,
     "wof:placetype":"region",

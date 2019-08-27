@@ -11,10 +11,14 @@
     "geom:longitude":175.06544,
     "gn:country":"KI",
     "gn:fcode":"PPL",
-    "gn:pop":158,
+    "gn:population":158,
     "iso:country":"KI",
+    "lbl:bbox":"175.04544,-1.54304,175.08544,-1.50304",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.0,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "name:ceb_x_preferred":[
         "Tak Tak\u016b"
     ],
@@ -39,7 +43,7 @@
     "wof:concordances":{
         "gn:id":2110088,
         "gp:id":12514197,
-        "qs:id":572006,
+        "qs_pg:id":572006,
         "wk:page":"Tak Taku"
     },
     "wof:country":"KI",
@@ -52,7 +56,7 @@
         }
     ],
     "wof:id":890428741,
-    "wof:lastmodified":1564181192,
+    "wof:lastmodified":1566727660,
     "wof:name":"Taku Village",
     "wof:parent_id":-1,
     "wof:placetype":"locality",

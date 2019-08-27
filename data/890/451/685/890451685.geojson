@@ -11,10 +11,14 @@
     "geom:longitude":174.87231,
     "gn:country":"KI",
     "gn:fcode":"PPL",
-    "gn:pop":35,
+    "gn:population":35,
     "iso:country":"KI",
+    "lbl:bbox":"174.85231,-1.37622,174.89231,-1.33622",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.0,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":11.0,
     "name:deu_x_preferred":[
         "Bangai"
     ],
@@ -37,7 +41,7 @@
     "wof:concordances":{
         "gn:id":7576545,
         "gp:id":12514197,
-        "qs:id":693253,
+        "qs_pg:id":693253,
         "wd:id":"Q4855017",
         "wk:page":"Bangai, Rupandehi"
     },
@@ -51,7 +55,7 @@
         }
     ],
     "wof:id":890451685,
-    "wof:lastmodified":1563322014,
+    "wof:lastmodified":1566727663,
     "wof:name":"Bangai Village",
     "wof:parent_id":-1,
     "wof:placetype":"locality",

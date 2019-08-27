@@ -22,8 +22,12 @@
     "gn:population":0,
     "gn:timezone":"Pacific/Kiritimati",
     "iso:country":"KI",
+    "lbl:bbox":"-157.41361,1.94865,-157.37361,1.98865",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:ace_x_preferred":[
         "Pisang"
     ],
@@ -468,7 +472,7 @@
         }
     ],
     "wof:id":1343373969,
-    "wof:lastmodified":1564181180,
+    "wof:lastmodified":1566727654,
     "wof:name":"Banana",
     "wof:parent_id":85681277,
     "wof:placetype":"locality",
