@@ -11,10 +11,14 @@
     "geom:longitude":169.54192,
     "gn:country":"KI",
     "gn:fcode":"PPL",
-    "gn:pop":135,
+    "gn:population":135,
     "iso:country":"KI",
+    "lbl:bbox":"169.52192,-0.89054,169.56192,-0.85054",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.0,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":11.0,
     "name:ast_x_preferred":[
         "Encierru"
     ],
@@ -45,7 +49,7 @@
     "name:ukr_x_preferred":[
         "\u0437\u0430\u0445\u043e\u043f\u043b\u0435\u043d\u043d\u044f"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Uma"
     ],
     "name:yue_x_preferred":[
@@ -69,7 +73,7 @@
     "wof:concordances":{
         "gn:id":2110141,
         "gp:id":1064230,
-        "qs:id":572026,
+        "qs_pg:id":572026,
         "wd:id":"Q528892",
         "wk:page":"Occupation (protest)"
     },
@@ -85,7 +89,7 @@
         }
     ],
     "wof:id":890413057,
-    "wof:lastmodified":1563321943,
+    "wof:lastmodified":1566727657,
     "wof:name":"Umwa Village",
     "wof:parent_id":85681277,
     "wof:placetype":"locality",

@@ -11,10 +11,14 @@
     "geom:longitude":175.54998,
     "gn:country":"KI",
     "gn:fcode":"PPL",
-    "gn:pop":348,
+    "gn:population":348,
     "iso:country":"KI",
+    "lbl:bbox":"175.52998,-1.85356,175.56998,-1.81356",
+    "lbl:max_zoom":17.0,
+    "lbl:min_zoom":12.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":11.0,
     "name:cat_x_preferred":[
         "Onotoa"
     ],
@@ -103,7 +107,7 @@
     "wof:concordances":{
         "gn:id":7576351,
         "gp:id":12514197,
-        "qs:id":693240,
+        "qs_pg:id":693240,
         "wd:id":"Q576865",
         "wk:page":"Onotoa"
     },
@@ -117,7 +121,7 @@
         }
     ],
     "wof:id":890424271,
-    "wof:lastmodified":1563321959,
+    "wof:lastmodified":1566727658,
     "wof:name":"Temao Village",
     "wof:parent_id":-1,
     "wof:placetype":"locality",

@@ -11,10 +11,14 @@
     "geom:longitude":173.05351,
     "gn:country":"KI",
     "gn:fcode":"PPL",
-    "gn:pop":98,
+    "gn:population":98,
     "iso:country":"KI",
+    "lbl:bbox":"173.03351,0.96483,173.07351,1.00483",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.0,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":11.0,
     "name:bul_x_preferred":[
         "\u041c\u0430\u0438\u0430\u043d\u0430"
     ],
@@ -100,7 +104,7 @@
     "wof:concordances":{
         "gn:id":7576839,
         "gp:id":12514189,
-        "qs:id":693291,
+        "qs_pg:id":693291,
         "wd:id":"Q909742",
         "wk:page":"Maiana"
     },
@@ -114,7 +118,7 @@
         }
     ],
     "wof:id":890418611,
-    "wof:lastmodified":1563321989,
+    "wof:lastmodified":1566727661,
     "wof:name":"Aobike Village",
     "wof:parent_id":-1,
     "wof:placetype":"locality",

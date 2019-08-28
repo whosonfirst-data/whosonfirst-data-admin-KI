@@ -11,10 +11,14 @@
     "geom:longitude":173.91988,
     "gn:country":"KI",
     "gn:fcode":"PPL",
-    "gn:pop":140,
+    "gn:population":140,
     "iso:country":"KI",
+    "lbl:bbox":"173.89988,0.38456,173.93988,0.42456",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.0,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":11.0,
     "name:bul_x_preferred":[
         "\u0410\u0431\u0435\u043c\u0430\u043c\u0430"
     ],
@@ -99,7 +103,7 @@
     "name:ukr_x_preferred":[
         "\u0410\u0431\u0435\u043c\u0430\u043c\u0430"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "OSCAR WW2"
     ],
     "name:zho_x_preferred":[
@@ -117,7 +121,7 @@
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":2110205,
-        "qs:id":572042,
+        "qs_pg:id":572042,
         "wd:id":"Q318801",
         "wk:page":"Abemama"
     },
@@ -131,7 +135,7 @@
         }
     ],
     "wof:id":890413069,
-    "wof:lastmodified":1563321944,
+    "wof:lastmodified":1566727657,
     "wof:name":"Kariatebike Village",
     "wof:parent_id":-1,
     "wof:placetype":"locality",

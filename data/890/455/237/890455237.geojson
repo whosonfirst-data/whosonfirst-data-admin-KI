@@ -11,10 +11,14 @@
     "geom:longitude":173.86667,
     "gn:country":"KI",
     "gn:fcode":"PPL",
-    "gn:pop":486,
+    "gn:population":486,
     "iso:country":"KI",
+    "lbl:bbox":"173.84667,0.44667,173.88667,0.48667",
+    "lbl:max_zoom":17.0,
+    "lbl:min_zoom":12.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":11.0,
     "name:bul_x_preferred":[
         "\u0410\u0431\u0435\u043c\u0430\u043c\u0430"
     ],
@@ -99,7 +103,7 @@
     "name:ukr_x_preferred":[
         "\u0410\u0431\u0435\u043c\u0430\u043c\u0430"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "OSCAR WW2"
     ],
     "name:zho_x_preferred":[
@@ -117,7 +121,7 @@
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":2110054,
-        "qs:id":90791,
+        "qs_pg:id":90791,
         "wd:id":"Q318801",
         "wk:page":"Abemama"
     },
@@ -131,7 +135,7 @@
         }
     ],
     "wof:id":890455237,
-    "wof:lastmodified":1563321967,
+    "wof:lastmodified":1566727659,
     "wof:name":"Tekatirirake Village",
     "wof:parent_id":-1,
     "wof:placetype":"locality",

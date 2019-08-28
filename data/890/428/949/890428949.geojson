@@ -11,10 +11,14 @@
     "geom:longitude":173.07918,
     "gn:country":"KI",
     "gn:fcode":"PPL",
-    "gn:pop":414,
+    "gn:population":414,
     "iso:country":"KI",
+    "lbl:bbox":"173.05918,1.4158,173.09918,1.4558",
+    "lbl:max_zoom":17.0,
+    "lbl:min_zoom":12.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":11.0,
     "name:deu_x_preferred":[
         "North Tarawa"
     ],
@@ -43,7 +47,7 @@
     "wof:concordances":{
         "gn:id":2110171,
         "gp:id":12514189,
-        "qs:id":90795,
+        "qs_pg:id":90795,
         "wd:id":"Q15647452",
         "wk:page":"North Tarawa"
     },
@@ -57,7 +61,7 @@
         }
     ],
     "wof:id":890428949,
-    "wof:lastmodified":1563321977,
+    "wof:lastmodified":1566727660,
     "wof:name":"Nabeina Village",
     "wof:parent_id":-1,
     "wof:placetype":"locality",

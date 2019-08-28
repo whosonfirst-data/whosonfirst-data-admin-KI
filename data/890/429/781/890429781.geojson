@@ -11,10 +11,14 @@
     "geom:longitude":173.56183,
     "gn:country":"KI",
     "gn:fcode":"PPL",
-    "gn:pop":320,
+    "gn:population":320,
     "iso:country":"KI",
+    "lbl:bbox":"173.54183,0.15097,173.58183,0.19097",
+    "lbl:max_zoom":17.0,
+    "lbl:min_zoom":12.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":11.0,
     "name:bul_x_preferred":[
         "\u0422\u0430\u043a\u0430\u0435\u0430\u043d\u0433"
     ],
@@ -57,7 +61,7 @@
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":7576711,
-        "qs:id":693268,
+        "qs_pg:id":693268,
         "wd:id":"Q3181402",
         "wk:page":"Takaeang"
     },
@@ -71,7 +75,7 @@
         }
     ],
     "wof:id":890429781,
-    "wof:lastmodified":1563321985,
+    "wof:lastmodified":1566727660,
     "wof:name":"Takaeang Village",
     "wof:parent_id":-1,
     "wof:placetype":"locality",

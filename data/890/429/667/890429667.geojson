@@ -11,10 +11,14 @@
     "geom:longitude":173.06285,
     "gn:country":"KI",
     "gn:fcode":"PPL",
-    "gn:pop":107,
+    "gn:population":107,
     "iso:country":"KI",
+    "lbl:bbox":"173.04285,0.93956,173.08285,0.97956",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.0,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "qs:name":"Toora Village",
     "qs:photos_9r":0,
     "qs:photos_sr":0,
@@ -30,7 +34,7 @@
     "wof:concordances":{
         "gn:id":7576842,
         "gp:id":12514189,
-        "qs:id":108007,
+        "qs_pg:id":108007,
         "wk:page":"Toora, Victoria"
     },
     "wof:country":"KI",
@@ -43,7 +47,7 @@
         }
     ],
     "wof:id":890429667,
-    "wof:lastmodified":1527792789,
+    "wof:lastmodified":1566727660,
     "wof:name":"Toora Village",
     "wof:parent_id":-1,
     "wof:placetype":"locality",

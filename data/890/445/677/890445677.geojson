@@ -11,10 +11,14 @@
     "geom:longitude":173.41495,
     "gn:country":"KI",
     "gn:fcode":"PPL",
-    "gn:pop":199,
+    "gn:population":199,
     "iso:country":"KI",
+    "lbl:bbox":"173.39495,0.19498,173.43495,0.23498",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.0,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":11.0,
     "name:eng_x_preferred":[
         "Buariki"
     ],
@@ -36,7 +40,7 @@
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":7576745,
-        "qs:id":693274,
+        "qs_pg:id":693274,
         "wd:id":"Q4982119",
         "wk:page":"Buariki (Tarawa village)"
     },
@@ -50,7 +54,7 @@
         }
     ],
     "wof:id":890445677,
-    "wof:lastmodified":1563322009,
+    "wof:lastmodified":1566727662,
     "wof:name":"Buariki Village",
     "wof:parent_id":-1,
     "wof:placetype":"locality",

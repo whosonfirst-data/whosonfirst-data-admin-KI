@@ -11,11 +11,14 @@
     "geom:longitude":173.91622,
     "gn:country":"KI",
     "gn:fcode":"PPLX",
-    "gn:pop":369,
+    "gn:population":369,
     "iso:country":"KI",
+    "lbl:bbox":"173.91122,0.40368,173.92122,0.41368",
+    "lbl:max_zoom":18.0,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
-    "name:unk_x_variant":[
+    "mz:min_zoom":15.0,
+    "name:und_x_variant":[
         "SIDNEY WW2"
     ],
     "qs:name":"Binoinano",
@@ -29,7 +32,7 @@
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":2110239,
-        "qs:id":572053
+        "qs_pg:id":572053
     },
     "wof:country":"KI",
     "wof:created":1469050988,
@@ -41,7 +44,7 @@
         }
     ],
     "wof:id":890413089,
-    "wof:lastmodified":1505343412,
+    "wof:lastmodified":1566727656,
     "wof:name":"Binoinano",
     "wof:parent_id":-1,
     "wof:placetype":"neighbourhood",

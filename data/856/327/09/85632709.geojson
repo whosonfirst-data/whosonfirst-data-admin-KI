@@ -20,6 +20,8 @@
     ],
     "lbl:latitude":1.828988,
     "lbl:longitude":-157.373327,
+    "lbl:max_zoom":8.0,
+    "lbl:min_zoom":4.0,
     "mps:latitude":1.828988,
     "mps:longitude":-157.373327,
     "mz:hierarchy_label":1,
@@ -677,7 +679,7 @@
     "name:ukr_x_variant":[
         "\u041a\u0456\u0440\u0456\u0431\u0430\u0442\u0456"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Kiribasi"
     ],
     "name:urd_x_preferred":[
@@ -822,7 +824,7 @@
     "src:geom_alt":[
         "naturalearth"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"wk",
     "statoids:dial":"686",
     "statoids:ds":"",
@@ -842,7 +844,6 @@
     "wd:longitude":173.033333,
     "wd:population":102351,
     "wd:wordcount":7840,
-    "wof:belongs_to":[],
     "wof:belongsto":[
         102191583
     ],
@@ -867,7 +868,7 @@
         "mzb:id":"kiribati",
         "ne:adm0_a3":"KIR",
         "nyt:id":"24115675514233298751",
-        "qs:id":1289462,
+        "qs_pg:id":1289462,
         "wd:id":"Q710",
         "wk:page":"Kiribati",
         "wmo:id":"KB"
@@ -890,7 +891,7 @@
         "eng",
         "gil"
     ],
-    "wof:lastmodified":1565725140,
+    "wof:lastmodified":1566727654,
     "wof:name":"Kiribati",
     "wof:parent_id":102191583,
     "wof:placetype":"country",

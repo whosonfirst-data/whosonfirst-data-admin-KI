@@ -11,10 +11,13 @@
     "geom:longitude":172.984,
     "gn:country":"KI",
     "gn:fcode":"ADM2",
-    "gn:pop":45989,
+    "gn:population":45989,
     "iso:country":"KI",
+    "lbl:max_zoom":10.0,
+    "lbl:min_zoom":8.0,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":6.0,
     "name:ara_x_preferred":[
         "\u062a\u0627\u0631\u0627\u0648\u0627"
     ],
@@ -231,7 +234,7 @@
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":7521611,
-        "qs:id":689647,
+        "qs_pg:id":689647,
         "wd:id":"Q2486",
         "wk:page":"Tarawa"
     },
@@ -245,7 +248,7 @@
         }
     ],
     "wof:id":890445649,
-    "wof:lastmodified":1563322007,
+    "wof:lastmodified":1566727662,
     "wof:name":"Tarawa",
     "wof:parent_id":-1,
     "wof:placetype":"county",

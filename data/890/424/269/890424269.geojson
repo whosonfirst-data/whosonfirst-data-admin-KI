@@ -11,10 +11,14 @@
     "geom:longitude":175.52548,
     "gn:country":"KI",
     "gn:fcode":"PPL",
-    "gn:pop":164,
+    "gn:population":164,
     "iso:country":"KI",
+    "lbl:bbox":"175.50548,-1.82065,175.54548,-1.78065",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.0,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":11.0,
     "name:cat_x_preferred":[
         "Onotoa"
     ],
@@ -103,7 +107,7 @@
     "wof:concordances":{
         "gn:id":7576349,
         "gp:id":12514197,
-        "qs:id":693239,
+        "qs_pg:id":693239,
         "wd:id":"Q576865",
         "wk:page":"Onotoa"
     },
@@ -117,7 +121,7 @@
         }
     ],
     "wof:id":890424269,
-    "wof:lastmodified":1563321957,
+    "wof:lastmodified":1566727658,
     "wof:name":"Tekawa Village",
     "wof:parent_id":-1,
     "wof:placetype":"locality",

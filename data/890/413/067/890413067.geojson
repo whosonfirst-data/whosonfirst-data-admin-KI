@@ -11,11 +11,15 @@
     "geom:longitude":175.06819,
     "gn:country":"KI",
     "gn:fcode":"PPL",
-    "gn:pop":168,
+    "gn:population":168,
     "iso:country":"KI",
+    "lbl:bbox":"175.04819,-1.50223,175.08819,-1.46223",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.0,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
-    "name:unk_x_variant":[
+    "mz:min_zoom":11.0,
+    "name:und_x_variant":[
         "Nutoru"
     ],
     "qs:name":"Nikutoru Village",
@@ -31,7 +35,7 @@
     "wof:concordances":{
         "gn:id":2110157,
         "gp:id":12514197,
-        "qs:id":572030,
+        "qs_pg:id":572030,
         "wk:page":"Buariki (Tabiteuea)"
     },
     "wof:country":"KI",
@@ -44,7 +48,7 @@
         }
     ],
     "wof:id":890413067,
-    "wof:lastmodified":1527727173,
+    "wof:lastmodified":1566727657,
     "wof:name":"Nikutoru Village",
     "wof:parent_id":-1,
     "wof:placetype":"locality",

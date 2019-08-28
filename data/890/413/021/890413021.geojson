@@ -11,10 +11,14 @@
     "geom:longitude":173.25847,
     "gn:country":"KI",
     "gn:fcode":"PPL",
-    "gn:pop":116,
+    "gn:population":116,
     "iso:country":"KI",
+    "lbl:bbox":"173.23847,2.01535,173.27847,2.05535",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.0,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "name:pol_x_preferred":[
         "Temotu"
     ],
@@ -33,7 +37,7 @@
     "wof:concordances":{
         "gn:id":2110041,
         "gp:id":12514194,
-        "qs:id":571991,
+        "qs_pg:id":571991,
         "wk:page":"Temotu, Tuvalu"
     },
     "wof:country":"KI",
@@ -48,7 +52,7 @@
         }
     ],
     "wof:id":890413021,
-    "wof:lastmodified":1564181187,
+    "wof:lastmodified":1566727657,
     "wof:name":"Temotu Village",
     "wof:parent_id":85681277,
     "wof:placetype":"locality",

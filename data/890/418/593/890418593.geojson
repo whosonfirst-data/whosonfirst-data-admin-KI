@@ -11,10 +11,14 @@
     "geom:longitude":173.4195,
     "gn:country":"KI",
     "gn:fcode":"PPL",
-    "gn:pop":111,
+    "gn:population":111,
     "iso:country":"KI",
+    "lbl:bbox":"173.3995,0.18237,173.4395,0.22237",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.0,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":11.0,
     "name:ceb_x_preferred":[
         "Kuria"
     ],
@@ -93,7 +97,7 @@
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":7576767,
-        "qs:id":693281,
+        "qs_pg:id":693281,
         "wd:id":"Q1139401",
         "wk:page":"Kuria (islands)"
     },
@@ -107,7 +111,7 @@
         }
     ],
     "wof:id":890418593,
-    "wof:lastmodified":1563321987,
+    "wof:lastmodified":1566727661,
     "wof:name":"Bouatoa Village",
     "wof:parent_id":-1,
     "wof:placetype":"locality",

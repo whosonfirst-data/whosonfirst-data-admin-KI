@@ -16,6 +16,7 @@
     ],
     "lbl:latitude":1.820437,
     "lbl:longitude":-157.384577,
+    "lbl:min_zoom":8.0,
     "mps:latitude":1.820437,
     "mps:longitude":-157.384577,
     "mz:hierarchy_label":1,
@@ -624,8 +625,7 @@
     "qs:type":"Admin-1 aggregation",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
-    "wof:belongs_to":[],
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         102191583,
         85632709
@@ -636,7 +636,7 @@
         "gn:id":0,
         "gp:id":23424867,
         "hasc:id":"KI",
-        "qs:id":1289462
+        "qs_pg:id":1289462
     },
     "wof:country":"KI",
     "wof:geomhash":"142eb20a937283b4ecbc4b00a4ec22e0",
@@ -656,7 +656,7 @@
         "eng",
         "gil"
     ],
-    "wof:lastmodified":1565725140,
+    "wof:lastmodified":1566727654,
     "wof:name":"Kiribati",
     "wof:parent_id":85632709,
     "wof:placetype":"region",

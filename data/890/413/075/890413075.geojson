@@ -11,10 +11,14 @@
     "geom:longitude":174.72788,
     "gn:country":"KI",
     "gn:fcode":"PPL",
-    "gn:pop":814,
+    "gn:population":814,
     "iso:country":"KI",
+    "lbl:bbox":"174.70788,-1.198,174.74788,-1.158",
+    "lbl:max_zoom":17.0,
+    "lbl:min_zoom":12.5,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "name:ace_x_preferred":[
         "South Tarawa"
     ],
@@ -244,7 +248,7 @@
     "wof:concordances":{
         "gn:id":2110221,
         "gp:id":12514197,
-        "qs:id":572047,
+        "qs_pg:id":572047,
         "wk:page":"South Tarawa"
     },
     "wof:country":"KI",
@@ -257,7 +261,7 @@
         }
     ],
     "wof:id":890413075,
-    "wof:lastmodified":1564181187,
+    "wof:lastmodified":1566727657,
     "wof:name":"Eita Village",
     "wof:parent_id":-1,
     "wof:placetype":"locality",

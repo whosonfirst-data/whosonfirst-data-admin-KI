@@ -11,10 +11,14 @@
     "geom:longitude":175.9876,
     "gn:country":"KI",
     "gn:fcode":"PPL",
-    "gn:pop":152,
+    "gn:population":152,
     "iso:country":"KI",
+    "lbl:bbox":"175.9676,-2.53001,176.0076,-2.49001",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.0,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":11.0,
     "qs:name":"Bakarawa Village",
     "qs:photos_9r":0,
     "qs:photos_sr":0,
@@ -29,7 +33,7 @@
     "wof:concordances":{
         "gn:id":7576338,
         "gp:id":12514198,
-        "qs:id":693238
+        "qs_pg:id":693238
     },
     "wof:country":"KI",
     "wof:created":1469051537,
@@ -43,7 +47,7 @@
         }
     ],
     "wof:id":890424267,
-    "wof:lastmodified":1505343480,
+    "wof:lastmodified":1566727658,
     "wof:name":"Bakarawa Village",
     "wof:parent_id":85681277,
     "wof:placetype":"locality",

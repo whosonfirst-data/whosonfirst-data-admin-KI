@@ -11,10 +11,14 @@
     "geom:longitude":176.81625,
     "gn:country":"KI",
     "gn:fcode":"PPL",
-    "gn:pop":492,
+    "gn:population":492,
     "iso:country":"KI",
+    "lbl:bbox":"176.79625,-2.65211,176.83625,-2.61211",
+    "lbl:max_zoom":17.0,
+    "lbl:min_zoom":12.5,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "name:ara_x_preferred":[
         "\u062a\u0627\u0645\u0627\u0631\u0648\u0627"
     ],
@@ -72,7 +76,7 @@
     "wof:concordances":{
         "gn:id":2110086,
         "gp:id":12514198,
-        "qs:id":572005,
+        "qs_pg:id":572005,
         "wk:page":"Tamaroa, Illinois"
     },
     "wof:country":"KI",
@@ -87,7 +91,7 @@
         }
     ],
     "wof:id":890453481,
-    "wof:lastmodified":1564181191,
+    "wof:lastmodified":1566727659,
     "wof:name":"Tamaroa Village",
     "wof:parent_id":85681277,
     "wof:placetype":"locality",

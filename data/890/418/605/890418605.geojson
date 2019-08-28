@@ -11,10 +11,14 @@
     "geom:longitude":173.00394,
     "gn:country":"KI",
     "gn:fcode":"PPL",
-    "gn:pop":473,
+    "gn:population":473,
     "iso:country":"KI",
+    "lbl:bbox":"172.98394,0.85222,173.02394,0.89222",
+    "lbl:max_zoom":17.0,
+    "lbl:min_zoom":12.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":11.0,
     "name:bul_x_preferred":[
         "\u041c\u0430\u0438\u0430\u043d\u0430"
     ],
@@ -100,7 +104,7 @@
     "wof:concordances":{
         "gn:id":7576832,
         "gp:id":12514189,
-        "qs:id":693289,
+        "qs_pg:id":693289,
         "wd:id":"Q909742",
         "wk:page":"Maiana"
     },
@@ -114,7 +118,7 @@
         }
     ],
     "wof:id":890418605,
-    "wof:lastmodified":1563321990,
+    "wof:lastmodified":1566727661,
     "wof:name":"Bubutei Village",
     "wof:parent_id":-1,
     "wof:placetype":"locality",

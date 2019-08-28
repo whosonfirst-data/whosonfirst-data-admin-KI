@@ -11,10 +11,14 @@
     "geom:longitude":-157.48773,
     "gn:country":"KI",
     "gn:fcode":"PPL",
-    "gn:pop":1881,
+    "gn:population":1881,
     "iso:country":"KI",
+    "lbl:bbox":"-157.50773,1.99643,-157.46773,2.03643",
+    "lbl:max_zoom":16.0,
+    "lbl:min_zoom":12.0,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":11.0,
     "name:deu_x_preferred":[
         "Tabwakea"
     ],
@@ -51,7 +55,7 @@
     "wof:concordances":{
         "gn:id":7521902,
         "gp:id":12514192,
-        "qs:id":689666,
+        "qs_pg:id":689666,
         "wd:id":"Q7673655",
         "wk:page":"Tabwakea"
     },
@@ -67,7 +71,7 @@
         }
     ],
     "wof:id":890454363,
-    "wof:lastmodified":1563321969,
+    "wof:lastmodified":1566727659,
     "wof:name":"Tabwakea Village",
     "wof:parent_id":85681277,
     "wof:placetype":"locality",

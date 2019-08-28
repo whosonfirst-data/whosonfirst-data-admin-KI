@@ -9,15 +9,18 @@
     "geom:bbox":"175.98449,-1.33781,175.98449,-1.33781",
     "geom:latitude":-1.33781,
     "geom:longitude":175.98449,
-    "gn:gn_country":"KI",
-    "gn:gn_fcode":"PPL",
-    "gn:gn_pop":97,
+    "gn:country":"KI",
+    "gn:fcode":"PPL",
     "gn:population":97,
     "iso:country":"KI",
+    "lbl:bbox":"175.96449,-1.35781,176.00449,-1.31781",
     "lbl:latitude":-1.33781,
     "lbl:longitude":175.98449,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.0,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "mz:note":"Quattroshapes Point Gazetteer import 20170519",
     "name:eng_x_preferred":[
         "Tabukiniberu"
@@ -28,7 +31,7 @@
     "name:pol_x_preferred":[
         "Tabukiniberu"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Tabukinberu"
     ],
     "qs_pg:aaroncc":"KI",
@@ -43,7 +46,7 @@
     "qs_pg:qs_id":278006,
     "qs_pg:qs_pg_placetype":"locality",
     "src:geom":"qs_pg",
-    "src:lbl:centroid":"qs_pg",
+    "src:lbl_centroid":"qs_pg",
     "src:population":"geonames",
     "wof:belongsto":[],
     "wof:breaches":[],
@@ -64,7 +67,7 @@
         }
     ],
     "wof:id":1125781215,
-    "wof:lastmodified":1561778201,
+    "wof:lastmodified":1566727664,
     "wof:name":"Tabukiniberu Village",
     "wof:parent_id":-1,
     "wof:placetype":"locality",

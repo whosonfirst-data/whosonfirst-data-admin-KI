@@ -11,10 +11,14 @@
     "geom:longitude":173.09988,
     "gn:country":"KI",
     "gn:fcode":"PPL",
-    "gn:pop":391,
+    "gn:population":391,
     "iso:country":"KI",
+    "lbl:bbox":"173.07988,1.40301,173.11988,1.44301",
+    "lbl:max_zoom":17.0,
+    "lbl:min_zoom":12.5,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "name:ceb_x_preferred":[
         "Buariki"
     ],
@@ -43,7 +47,7 @@
     "wof:concordances":{
         "gn:id":2110106,
         "gp:id":12514189,
-        "qs:id":572016,
+        "qs_pg:id":572016,
         "wk:page":"Buariki"
     },
     "wof:country":"KI",
@@ -56,7 +60,7 @@
         }
     ],
     "wof:id":890438003,
-    "wof:lastmodified":1564181190,
+    "wof:lastmodified":1566727659,
     "wof:name":"Tabiteuea Village",
     "wof:parent_id":-1,
     "wof:placetype":"locality",

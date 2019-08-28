@@ -11,10 +11,14 @@
     "geom:longitude":176.41581,
     "gn:country":"KI",
     "gn:fcode":"PPL",
-    "gn:pop":240,
+    "gn:population":240,
     "iso:country":"KI",
+    "lbl:bbox":"176.39581,-1.34417,176.43581,-1.30417",
+    "lbl:max_zoom":17.0,
+    "lbl:min_zoom":12.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":11.0,
     "qs:name":"Muribenua Village",
     "qs:photos_9r":0,
     "qs:photos_sr":0,
@@ -27,7 +31,7 @@
     "wof:concordances":{
         "gn:id":2110174,
         "gp:id":12514195,
-        "qs:id":572032
+        "qs_pg:id":572032
     },
     "wof:country":"KI",
     "wof:created":1469052889,
@@ -39,7 +43,7 @@
         }
     ],
     "wof:id":890454175,
-    "wof:lastmodified":1505343655,
+    "wof:lastmodified":1566727659,
     "wof:name":"Muribenua Village",
     "wof:parent_id":-1,
     "wof:placetype":"locality",

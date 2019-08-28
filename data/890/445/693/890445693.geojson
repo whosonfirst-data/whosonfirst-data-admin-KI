@@ -11,10 +11,14 @@
     "geom:longitude":172.98559,
     "gn:country":"KI",
     "gn:fcode":"PPL",
-    "gn:pop":34,
+    "gn:population":34,
     "iso:country":"KI",
+    "lbl:bbox":"172.96559,1.53535,173.00559,1.57535",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.0,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":11.0,
     "qs:name":"Tebangaroi Village",
     "qs:photos_9r":0,
     "qs:photos_sr":0,
@@ -27,7 +31,7 @@
     "wof:concordances":{
         "gn:id":7577063,
         "gp:id":12514189,
-        "qs:id":693318
+        "qs_pg:id":693318
     },
     "wof:country":"KI",
     "wof:created":1469052519,
@@ -39,7 +43,7 @@
         }
     ],
     "wof:id":890445693,
-    "wof:lastmodified":1505343606,
+    "wof:lastmodified":1566727662,
     "wof:name":"Tebangaroi Village",
     "wof:parent_id":-1,
     "wof:placetype":"locality",

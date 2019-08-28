@@ -11,10 +11,14 @@
     "geom:longitude":172.99183,
     "gn:country":"KI",
     "gn:fcode":"PPL",
-    "gn:pop":203,
+    "gn:population":203,
     "iso:country":"KI",
+    "lbl:bbox":"172.97183,1.5288,173.01183,1.5688",
+    "lbl:max_zoom":17.0,
+    "lbl:min_zoom":12.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":11.0,
     "name:deu_x_preferred":[
         "North Tarawa"
     ],
@@ -30,7 +34,7 @@
     "name:jpn_x_preferred":[
         "\u30ce\u30fc\u30b9\u30fb\u30bf\u30e9\u30ef"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Taritai"
     ],
     "qs:name":"Taratai Village",
@@ -46,7 +50,7 @@
     "wof:concordances":{
         "gn:id":2110076,
         "gp:id":12514189,
-        "qs:id":571999,
+        "qs_pg:id":571999,
         "wd:id":"Q15647452",
         "wk:page":"North Tarawa"
     },
@@ -60,7 +64,7 @@
         }
     ],
     "wof:id":890413039,
-    "wof:lastmodified":1563321936,
+    "wof:lastmodified":1566727656,
     "wof:name":"Taratai Village",
     "wof:parent_id":-1,
     "wof:placetype":"locality",
