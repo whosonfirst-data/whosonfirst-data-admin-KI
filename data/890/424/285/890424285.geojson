@@ -42,6 +42,9 @@
     },
     "wof:country":"KI",
     "wof:created":1469051538,
+    "wof:geom_alt":[
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"a1f6edeeebde0376853ca92cb06ba9de",
     "wof:hierarchy":[
         {
@@ -52,7 +55,7 @@
         }
     ],
     "wof:id":890424285,
-    "wof:lastmodified":1566727658,
+    "wof:lastmodified":1582346027,
     "wof:name":"Bairiki Town",
     "wof:parent_id":-1,
     "wof:placetype":"locality",

@@ -875,6 +875,10 @@
     },
     "wof:country":"KI",
     "wof:country_alpha3":"KIR",
+    "wof:geom_alt":[
+        "naturalearth",
+        "naturalearth-display-terrestrial-zoom6"
+    ],
     "wof:geomhash":"4b54449e0f7e1fa2d0c68af2e62d5085",
     "wof:hierarchy":[
         {
@@ -891,7 +895,7 @@
         "eng",
         "gil"
     ],
-    "wof:lastmodified":1566727654,
+    "wof:lastmodified":1582346026,
     "wof:name":"Kiribati",
     "wof:parent_id":102191583,
     "wof:placetype":"country",
