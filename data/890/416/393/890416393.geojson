@@ -389,6 +389,10 @@
     },
     "wof:country":"KI",
     "wof:created":1469051132,
+    "wof:geom_alt":[
+        "unknown",
+        "naturalearth"
+    ],
     "wof:geomhash":"0b7843a16b923c933ec66d2d242e2dc1",
     "wof:hierarchy":[
         {
@@ -397,7 +401,7 @@
         }
     ],
     "wof:id":890416393,
-    "wof:lastmodified":1566727661,
+    "wof:lastmodified":1582346027,
     "wof:name":"Tarawa",
     "wof:parent_id":-1,
     "wof:placetype":"locality",

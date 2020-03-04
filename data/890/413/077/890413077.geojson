@@ -60,6 +60,9 @@
     },
     "wof:country":"KI",
     "wof:created":1469050987,
+    "wof:geom_alt":[
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"80f4ea71a8963f5ad195d80f1ba815ae",
     "wof:hierarchy":[
         {
@@ -70,7 +73,7 @@
         }
     ],
     "wof:id":890413077,
-    "wof:lastmodified":1566727656,
+    "wof:lastmodified":1582346027,
     "wof:name":"Buota Village",
     "wof:parent_id":-1,
     "wof:placetype":"locality",
