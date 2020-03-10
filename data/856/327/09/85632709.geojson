@@ -853,9 +853,7 @@
     ],
     "wof:concordances":{
         "dbp:id":"Kiribati",
-        "digitalenvoy:country_code":[
-            296
-        ],
+        "digitalenvoy:country_code":296,
         "fb:id":"en.kiribati",
         "fifa:id":"KIR",
         "fips:code":"KR",
@@ -898,7 +896,7 @@
         "eng",
         "gil"
     ],
-    "wof:lastmodified":1583529171,
+    "wof:lastmodified":1583797377,
     "wof:name":"Kiribati",
     "wof:parent_id":102191583,
     "wof:placetype":"country",
