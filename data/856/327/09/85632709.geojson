@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.083291,
-    "geom:area_square_m":1028897103.489807,
+    "geom:area_square_m":1028897734.624555,
     "geom:bbox":"-174.54631,-11.445416,176.845383,4.725972",
     "geom:latitude":0.625967,
     "geom:longitude":-43.735335,
@@ -874,6 +874,9 @@
         "wk:page":"Kiribati",
         "wmo:id":"KB"
     },
+    "wof:coterminous":[
+        85681277
+    ],
     "wof:country":"KI",
     "wof:country_alpha3":"KIR",
     "wof:geom_alt":[
@@ -896,7 +899,7 @@
         "eng",
         "gil"
     ],
-    "wof:lastmodified":1583797377,
+    "wof:lastmodified":1607981055,
     "wof:name":"Kiribati",
     "wof:parent_id":102191583,
     "wof:placetype":"country",
