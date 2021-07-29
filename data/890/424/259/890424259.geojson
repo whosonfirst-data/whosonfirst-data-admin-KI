@@ -18,6 +18,9 @@
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
     "mz:min_zoom":6.0,
+    "name:fra_x_preferred":[
+        "Banaba"
+    ],
     "name:und_x_variant":[
         "Ocean Island"
     ],
@@ -48,7 +51,7 @@
         }
     ],
     "wof:id":890424259,
-    "wof:lastmodified":1566727657,
+    "wof:lastmodified":1627522287,
     "wof:name":"Banaba",
     "wof:parent_id":85681277,
     "wof:placetype":"county",

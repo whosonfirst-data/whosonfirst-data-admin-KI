@@ -24,6 +24,9 @@
     "name:deu_x_preferred":[
         "Beru"
     ],
+    "name:fra_x_preferred":[
+        "Beru"
+    ],
     "name:ind_x_preferred":[
         "Beru"
     ],
@@ -62,7 +65,7 @@
         }
     ],
     "wof:id":890424263,
-    "wof:lastmodified":1566727658,
+    "wof:lastmodified":1627522287,
     "wof:name":"Beru",
     "wof:parent_id":-1,
     "wof:placetype":"county",

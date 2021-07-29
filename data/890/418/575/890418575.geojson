@@ -69,6 +69,9 @@
     "name:fin_x_preferred":[
         "Kantoni"
     ],
+    "name:fra_x_preferred":[
+        "Canton"
+    ],
     "name:heb_x_preferred":[
         "\u05e7\u05e0\u05d8\u05d5\u05df"
     ],
@@ -163,7 +166,7 @@
         }
     ],
     "wof:id":890418575,
-    "wof:lastmodified":1566727661,
+    "wof:lastmodified":1627522287,
     "wof:name":"Kanton",
     "wof:parent_id":-1,
     "wof:placetype":"county",
