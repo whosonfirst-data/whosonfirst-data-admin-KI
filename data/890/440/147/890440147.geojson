@@ -19,7 +19,22 @@
     "mz:hierarchy_label":1,
     "mz:is_current":1,
     "mz:min_zoom":11.0,
+    "name:ara_x_preferred":[
+        "\u0628\u0648\u062a\u0627\u0631\u064a\u062a\u0627\u0631\u064a"
+    ],
+    "name:ben_x_preferred":[
+        "\u09ac\u09c1\u09a4\u09be\u09b0\u09bf\u09a4\u09be\u09b0\u09bf"
+    ],
     "name:eng_x_preferred":[
+        "Butaritari"
+    ],
+    "name:hin_x_preferred":[
+        "\u092c\u0941\u091f\u093e\u0930\u0940\u0924\u0930\u0940"
+    ],
+    "name:hun_x_preferred":[
+        "Butaritari"
+    ],
+    "name:ind_x_preferred":[
         "Butaritari"
     ],
     "name:nld_x_preferred":[
@@ -27,6 +42,15 @@
     ],
     "name:pol_x_preferred":[
         "Butaritari"
+    ],
+    "name:ukr_x_preferred":[
+        "\u0411\u0443\u0442\u0430\u0440\u0456\u0442\u0430\u0440\u0456"
+    ],
+    "name:urd_x_preferred":[
+        "\u0628\u0648\u0679\u0627\u0631\u06cc\u062a\u0627\u0631\u06cc"
+    ],
+    "name:vie_x_preferred":[
+        "\u0110\u1ea3o Butaritari"
     ],
     "qs:name":"Butaritari",
     "qs:photos_9r":0,
@@ -55,7 +79,7 @@
         }
     ],
     "wof:id":890440147,
-    "wof:lastmodified":1566727655,
+    "wof:lastmodified":1636500710,
     "wof:name":"Butaritari",
     "wof:parent_id":-1,
     "wof:placetype":"locality",

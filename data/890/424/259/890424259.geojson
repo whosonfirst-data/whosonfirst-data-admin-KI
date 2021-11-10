@@ -18,11 +18,23 @@
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
     "mz:min_zoom":6.0,
+    "name:ben_x_preferred":[
+        "\u09ac\u09be\u09a8\u09be\u09ac\u09be"
+    ],
     "name:fra_x_preferred":[
+        "Banaba"
+    ],
+    "name:hin_x_preferred":[
+        "\u092c\u0928\u093e\u092c\u093e"
+    ],
+    "name:hun_x_preferred":[
         "Banaba"
     ],
     "name:und_x_variant":[
         "Ocean Island"
+    ],
+    "name:urd_x_preferred":[
+        "\u0628\u0627\u0646\u0627\u0628\u0627"
     ],
     "qs:name":"Banaba",
     "qs:photos_9r":0,
@@ -51,7 +63,7 @@
         }
     ],
     "wof:id":890424259,
-    "wof:lastmodified":1627522287,
+    "wof:lastmodified":1636500710,
     "wof:name":"Banaba",
     "wof:parent_id":85681277,
     "wof:placetype":"county",

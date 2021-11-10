@@ -85,6 +85,9 @@
         "Tabuaeran"
     ],
     "name:rus_x_preferred":[
+        "\u0430\u0442\u043e\u043b\u043b \u0422\u0430\u0431\u0443\u0430\u044d\u0440\u0430\u043d"
+    ],
+    "name:rus_x_variant":[
         "\u0422\u0430\u0431\u0443\u0430\u044d\u0440\u0430\u043d"
     ],
     "name:spa_x_preferred":[
@@ -98,6 +101,18 @@
     ],
     "name:ukr_x_preferred":[
         "\u0422\u0430\u0431\u0443\u0430\u0435\u0440\u0430\u043d"
+    ],
+    "name:urd_x_preferred":[
+        "\u062a\u0627\u0628\u0648\u0627\u06cc\u0631\u0627\u0646"
+    ],
+    "name:vie_x_preferred":[
+        "\u0110\u1ea3o Tabuaeran"
+    ],
+    "name:zho_cn_x_preferred":[
+        "\u5854\u5e03\u963f\u57c3\u5170\u73af\u7901"
+    ],
+    "name:zho_tw_x_preferred":[
+        "\u5854\u5e03\u57c3\u862d\u5cf6"
     ],
     "name:zho_x_preferred":[
         "\u5854\u5e03\u963f\u57c3\u862d\u74b0\u7901"
@@ -128,7 +143,7 @@
         }
     ],
     "wof:id":890445643,
-    "wof:lastmodified":1566727662,
+    "wof:lastmodified":1636500711,
     "wof:name":"Tabuaeran",
     "wof:parent_id":-1,
     "wof:placetype":"county",

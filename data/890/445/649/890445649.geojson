@@ -205,6 +205,9 @@
         "\u0422\u0430\u0440\u0430\u0432\u0430"
     ],
     "name:urd_x_preferred":[
+        "\u0679\u0627\u0631\u0627\u0648\u0627"
+    ],
+    "name:urd_x_variant":[
         "\u062a\u0627\u0631\u0627\u0648\u0627"
     ],
     "name:uzb_x_preferred":[
@@ -248,7 +251,7 @@
         }
     ],
     "wof:id":890445649,
-    "wof:lastmodified":1566727662,
+    "wof:lastmodified":1636500711,
     "wof:name":"Tarawa",
     "wof:parent_id":-1,
     "wof:placetype":"county",

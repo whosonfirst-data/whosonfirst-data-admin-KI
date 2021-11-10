@@ -733,8 +733,14 @@
     "name:zha_x_preferred":[
         "Kiribati"
     ],
+    "name:zho_cn_x_preferred":[
+        "\u57fa\u91cc\u5df4\u65af"
+    ],
     "name:zho_min_nan_x_preferred":[
         "Kiribati"
+    ],
+    "name:zho_tw_x_preferred":[
+        "\u5409\u91cc\u5df4\u65af"
     ],
     "name:zho_x_preferred":[
         "\u57fa\u91cc\u5df4\u65af"
@@ -964,7 +970,7 @@
         "eng",
         "gil"
     ],
-    "wof:lastmodified":1617827491,
+    "wof:lastmodified":1636500709,
     "wof:name":"Kiribati",
     "wof:parent_id":102191583,
     "wof:placetype":"country",
