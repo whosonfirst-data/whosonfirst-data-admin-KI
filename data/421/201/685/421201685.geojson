@@ -35,6 +35,9 @@
     "name:epo_x_preferred":[
         "Londono"
     ],
+    "name:fas_x_preferred":[
+        "\u0644\u0646\u062f\u0646"
+    ],
     "name:fra_x_preferred":[
         "London"
     ],
@@ -65,10 +68,16 @@
     "name:lzh_x_preferred":[
         "\u502b\u6566"
     ],
+    "name:nan_x_preferred":[
+        "London"
+    ],
     "name:nld_x_preferred":[
         "London"
     ],
     "name:pol_x_preferred":[
+        "London"
+    ],
+    "name:por_x_preferred":[
         "London"
     ],
     "name:rus_x_preferred":[
@@ -127,7 +136,7 @@
         }
     ],
     "wof:id":421201685,
-    "wof:lastmodified":1636500709,
+    "wof:lastmodified":1690938142,
     "wof:name":"London",
     "wof:parent_id":-1,
     "wof:placetype":"locality",

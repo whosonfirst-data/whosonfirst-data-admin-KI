@@ -25,6 +25,9 @@
     "name:fra_x_preferred":[
         "Giriama"
     ],
+    "name:jpn_x_preferred":[
+        "\u30ae\u30ea\u30a2\u30de"
+    ],
     "name:rus_x_preferred":[
         "\u0413\u0438\u0440\u044c\u044f\u043c\u0430"
     ],
@@ -60,7 +63,7 @@
         }
     ],
     "wof:id":890418599,
-    "wof:lastmodified":1566727661,
+    "wof:lastmodified":1690938164,
     "wof:name":"Kauma Village",
     "wof:parent_id":-1,
     "wof:placetype":"locality",

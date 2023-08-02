@@ -22,8 +22,17 @@
     "name:eng_x_preferred":[
         "Bah\u00e1'\u00ed Faith in Kiribati"
     ],
+    "name:ita_x_preferred":[
+        "Bahai nelle Kiribati"
+    ],
+    "name:rus_x_preferred":[
+        "\u0431\u0430\u0445\u0430\u0438 \u0432 \u041a\u0438\u0440\u0438\u0431\u0430\u0442\u0438"
+    ],
     "name:spa_x_preferred":[
         "Baha\u00edsmo en Kiribati"
+    ],
+    "name:spa_x_variant":[
+        "Fe bah\u00e1'\u00ed en Kiribati"
     ],
     "qs:name":"Tenatorua Village",
     "qs:photos_9r":0,
@@ -52,7 +61,7 @@
         }
     ],
     "wof:id":890451687,
-    "wof:lastmodified":1566727663,
+    "wof:lastmodified":1690938171,
     "wof:name":"Tenatorua Village",
     "wof:parent_id":-1,
     "wof:placetype":"locality",

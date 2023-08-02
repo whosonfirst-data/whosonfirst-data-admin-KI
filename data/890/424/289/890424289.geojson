@@ -31,11 +31,20 @@
     "name:ara_x_preferred":[
         "\u062c\u0646\u0648\u0628 \u062a\u0627\u0631\u0627\u0648\u0627"
     ],
+    "name:arz_x_preferred":[
+        "\u062c\u0646\u0648\u0628 \u062a\u0627\u0631\u0627\u0648\u0627"
+    ],
+    "name:ast_x_preferred":[
+        "South Tarawa"
+    ],
     "name:aze_x_preferred":[
         "C\u0259nubi Tarava"
     ],
     "name:bel_x_preferred":[
         "\u0413\u043e\u0440\u0430\u0434 \u041f\u0430\u045e\u0434\u043d\u0451\u0432\u0430\u044f \u0422\u0430\u0440\u0430\u0432\u0430"
+    ],
+    "name:bel_x_variant":[
+        "\u041f\u0430\u045e\u0434\u043d\u0451\u0432\u0430\u044f \u0422\u0430\u0440\u0430\u0432\u0430"
     ],
     "name:ben_x_preferred":[
         "\u09a6\u0995\u09cd\u09b7\u09bf\u09a3 \u09a4\u09be\u09b0\u09be\u0993\u09af\u09bc\u09be"
@@ -97,6 +106,9 @@
     "name:gla_x_preferred":[
         "South Tarawa"
     ],
+    "name:gle_x_preferred":[
+        "Tarawa Theas"
+    ],
     "name:glg_x_preferred":[
         "Tarawa Sur"
     ],
@@ -105,6 +117,9 @@
     ],
     "name:hak_x_preferred":[
         "N\u00e0m Tarawa"
+    ],
+    "name:hau_x_preferred":[
+        "Tarawa ta Kudu"
     ],
     "name:heb_x_preferred":[
         "\u05d3\u05e8\u05d5\u05dd \u05d8\u05d0\u05e8\u05d0\u05d5\u05d5\u05d4"
@@ -181,6 +196,9 @@
     "name:oci_x_preferred":[
         "Tarawa Sud"
     ],
+    "name:oss_x_preferred":[
+        "\u0425\u0443\u0441\u0441\u0430\u0440 \u0422\u0430\u0440\u0430\u0432\u00e6"
+    ],
     "name:pan_x_preferred":[
         "\u0a26\u0a71\u0a16\u0a23\u0a40 \u0a24\u0a30\u0a3e\u0a35\u0a3e"
     ],
@@ -211,6 +229,9 @@
     "name:sqi_x_preferred":[
         "South Tarawa"
     ],
+    "name:srd_x_preferred":[
+        "Tarawa Sud"
+    ],
     "name:srp_x_preferred":[
         "\u0408\u0443\u0436\u043d\u0430 \u0422\u0430\u0440\u0430\u0432\u0430"
     ],
@@ -225,6 +246,9 @@
     ],
     "name:tel_x_preferred":[
         "\u0c26\u0c15\u0c4d\u0c37\u0c3f\u0c23 \u0c24\u0c30\u0c3e\u0c35\u0c3e"
+    ],
+    "name:tgk_x_preferred":[
+        "\u0422\u0430\u0440\u0430\u0432\u0430\u0438 \u04b6\u0430\u043d\u0443\u0431\u04e3"
     ],
     "name:tgl_x_preferred":[
         "Timog Tarawa"
@@ -246,6 +270,12 @@
     ],
     "name:war_x_preferred":[
         "Salatan Tarawa"
+    ],
+    "name:wuu_x_preferred":[
+        "\u5357\u5854\u62c9\u74e6"
+    ],
+    "name:xmf_x_preferred":[
+        "\u10dd\u10d1\u10df\u10d0\u10d7\u10d4 \u10e2\u10d0\u10e0\u10d0\u10d5\u10d0"
     ],
     "name:yue_x_preferred":[
         "\u5357\u9054\u7dad\u83ef"
@@ -280,7 +310,7 @@
         }
     ],
     "wof:id":890424289,
-    "wof:lastmodified":1566727657,
+    "wof:lastmodified":1690938151,
     "wof:name":"Nanikai Village",
     "wof:parent_id":-1,
     "wof:placetype":"locality",

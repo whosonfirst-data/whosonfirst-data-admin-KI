@@ -37,6 +37,9 @@
     "name:epo_x_preferred":[
         "Maiana"
     ],
+    "name:est_x_preferred":[
+        "Maiana"
+    ],
     "name:fas_x_preferred":[
         "\u0645\u0627\u06cc\u0627\u0646\u0627"
     ],
@@ -91,6 +94,9 @@
     "name:zho_x_preferred":[
         "\u99ac\u4e9e\u7d0d\u74b0\u7901"
     ],
+    "name:zho_x_variant":[
+        "\u9081\u4e9e\u7d0d\u74b0\u7901"
+    ],
     "qs:name":"Raweai Village",
     "qs:photos_9r":0,
     "qs:photos_sr":0,
@@ -118,7 +124,7 @@
         }
     ],
     "wof:id":890418607,
-    "wof:lastmodified":1566727661,
+    "wof:lastmodified":1690938165,
     "wof:name":"Raweai Village",
     "wof:parent_id":-1,
     "wof:placetype":"locality",

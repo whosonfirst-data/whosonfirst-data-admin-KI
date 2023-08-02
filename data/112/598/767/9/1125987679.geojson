@@ -28,7 +28,13 @@
     "name:ceb_x_preferred":[
         "Rungata"
     ],
+    "name:deu_x_preferred":[
+        "Rungata"
+    ],
     "name:eng_x_preferred":[
+        "Rungata"
+    ],
+    "name:fra_x_preferred":[
         "Rungata"
     ],
     "name:nld_x_preferred":[
@@ -36,6 +42,9 @@
     ],
     "name:pol_x_preferred":[
         "Rungata"
+    ],
+    "name:rus_x_preferred":[
+        "\u0420\u0443\u043d\u0433\u0430\u0442\u0430"
     ],
     "name:swe_x_preferred":[
         "Rungata"
@@ -76,7 +85,7 @@
         }
     ],
     "wof:id":1125987679,
-    "wof:lastmodified":1566727663,
+    "wof:lastmodified":1690938172,
     "wof:name":"Rungata",
     "wof:parent_id":-1,
     "wof:placetype":"locality",

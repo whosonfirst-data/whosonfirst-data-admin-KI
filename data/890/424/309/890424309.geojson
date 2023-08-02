@@ -19,6 +19,9 @@
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
     "mz:min_zoom":11.0,
+    "name:deu_x_preferred":[
+        "Kiribati Uniting Church"
+    ],
     "name:eng_x_preferred":[
         "Kiribati Uniting Church"
     ],
@@ -27,6 +30,18 @@
     ],
     "name:fra_x_preferred":[
         "Kiribati Uniting Church"
+    ],
+    "name:ita_x_preferred":[
+        "Kiribati Uniting Church"
+    ],
+    "name:por_x_preferred":[
+        "Kiribati Uniting Church"
+    ],
+    "name:spa_x_preferred":[
+        "Kiribati Uniting Church"
+    ],
+    "name:vec_x_preferred":[
+        "Ceza Unia del Kiribati"
     ],
     "qs:name":"Tangintebu Village",
     "qs:photos_9r":0,
@@ -55,7 +70,7 @@
         }
     ],
     "wof:id":890424309,
-    "wof:lastmodified":1566727657,
+    "wof:lastmodified":1690938150,
     "wof:name":"Tangintebu Village",
     "wof:parent_id":-1,
     "wof:placetype":"locality",
