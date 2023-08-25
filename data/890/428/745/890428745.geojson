@@ -22,7 +22,13 @@
     "name:ceb_x_preferred":[
         "Takarano Village"
     ],
+    "name:deu_x_preferred":[
+        "Takarano"
+    ],
     "name:eng_x_preferred":[
+        "Takarano"
+    ],
+    "name:fra_x_preferred":[
         "Takarano"
     ],
     "name:nld_x_preferred":[
@@ -61,7 +67,7 @@
         }
     ],
     "wof:id":890428745,
-    "wof:lastmodified":1566727660,
+    "wof:lastmodified":1690938160,
     "wof:name":"Takarano Village",
     "wof:parent_id":-1,
     "wof:placetype":"locality",

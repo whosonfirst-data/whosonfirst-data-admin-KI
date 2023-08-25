@@ -19,8 +19,17 @@
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
     "mz:min_zoom":11.0,
+    "name:cat_x_preferred":[
+        "Makin"
+    ],
     "name:ceb_x_preferred":[
         "Makin Island"
+    ],
+    "name:ceb_x_variant":[
+        "Makin"
+    ],
+    "name:ces_x_preferred":[
+        "Makin"
     ],
     "name:dan_x_preferred":[
         "Makin"
@@ -32,6 +41,12 @@
         "\u039c\u03b1\u03ba\u03af\u03bd \u039d\u03ae\u03c3\u03bf\u03c2"
     ],
     "name:eng_x_preferred":[
+        "Makin"
+    ],
+    "name:est_x_preferred":[
+        "Makin"
+    ],
+    "name:fao_x_preferred":[
         "Makin"
     ],
     "name:fas_x_preferred":[
@@ -48,6 +63,9 @@
     ],
     "name:ita_x_preferred":[
         "Isole Makin"
+    ],
+    "name:ita_x_variant":[
+        "Makin"
     ],
     "name:jpn_x_preferred":[
         "\u30de\u30ad\u30f3\u5cf6"
@@ -118,7 +136,7 @@
         }
     ],
     "wof:id":890451697,
-    "wof:lastmodified":1566727663,
+    "wof:lastmodified":1690938172,
     "wof:name":"Makin Village",
     "wof:parent_id":-1,
     "wof:placetype":"locality",

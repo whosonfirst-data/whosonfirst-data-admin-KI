@@ -19,16 +19,34 @@
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
     "mz:min_zoom":11.0,
+    "name:ara_x_preferred":[
+        "\u062f\u0631\u0627\u063a\u0648\u0646 \u0628\u0648\u0644 \u0625\u0641\u0648\u0644\u0648\u0634\u064a\u0646"
+    ],
+    "name:arz_x_preferred":[
+        "\u062f\u0631\u0627\u062c\u0648\u0646 \u0628\u0648\u0644 \u0627\u0641\u0648\u0644\u0648\u0634\u064a\u0646"
+    ],
     "name:ast_x_preferred":[
         "Dragonball Evolution"
     ],
     "name:ben_x_preferred":[
         "\u09a1\u09cd\u09b0\u09cd\u09af\u09be\u0997\u09a8\u09ac\u09b2 \u0987\u09ad\u09cb\u09b2\u09cd\u09af\u09c1\u09b6\u09a8"
     ],
+    "name:cat_x_preferred":[
+        "Dragonball Evolution"
+    ],
+    "name:ceb_x_preferred":[
+        "Dragonball Evolution"
+    ],
+    "name:cym_x_preferred":[
+        "Esblygiad Dragonball"
+    ],
     "name:dan_x_preferred":[
         "Dragonball: Evolution"
     ],
     "name:deu_x_preferred":[
+        "Dragonball Evolution"
+    ],
+    "name:ell_x_preferred":[
         "Dragonball Evolution"
     ],
     "name:eng_x_preferred":[
@@ -82,6 +100,9 @@
     "name:ron_x_preferred":[
         "Dragonball: Evolu\u021bie"
     ],
+    "name:ron_x_variant":[
+        "Dragonball: Evolu\u021bia"
+    ],
     "name:rus_x_preferred":[
         "\u0414\u0440\u0430\u043a\u043e\u043d\u0438\u0439 \u0436\u0435\u043c\u0447\u0443\u0433: \u042d\u0432\u043e\u043b\u044e\u0446\u0438\u044f"
     ],
@@ -96,6 +117,12 @@
     ],
     "name:tha_x_preferred":[
         "\u0e14\u0e23\u0e32\u0e01\u0e49\u0e2d\u0e19\u0e1a\u0e2d\u0e25 \u0e2d\u0e35\u0e42\u0e27\u0e25\u0e39\u0e0a\u0e31\u0e48\u0e19 \u0e40\u0e1b\u0e34\u0e14\u0e15\u0e33\u0e19\u0e32\u0e19\u0e43\u0e2b\u0e21\u0e48 \u0e19\u0e31\u0e01\u0e2a\u0e39\u0e49\u0e01\u0e39\u0e49\u0e42\u0e25\u0e01"
+    ],
+    "name:tur_x_preferred":[
+        "Ejder Topu: Evrim"
+    ],
+    "name:ukr_x_preferred":[
+        "\u041f\u0435\u0440\u043b\u0438\u043d\u0438 \u0434\u0440\u0430\u043a\u043e\u043d\u0430: \u0415\u0432\u043e\u043b\u044e\u0446\u0456\u044f"
     ],
     "name:vie_x_preferred":[
         "Dragonball Evolution"
@@ -133,7 +160,7 @@
         }
     ],
     "wof:id":890422437,
-    "wof:lastmodified":1566727655,
+    "wof:lastmodified":1690938143,
     "wof:name":"Eriko Village",
     "wof:parent_id":-1,
     "wof:placetype":"locality",

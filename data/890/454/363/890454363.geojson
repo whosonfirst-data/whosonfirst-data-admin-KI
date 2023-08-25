@@ -25,6 +25,9 @@
     "name:eng_x_preferred":[
         "Tabwakea"
     ],
+    "name:fas_x_preferred":[
+        "\u062a\u0627\u0628\u0648\u0627\u06a9\u0626\u0627"
+    ],
     "name:fra_x_preferred":[
         "Tabwakea"
     ],
@@ -37,7 +40,13 @@
     "name:nld_x_preferred":[
         "Tabwakea"
     ],
+    "name:pol_x_preferred":[
+        "Tabwakea"
+    ],
     "name:por_x_preferred":[
+        "Tabwakea"
+    ],
+    "name:spa_x_preferred":[
         "Tabwakea"
     ],
     "qs:name":"Tabwakea Village",
@@ -71,7 +80,7 @@
         }
     ],
     "wof:id":890454363,
-    "wof:lastmodified":1566727659,
+    "wof:lastmodified":1690938156,
     "wof:name":"Tabwakea Village",
     "wof:parent_id":85681277,
     "wof:placetype":"locality",

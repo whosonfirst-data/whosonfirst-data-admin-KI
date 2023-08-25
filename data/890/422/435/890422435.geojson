@@ -19,8 +19,17 @@
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
     "mz:min_zoom":11.0,
+    "name:bel_x_preferred":[
+        "\u0411\u0443\u0442\u0430\u0440\u044b\u0442\u0430\u0440\u044b"
+    ],
+    "name:cat_x_preferred":[
+        "Butaritari"
+    ],
     "name:ceb_x_preferred":[
         "Butaritari Atoll"
+    ],
+    "name:ces_x_preferred":[
+        "Butaritari"
     ],
     "name:deu_x_preferred":[
         "Butaritari"
@@ -32,6 +41,12 @@
         "Butaritari"
     ],
     "name:epo_x_preferred":[
+        "Butaritari"
+    ],
+    "name:est_x_preferred":[
+        "Butaritari"
+    ],
+    "name:fao_x_preferred":[
         "Butaritari"
     ],
     "name:fas_x_preferred":[
@@ -121,7 +136,7 @@
         }
     ],
     "wof:id":890422435,
-    "wof:lastmodified":1566727655,
+    "wof:lastmodified":1690938144,
     "wof:name":"Keuea Village",
     "wof:parent_id":-1,
     "wof:placetype":"locality",

@@ -25,6 +25,9 @@
     "name:ceb_x_preferred":[
         "Onotoa"
     ],
+    "name:ces_x_preferred":[
+        "Onotoa"
+    ],
     "name:deu_x_preferred":[
         "Onotoa"
     ],
@@ -32,6 +35,12 @@
         "\u039f\u03bd\u03bf\u03c4\u03cc\u03b1"
     ],
     "name:eng_x_preferred":[
+        "Onotoa"
+    ],
+    "name:est_x_preferred":[
+        "Onotoa"
+    ],
+    "name:fao_x_preferred":[
         "Onotoa"
     ],
     "name:fas_x_preferred":[
@@ -121,7 +130,7 @@
         }
     ],
     "wof:id":890424271,
-    "wof:lastmodified":1566727658,
+    "wof:lastmodified":1690938153,
     "wof:name":"Temao Village",
     "wof:parent_id":-1,
     "wof:placetype":"locality",

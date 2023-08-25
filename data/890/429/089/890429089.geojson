@@ -24,6 +24,9 @@
     "name:ceb_x_preferred":[
         "Onotoa"
     ],
+    "name:ces_x_preferred":[
+        "Onotoa"
+    ],
     "name:deu_x_preferred":[
         "Onotoa"
     ],
@@ -31,6 +34,12 @@
         "\u039f\u03bd\u03bf\u03c4\u03cc\u03b1"
     ],
     "name:eng_x_preferred":[
+        "Onotoa"
+    ],
+    "name:est_x_preferred":[
+        "Onotoa"
+    ],
+    "name:fao_x_preferred":[
         "Onotoa"
     ],
     "name:fas_x_preferred":[
@@ -119,7 +128,7 @@
         }
     ],
     "wof:id":890429089,
-    "wof:lastmodified":1566727660,
+    "wof:lastmodified":1690938161,
     "wof:name":"Onotoa",
     "wof:parent_id":-1,
     "wof:placetype":"county",

@@ -21,6 +21,9 @@
     "name:ara_x_preferred":[
         "\u062a\u0627\u0631\u0627\u0648\u0627"
     ],
+    "name:arz_x_preferred":[
+        "\u062a\u0627\u0631\u0627\u0648\u0627"
+    ],
     "name:ast_x_preferred":[
         "Tarawa"
     ],
@@ -38,6 +41,9 @@
     ],
     "name:bos_x_preferred":[
         "Tarawa"
+    ],
+    "name:bul_x_preferred":[
+        "\u0422\u0430\u0440\u0430\u0443\u0430"
     ],
     "name:cat_x_preferred":[
         "Tarawa"
@@ -141,6 +147,9 @@
     "name:msa_x_preferred":[
         "Tarawa"
     ],
+    "name:nep_x_preferred":[
+        "\u0924\u093e\u0930\u093e\u0935\u093e"
+    ],
     "name:nld_x_preferred":[
         "Tarawa"
     ],
@@ -155,6 +164,9 @@
     ],
     "name:por_x_preferred":[
         "Tarawa"
+    ],
+    "name:pus_x_preferred":[
+        "\u062a\u0627\u0631\u0627\u0648\u0627"
     ],
     "name:rus_x_preferred":[
         "\u0422\u0430\u0440\u0430\u0432\u0430"
@@ -219,6 +231,9 @@
     "name:war_x_preferred":[
         "Tarawa"
     ],
+    "name:wuu_x_preferred":[
+        "\u5854\u62c9\u74e6\u73af\u7901"
+    ],
     "name:yue_x_preferred":[
         "\u9054\u7dad\u83ef"
     ],
@@ -251,7 +266,7 @@
         }
     ],
     "wof:id":890445649,
-    "wof:lastmodified":1636500711,
+    "wof:lastmodified":1690938169,
     "wof:name":"Tarawa",
     "wof:parent_id":-1,
     "wof:placetype":"county",

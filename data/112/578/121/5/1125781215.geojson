@@ -22,7 +22,13 @@
     "mz:is_current":1,
     "mz:min_zoom":11.0,
     "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:deu_x_preferred":[
+        "Tabukiniberu"
+    ],
     "name:eng_x_preferred":[
+        "Tabukiniberu"
+    ],
+    "name:fra_x_preferred":[
         "Tabukiniberu"
     ],
     "name:nld_x_preferred":[
@@ -67,7 +73,7 @@
         }
     ],
     "wof:id":1125781215,
-    "wof:lastmodified":1566727664,
+    "wof:lastmodified":1690938172,
     "wof:name":"Tabukiniberu Village",
     "wof:parent_id":-1,
     "wof:placetype":"locality",

@@ -25,6 +25,9 @@
     "name:ceb_x_preferred":[
         "Takaeang"
     ],
+    "name:deu_x_preferred":[
+        "Takaeang"
+    ],
     "name:eng_x_preferred":[
         "Takaeang"
     ],
@@ -75,7 +78,7 @@
         }
     ],
     "wof:id":890429781,
-    "wof:lastmodified":1566727660,
+    "wof:lastmodified":1690938162,
     "wof:name":"Takaeang Village",
     "wof:parent_id":-1,
     "wof:placetype":"locality",

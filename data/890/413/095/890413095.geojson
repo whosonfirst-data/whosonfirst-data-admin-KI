@@ -22,6 +22,9 @@
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
     "mz:min_zoom":11.0,
+    "name:arz_x_preferred":[
+        "\u0645\u0627\u0631\u0627\u0643\u0649"
+    ],
     "name:bul_x_preferred":[
         "\u041c\u0430\u0440\u0430\u043a\u0435\u0438"
     ],
@@ -35,6 +38,9 @@
         "\u039c\u03b1\u03c1\u03b1\u03ba\u03ad\u03b9"
     ],
     "name:eng_x_preferred":[
+        "Marakei"
+    ],
+    "name:est_x_preferred":[
         "Marakei"
     ],
     "name:fas_x_preferred":[
@@ -73,6 +79,9 @@
     "name:nld_x_preferred":[
         "Marakei"
     ],
+    "name:pol_x_preferred":[
+        "Marakei"
+    ],
     "name:por_x_preferred":[
         "Marakei"
     ],
@@ -87,6 +96,9 @@
     ],
     "name:tur_x_preferred":[
         "Marakei"
+    ],
+    "name:ukr_x_preferred":[
+        "\u041c\u0430\u0440\u0430\u043a\u0435\u0457"
     ],
     "name:und_x_variant":[
         "Baretoa"
@@ -121,7 +133,7 @@
         }
     ],
     "wof:id":890413095,
-    "wof:lastmodified":1566727657,
+    "wof:lastmodified":1690938148,
     "wof:name":"Baretoa Village",
     "wof:parent_id":-1,
     "wof:placetype":"locality",
