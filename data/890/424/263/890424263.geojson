@@ -13,6 +13,12 @@
     "gn:fcode":"ADM2",
     "gn:population":2169,
     "iso:country":"KI",
+    "label:eng_x_preferred_longname":[
+        "Beru Council"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "council"
+    ],
     "lbl:max_zoom":10.0,
     "lbl:min_zoom":8.0,
     "mz:hierarchy_label":1,
@@ -22,6 +28,9 @@
         "Beru"
     ],
     "name:deu_x_preferred":[
+        "Beru"
+    ],
+    "name:eng_x_preferred":[
         "Beru"
     ],
     "name:fra_x_preferred":[
@@ -57,7 +66,7 @@
     },
     "wof:country":"KI",
     "wof:created":1469051536,
-    "wof:geomhash":"a6f2d039047bd725c10ee6f6b0271464",
+    "wof:geomhash":"4cb38c61250f433ff50f4655b2b015fc",
     "wof:hierarchy":[
         {
             "country_id":85632709,
@@ -65,7 +74,7 @@
         }
     ],
     "wof:id":890424263,
-    "wof:lastmodified":1627522287,
+    "wof:lastmodified":1694497770,
     "wof:name":"Beru",
     "wof:parent_id":-1,
     "wof:placetype":"county",

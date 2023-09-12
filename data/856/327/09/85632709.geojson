@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.083291,
-    "geom:area_square_m":1028897734.624555,
+    "geom:area_square_m":1028897734.624572,
     "geom:bbox":"-174.54631,-11.445416,176.845383,4.725972",
     "geom:latitude":0.625967,
     "geom:longitude":-43.735335,
@@ -14,6 +14,9 @@
     "iso:country":"KI",
     "itu:country_code":[
         "686"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "country"
     ],
     "label:eng_x_preferred_shortcode":[
         "KI"
@@ -985,7 +988,8 @@
         "naturalearth"
     ],
     "src:lbl_centroid":"mapshaper",
-    "src:population":"wk",
+    "src:population":"naturalearth",
+    "src:population_year":"2019",
     "statoids:dial":"686",
     "statoids:ds":"",
     "statoids:fifa":"KIR",
@@ -1044,7 +1048,7 @@
         "naturalearth",
         "naturalearth-display-terrestrial-zoom6"
     ],
-    "wof:geomhash":"7ae7208c36197bb1e9c2e9d551792afa",
+    "wof:geomhash":"720d8fb169507a535dd9f2a93fdb8cef",
     "wof:hierarchy":[
         {
             "continent_id":102191583,
@@ -1060,12 +1064,12 @@
         "eng",
         "gil"
     ],
-    "wof:lastmodified":1690938142,
+    "wof:lastmodified":1694492215,
     "wof:name":"Kiribati",
     "wof:parent_id":102191583,
     "wof:placetype":"country",
-    "wof:population":102351,
-    "wof:population_rank":9,
+    "wof:population":117606,
+    "wof:population_rank":18,
     "wof:repo":"whosonfirst-data-admin-ki",
     "wof:shortcode":"KI",
     "wof:superseded_by":[],

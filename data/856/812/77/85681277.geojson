@@ -5,12 +5,18 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.07474,
-    "geom:area_square_m":923020284.921804,
+    "geom:area_square_m":923020284.921999,
     "geom:bbox":"-172.229604,-11.461114,176.850922,4.72309",
     "geom:latitude":0.804548,
     "geom:longitude":-47.737559,
     "gn:id":"",
     "iso:country":"KI",
+    "label:eng_x_preferred_longname":[
+        "Kiribati"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "statistical gore"
+    ],
     "label:eng_x_preferred_shortcode":[
         "KI"
     ],
@@ -651,7 +657,7 @@
         85632709
     ],
     "wof:country":"KI",
-    "wof:geomhash":"5935398bf1b4f97e269cdc0445a28374",
+    "wof:geomhash":"133b0bf922c992a10a456ce3c041ce1c",
     "wof:hierarchy":[
         {
             "continent_id":102191583,
@@ -668,7 +674,7 @@
         "eng",
         "gil"
     ],
-    "wof:lastmodified":1636500709,
+    "wof:lastmodified":1694493128,
     "wof:name":"Kiribati",
     "wof:parent_id":85632709,
     "wof:placetype":"region",

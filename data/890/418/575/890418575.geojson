@@ -13,6 +13,12 @@
     "gn:fcode":"ADM2",
     "gn:population":41,
     "iso:country":"KI",
+    "label:eng_x_preferred_longname":[
+        "Kanton Council"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "council"
+    ],
     "lbl:max_zoom":10.0,
     "lbl:min_zoom":8.0,
     "mz:hierarchy_label":1,
@@ -59,6 +65,9 @@
     ],
     "name:ell_x_preferred":[
         "\u039a\u03b1\u03bd\u03c4\u03cc\u03bd\u03b9"
+    ],
+    "name:eng_x_preferred":[
+        "Kanton"
     ],
     "name:epo_x_preferred":[
         "Kantono"
@@ -158,7 +167,7 @@
     },
     "wof:country":"KI",
     "wof:created":1469051253,
-    "wof:geomhash":"ce6b0295264a5feee36e640f69c8f49a",
+    "wof:geomhash":"f1419a1904c779c8f9552310cdab4297",
     "wof:hierarchy":[
         {
             "country_id":85632709,
@@ -166,7 +175,7 @@
         }
     ],
     "wof:id":890418575,
-    "wof:lastmodified":1627522287,
+    "wof:lastmodified":1694498051,
     "wof:name":"Kanton",
     "wof:parent_id":-1,
     "wof:placetype":"county",
