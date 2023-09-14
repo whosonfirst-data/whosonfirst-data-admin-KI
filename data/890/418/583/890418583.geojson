@@ -13,6 +13,12 @@
     "gn:fcode":"ADM2",
     "gn:population":2385,
     "iso:country":"KI",
+    "label:eng_x_preferred_longname":[
+        "Makin Council"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "council"
+    ],
     "lbl:max_zoom":10.0,
     "lbl:min_zoom":8.0,
     "mz:hierarchy_label":1,
@@ -22,6 +28,9 @@
         "Makin"
     ],
     "name:deu_x_preferred":[
+        "Makin"
+    ],
+    "name:eng_x_preferred":[
         "Makin"
     ],
     "name:fra_x_preferred":[
@@ -56,7 +65,7 @@
     },
     "wof:country":"KI",
     "wof:created":1469051253,
-    "wof:geomhash":"c83e64a89f545ea47554371d9c8a2a48",
+    "wof:geomhash":"79f4d5a28b8437274203e6982297045e",
     "wof:hierarchy":[
         {
             "country_id":85632709,
@@ -64,7 +73,7 @@
         }
     ],
     "wof:id":890418583,
-    "wof:lastmodified":1627522287,
+    "wof:lastmodified":1694498051,
     "wof:name":"Makin",
     "wof:parent_id":-1,
     "wof:placetype":"county",

@@ -13,6 +13,12 @@
     "gn:fcode":"ADM2",
     "gn:population":5115,
     "iso:country":"KI",
+    "label:eng_x_preferred_longname":[
+        "Kiritimati Council"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "council"
+    ],
     "lbl:max_zoom":10.0,
     "lbl:min_zoom":8.0,
     "mz:hierarchy_label":1,
@@ -231,7 +237,7 @@
     },
     "wof:country":"KI",
     "wof:created":1469051253,
-    "wof:geomhash":"07a8ec524f3b7faeeb3ab0fdabd31e8d",
+    "wof:geomhash":"fb03d889da8b0bab77874adeccafe0c4",
     "wof:hierarchy":[
         {
             "country_id":85632709,
@@ -239,7 +245,7 @@
         }
     ],
     "wof:id":890418577,
-    "wof:lastmodified":1690938166,
+    "wof:lastmodified":1694497771,
     "wof:name":"Kiritimati",
     "wof:parent_id":-1,
     "wof:placetype":"county",

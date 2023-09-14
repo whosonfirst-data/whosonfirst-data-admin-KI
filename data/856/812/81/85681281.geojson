@@ -5,11 +5,14 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.004915,
-    "geom:area_square_m":60625966.962702,
+    "geom:area_square_m":60626334.022127,
     "geom:bbox":"-174.543406,-10.009861,174.245779,0.405829",
     "geom:latitude":-2.674961,
     "geom:longitude":-7.382457,
     "iso:country":"KI",
+    "label:eng_x_preferred_placetype":[
+        "statistical gore"
+    ],
     "lbl:latitude":0.360009,
     "lbl:longitude":173.942139,
     "lbl:min_zoom":8.0,
@@ -46,7 +49,7 @@
     "wof:breaches":[],
     "wof:concordances":{},
     "wof:country":"KI",
-    "wof:geomhash":"8899c35f71e996fda2453bc8607e60b1",
+    "wof:geomhash":"cab87d5b7808b1e2b92ee19af23d5315",
     "wof:hierarchy":[
         {
             "continent_id":102191583,
@@ -63,7 +66,7 @@
         "eng",
         "gil"
     ],
-    "wof:lastmodified":1627522287,
+    "wof:lastmodified":1694493127,
     "wof:name":"Minor islands of Kiribati",
     "wof:parent_id":85632709,
     "wof:placetype":"region",
