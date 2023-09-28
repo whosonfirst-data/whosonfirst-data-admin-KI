@@ -19,7 +19,7 @@
     "mps:latitude":0.360009,
     "mps:longitude":173.942139,
     "mz:hierarchy_label":0,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:is_funky":1,
     "mz:max_zoom":18.0,
     "mz:min_zoom":18.0,
@@ -47,7 +47,10 @@
         85632709
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "iso:code_pseudo":"KI"
+    },
+    "wof:concordances_official":"iso:code_pseudo",
     "wof:country":"KI",
     "wof:geomhash":"cab87d5b7808b1e2b92ee19af23d5315",
     "wof:hierarchy":[
@@ -66,7 +69,7 @@
         "eng",
         "gil"
     ],
-    "wof:lastmodified":1694493127,
+    "wof:lastmodified":1695884284,
     "wof:name":"Minor islands of Kiribati",
     "wof:parent_id":85632709,
     "wof:placetype":"region",
