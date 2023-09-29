@@ -1027,6 +1027,7 @@
         "hasc:id":"KI",
         "icao:code":"T3",
         "ioc:id":"KIR",
+        "iso:code":"KI",
         "itu:id":"KIR",
         "m49:code":"296",
         "marc:id":"gb",
@@ -1039,6 +1040,7 @@
         "wk:page":"Kiribati",
         "wmo:id":"KB"
     },
+    "wof:concordances_official":"iso:code",
     "wof:coterminous":[
         85681277
     ],
@@ -1064,7 +1066,7 @@
         "eng",
         "gil"
     ],
-    "wof:lastmodified":1694639668,
+    "wof:lastmodified":1695881328,
     "wof:name":"Kiribati",
     "wof:parent_id":102191583,
     "wof:placetype":"country",
