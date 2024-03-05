@@ -9,9 +9,23 @@
     "geom:bbox":"173.26007,2.01543,173.26007,2.01543",
     "geom:latitude":2.01543,
     "geom:longitude":173.26007,
+    "gn:admin1_code":"1.0",
+    "gn:admin2_code":"ME",
+    "gn:asciiname":"Buota Village",
+    "gn:cc2":"KI",
     "gn:country":"KI",
+    "gn:country_code":"KI",
+    "gn:dem":10,
     "gn:fcode":"PPL",
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2110228,
+    "gn:latitude":2.01543,
+    "gn:longitude":173.26007,
+    "gn:modification_date":"2010-11-01",
+    "gn:name":"Buota Village",
     "gn:population":259,
+    "gn:timezone":"Pacific/Tarawa",
     "iso:country":"KI",
     "lbl:bbox":"173.24007,1.99543,173.28007,2.03543",
     "lbl:max_zoom":17.0,
@@ -56,7 +70,12 @@
         "wk:page":"North Tarawa"
     },
     "wof:concordances_alt":{
-        "qs_pg:id":693257
+        "gn:id":[
+            2110228
+        ],
+        "qs_pg:id":[
+            693257
+        ]
     },
     "wof:country":"KI",
     "wof:created":1469050987,
@@ -73,7 +92,7 @@
         }
     ],
     "wof:id":890413077,
-    "wof:lastmodified":1582346027,
+    "wof:lastmodified":1706240323,
     "wof:name":"Buota Village",
     "wof:parent_id":-1,
     "wof:placetype":"locality",
@@ -81,7 +100,9 @@
     "wof:population_rank":2,
     "wof:repo":"whosonfirst-data-admin-ki",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        1209328925
+    ],
     "wof:tags":[]
 },
   "bbox": [
